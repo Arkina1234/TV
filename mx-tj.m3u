@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0 tvg-chno="1" tvg-id="" tvg-logo="",XHJK-TDT
+https://v-sd.mybtv.net/live/760.m3u8
+#EXTINF:0 tvg-chno="1" tvg-id="" tvg-logo="",XHJK-TDT-2
+https://v-sd.mybtv.net/live/484.m3u8
+#EXTINF:0 tvg-chno="3" tvg-id="" tvg-logo="",XHCTTI-TDT
+https://v-sd.mybtv.net/live/485.m3u8
+#EXTINF:0 tvg-chno="3" tvg-id="" tvg-logo="",XHCTTI-TDT-2
+https://v-sd.mybtv.net/live/539.m3u8
+#EXTINF:0 tvg-chno="6" tvg-id="" tvg-logo="",XETV-TDT
+https://v-sd.mybtv.net/live/486.m3u8
+#EXTINF:0 tvg-chno="11" tvg-id="" tvg-logo="",XHTJB-TDT
+https://v-sd.mybtv.net/live/495.m3u8
+#EXTINF:0 tvg-chno="11" tvg-id="" tvg-logo="",XHTJB-TDT-2
+https://v-sd.mybtv.net/live/496.m3u8
+#EXTINF:0 tvg-chno="12" tvg-id="" tvg-logo="",XEWT-TDT
+https://v-sd.mybtv.net/live/497.m3u8
+#EXTINF:0 tvg-chno="16" tvg-id="" tvg-logo="",XETV-TDT
+https://v-sd.mybtv.net/live/761.m3u8
+#EXTINF:0 tvg-chno="19" tvg-id="" tvg-logo="",XHUAA-TDT-2
+https://v-sd.mybtv.net/live/762.m3u8
+#EXTINF:0 tvg-chno="21" tvg-id="" tvg-logo="",XHTIT-TDT
+https://v-sd.mybtv.net/live/502.m3u8
+#EXTINF:0 tvg-chno="21" tvg-id="" tvg-logo="",XHTIT-TDT-2
+https://v-sd.mybtv.net/live/503.m3u8
+#EXTINF:0 tvg-chno="33" tvg-id="" tvg-logo="",XHAS-TDT
+https://v-sd.mybtv.net/live/508.m3u8
+#EXTINF:0 tvg-chno="45" tvg-id="" tvg-logo="",XHBJ-TDT
+https://v-sd.mybtv.net/live/515.m3u8
+#EXTINF:0 tvg-chno="49" tvg-id="" tvg-logo="",XHDTV-TDT
+https://v-sd.mybtv.net/live/521.m3u8
