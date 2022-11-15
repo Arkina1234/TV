@@ -1,20 +1,32 @@
-Cleveland OH: TV20
+#EXTINF:-1,Boston MA: Boston City TV
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/channel/UCImopNmmU11qfuWBbiXdowQ/live
+#EXTINF:-1,Boston MA: Boston City Council TV
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/channel/UCvM_2-HUTqwKkcQvLVRcMJw/live
+#EXTINF:-1,Pittsburgh PA: City Channel Pittsburgh
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/pittsburgh/G0794_001/playlist.m3u8
+#EXTINF:-1,Washington DC: DCC
+http://video.oct.dc.gov/out/u/DCC.m3u8
+#EXTINF:-1,Cleveland OH: TV20
 https://ctyclevelandtv20.secure.footprint.net/egress/bhandler/ctyclevelandtv20/streama/manifest.m3u8
-Indianapolis IN: Channel 16
+#EXTINF:-1,Indianapolis IN: Channel 16
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/indianapolis/G0248_005/playlist.m3u8
-Indianapolis IN: TV2
+#EXTINF:-1,Indianapolis IN: TV2
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/indianapolis/G0248_006/playlist.m3u8
-Kentucky: KET Legislature Coverage 1
+#EXTINF:-1,Milwaukee WI: City Channel
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/milwaukee/G1066_002/playlist.m3u8
+#EXTINF:-1,Milwaukee WI: City Channel 2
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/milwaukee/G1066_003/playlist.m3u8
+#EXTINF:-1,Kentucky: KET Legislature Coverage 1
 https://2-fss-2.streamhoster.com/pl_130/amlst:200914-1282964/playlist.m3u8
-Kentucky: KET Legislature Coverage 2
+#EXTINF:-1,Kentucky: KET Legislature Coverage 2
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1282966/playlist.m3u8
-Nashville TN: Metro Nashville Network
+#EXTINF:-1,Nashville TN: Metro Nashville Network
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/nashville/G2157_002/playlist.m3u8
-Nashville TN: Metro Nashville Network 2
+#EXTINF:-1,Nashville TN: Metro Nashville Network 2
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/nashville/G2157_003/playlist.m3u8
-Twin Cities: Minneapolis City Council TV
+#EXTINF:-1,Twin Cities: Minneapolis City Council TV
 https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
-Des Moines IA: DMTV 7
+#EXTINF:-1,Des Moines IA: DMTV 7
 https://ctydesmoines.secure.footprint.net/egress/bhandler/ctydesmoines/streama/manifest.m3u8
-Kansas City MO: Channel 2
+#EXTINF:-1,Kansas City MO: Channel 2
 https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/user/KCMOCCO/live
