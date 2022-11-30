@@ -1,0 +1,10 @@
+#EXTINF:-1,Canal 22
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal22/
+#EXTINF:-1,Canal 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1,Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1,FOROtv
+https://channel02secure-onlymex.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1,Telefórmula
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
