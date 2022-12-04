@@ -17,7 +17,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
 #EXTINF:-1,LiveNOW from FOX
 https://lnc-fox-live-now.tubi.video/index.m3u8
-#EXTINF:-1,LOCALish
+#EXTINF:-1,Localish
 https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 #EXTINF:-1,LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -31,5 +31,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,Stadium
 https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://tastemadefreetv16-brightcove.amagi.tv/master.m3u8
 #EXTINF:-1,The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
