@@ -6,7 +6,7 @@ https://livestream.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1,Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1,Dabl
-https://cbsta49f-cbsta49f-ms.global.sslF.fastly.net/dable4hd.m3u8
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 #EXTINF:-1,FOX SOUL
 https://lnc-fox-soul-scte.tubi.video/index.m3u8
 #EXTINF:-1,FOX Weather
