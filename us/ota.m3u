@@ -17,7 +17,7 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,BizTV
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:-1,Canal de La Fe (KBEH 63.1)
+#EXTINF:-1,Canal de La Fe (KBEH)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e478039df74e43898cb010c7b76f468b/playlist.m3u8
 #EXTINF:-1,Classic Reruns TV
 https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
@@ -33,7 +33,7 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1,Fun Roads (KOFY-TV 20.8)
 https://2-fss-1.streamhoster.com/pl_154/amlst:206040-2698292/404/funroads404-20221206042940.ts
-#EXTINF:-1,God's Learning Channel (KMLM-DT 42.1)
+#EXTINF:-1,God's Learning Channel (KMLM-DT)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1,JRES TV (KBEH 63.3)
 https://5bff1bf18a887.streamlock.net/jrestv/jrestv/playlist.m3u8
@@ -41,27 +41,29 @@ https://5bff1bf18a887.streamlock.net/jrestv/jrestv/playlist.m3u8
 https://1189614805.rsc.cdn77.org/hls/bmt.m3u8
 #EXTINF:-1,K24LS-D 24.4
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1,K24LS-D 24.7
+https://ptwwntvrtmp.tulix.tv/output16/output16.stream/playlist.m3u8
 #EXTINF:-1,K32OJ-D
 http://tstv-stream.tsm.utexas.edu/hls/livestream.m3u8
-#EXTINF:-1,KCWX 2.1
+#EXTINF:-1,KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1,KET KY
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1,KRSU-TV 35.1
+#EXTINF:-1,KRSU-TV
 https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
-#EXTINF:-1,KQSL 8.1
+#EXTINF:-1,KQSL
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1,KTOO 360TV
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 #EXTINF:-1,KVVB-LD 33.1
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1,LIFE! (KSCE 38.1)
+#EXTINF:-1,LIFE! (KSCE)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1,Majestad TV (KDOC-TV 56.5)
 https://5b3050bb1b2d8.streamlock.net:443/majestadtv/majestadtv/playlist.m3u8
-#EXTINF:-1,Mariavision (WFTT-TV 62.1)
+#EXTINF:-1,Mariavision (WFTT-TV)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
 #EXTINF:-1,Mega TV (WSBS-TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
@@ -70,7 +72,7 @@ https://d2jalth387y2js.cloudfront.net/test.m3u8
 #EXTINF:-1,Ministerio Apostólico (KDOC-TV 56.9)
 https://5bff1bf18a887.streamlock.net/dedioseselpodertv/dedioseselpodertv/playlist.m3u8
 #EXTINF:-1,NewsNet
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+https://cdnendpoint001.noisypeak.com/25042334/content/playlist.m3u8
 #EXTINF:-1,NOTV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1,Novelisima
@@ -79,15 +81,23 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 #EXTINF:-1,The Ohio Channel
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
+#EXTINF:-1,Orange (WSWF-LD 10.2)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1,Pocono Television (WDPN-TV 2.8)
+https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
 #EXTINF:-1,SuperChannel Orlando (WACX)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
 #EXTINF:-1,Vida Cristiana (KSCE 38.2)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1,Vision (WSWF-LD 10.2)
+http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
 #EXTINF:-1,W14DK-D
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1,W14DK-D 14.4
 https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
 #EXTINF:-1,WBQP-CD 12.1
 https://live-mcl.cdn01.net/web/o2a2f283v/playlist.m3u8
+#EXTINF:-1,WHIG-CD 31.q
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/72b9b345a2ce4e9291957ff609cbb9f3/playlist.m3u8
 #EXTINF:-1,YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
