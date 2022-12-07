@@ -36,7 +36,7 @@ https://api.wecandeo.com/live/cast.m3u8?k=NyhQhishGs1X1zipHkpYZrK2qZZLNZ5U4XLDBl
 #EXTINF:-1,Classic Reruns TV
 https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
 #EXTINF:-1,CMC (KUKR-LD 27.3)
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BDID%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D
+https://cmc-ono.amagi.tv/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BDID%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D
 #EXTINF:-1,CMC-USA (KUKR-LD 27.2)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1,CRTV
