@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1,AABC Armenian (KIIO-LD 10.4)
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1,América TeVé (WJAN-CD)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1,AMGA TV (KIIO-LD 10.6)
+https://streamer1.connectto.com/AMGA_WEB_1202/index.m3u8
+#EXTINF:-1,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1,ARTN (KIIO-LD 10.2)
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1,AssyriaSat (KBSV)
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1,Atlanta's 57 WATC
@@ -9,6 +17,8 @@ https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1,AVA (KJLA 57.7)
+https://media.streambrothers.com:1936/ava/ava/playlist.m3u8
 #EXTINF:-1,Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1,Beach TV Florida & Alabama
@@ -17,10 +27,22 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,BizTV
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1,Blues Television Network (KUKR-LD 27.5)
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1,Canal de La Fe (KBEH)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e478039df74e43898cb010c7b76f468b/playlist.m3u8
+#EXTINF:-1,CGNTV (KXLA 30.9)
+https://api.wecandeo.com/live/cast.m3u8?k=NyhQhishGs1X1zipHkpYZrK2qZZLNZ5U4XLDBl0iiEVAIvtVwlzuzzeisAieie
 #EXTINF:-1,Classic Reruns TV
 https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
+#EXTINF:-1,CMC (KUKR-LD 27.3)
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BDID%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D
+#EXTINF:-1,CMC-USA (KUKR-LD 27.2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1,CRTV
+https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/crt-h264.m3u8
+#EXTINF:-1,The Dove (KDOV-LD 18.1)
+https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1,DSN (WBOC-TV 16.2)
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
 #EXTINF:-1,EMT Media TV (KNET-CD)
@@ -32,9 +54,11 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
 #EXTINF:-1,The Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1,Fun Roads (KOFY-TV 20.8)
-https://2-fss-1.streamhoster.com/pl_154/amlst:206040-2698292/404/funroads404-20221206042940.ts
+https://2-fss-1.streamhoster.com/pl_154/amlst:206040-2698292/playlist.m3u8
 #EXTINF:-1,God's Learning Channel (KMLM-DT)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1,Horizon Armenian TV (KIIO-LD 10.3)
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1,JRES TV (KBEH 63.3)
 https://5bff1bf18a887.streamlock.net/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1,K21JQ-D
@@ -61,10 +85,14 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1,LIFE! (KSCE)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1,LSTV (KDOC-TV 56.10)
+https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 #EXTINF:-1,Majestad TV (KDOC-TV 56.5)
 https://5b3050bb1b2d8.streamlock.net:443/majestadtv/majestadtv/playlist.m3u8
 #EXTINF:-1,Mariavision (WFTT-TV)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
+#EXTINF:-1,MBC-D
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 #EXTINF:-1,Mega TV (WSBS-TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:-1,Michigan Learning Channel
@@ -77,6 +105,10 @@ https://cdnendpoint001.noisypeak.com/25042334/content/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1,Novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1,NTD TV East
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1,NTD TV West
+https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1,NUDU (KBPX-LD 46.3)
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 #EXTINF:-1,The Ohio Channel
@@ -85,10 +117,20 @@ https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1,Pocono Television (WDPN-TV 2.8)
 https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
+#EXTINF:-1,Saigon TV (KJLA 57.5)
+https://tna6.tulix.tv/live/8e66e65c933cf9dc61a35086b4e07364/63905950/vchannel2.m3u8
 #EXTINF:-1,SuperChannel Orlando (WACX)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+#EXTINF:-1,USArmenia TV (KIIO-LD 10.1)
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1,VBS (KJLA 57.6)
+https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1,VCAL TV (KJLA 57.12)
+https://59d39900ebfb8.streamlock.net/8472/8472/playlist.m3u8
 #EXTINF:-1,Vida Cristiana (KSCE 38.2)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1,VietSky (KJLA 57.4)
+https://api.new.livestream.com/accounts/27136431/events/8142772/live.m3u8
 #EXTINF:-1,Vision (WSWF-LD 10.2)
 http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
 #EXTINF:-1,W14DK-D
