@@ -1,55 +1,61 @@
 #EXTM3U
-#EXTINF:-1,ABC 7 New York
+#EXTINF:-1 group-title="News",ABC 7 New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1,ABC 7 Los Angeles
+#EXTINF:-1 group-title="News",ABC 7 Los Angeles
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1,ABC 7 Chicago
+#EXTINF:-1 group-title="News",ABC 7 Chicago
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:-1,ABC 7 Bay Area
+#EXTINF:-1 group-title="News",ABC 7 Bay Area
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1,6abc Philadelphia
+#EXTINF:-1 group-title="News",6abc Philadelphia
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1,ABC11 Durham
+#EXTINF:-1 group-title="News",ABC11 Durham
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1,ABC13 Houston
+#EXTINF:-1 group-title="News",ABC13 Houston
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:-1,ABC30 Fresno
+#EXTINF:-1 group-title="News",ABC30 Fresno
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
-#EXTINF:-1,CBS News New York
+#EXTINF:-1 group-title="News",CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1,CBS News Los Angeles
+#EXTINF:-1 group-title="News",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1,CBS News Chicago
+#EXTINF:-1 group-title="News",CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1,CBS News Pittsburgh
+#EXTINF:-1 group-title="News",CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1,CBS News Philly
+#EXTINF:-1 group-title="News",CBS News Philly
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1,CBS News Boston
+#EXTINF:-1 group-title="News",CBS News Boston
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1,CBS News Colorado
+#EXTINF:-1 group-title="News",CBS News Colorado
 https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1,CBS News Bay Area
+#EXTINF:-1 group-title="News",CBS News Bay Area
 https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1,CBS News Baltimore
+#EXTINF:-1 group-title="News",CBS News Baltimore
 https://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8
-#EXTINF:-1,CBS News Miami
+#EXTINF:-1 group-title="News",CBS News Miami
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1,CBS News Minnesota
+#EXTINF:-1 group-title="News",CBS News Minnesota
 https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1,CBS News DFW
+#EXTINF:-1 group-title="News",CBS News DFW
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1,CBS News Sacramento
+#EXTINF:-1 group-title="News",CBS News Sacramento
 https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
-#EXTINF:-1,WRAL News+
+#EXTINF:-1 group-title="News",WRAL News+
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
-#EXTINF:-1,WRAL Sports+
+#EXTINF:-1 group-title="Sports",WRAL Sports+
 https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
-#EXTINF:-1,WRAL Live DUALDoppler5000
+#EXTINF:-1 group-title="Weather & Radar",WCPO 9 First Warning Weather 24/7
+https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8
+#EXTINF:-1 group-title="Weather & Radar",WRAL Live DUALDoppler5000
 https://media-hls.wral.com/livehttporigin/_definst_/smil:encoder48-multi.smil/playlist.m3u8
-#EXTINF:-1,WILM-TV Wilmington Cam
+#EXTINF:-1 group-title="Weather & Radar",WSB-TV Weather
+https://amg00327-coxmediagroup-wsbweather-ono-m5pmh.amagi.tv/playlist/amg00327-coxmediagroup-wsbweather-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Miscellaneous",95.5 WSB+
+https://wsb-radio-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Miscellaneous",WILM-TV Wilmington Cam
 https://media-hls.wral.com/livehttporigin/_definst_/mp4:wilmington_hilton-957/playlist.m3u8
-#EXTINF:-1,WILM-TV Carolina Beach Cam
+#EXTINF:-1 group-title="Miscellaneous",WILM-TV Carolina Beach Cam
 https://media-hls.wral.com/livehttporigin/_definst_/mp4:carolina_beach-957/playlist.m3u8
 
 
