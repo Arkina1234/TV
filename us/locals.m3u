@@ -41,15 +41,33 @@ https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 group-title="News",CBS News Sacramento
 https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
+#EXTINF:-1 group-title="News",WSB Now
+https://amg00327-coxmediagroup-wsbnow-ono-02gud.amagi.tv/playlist/amg00327-coxmediagroup-wsbnow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",Boston 25 Now
+https://amg00327-coxmediagroup-wfxtnow-ono-00yau.amagi.tv/playlist/amg00327-coxmediagroup-wfxtnow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",WSOC Now
+https://amg00327-coxmediagroup-wsocnow-ono-pc8ki.amagi.tv/playlist/amg00327-coxmediagroup-wsocnow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",WHIO 7 Now
+https://amg00327-coxmediagroup-whionow-ono-rim4m.amagi.tv/playlist/amg00327-coxmediagroup-whionow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",Action News Jax Now
+https://amg00327-coxmediagroup-wjaxnow-ono-82fst.amagi.tv/playlist/amg00327-coxmediagroup-wjaxnow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",WFTV Now
+https://amg00327-coxmediagroup-wftvnow-ono-sz69p.amagi.tv/playlist/amg00327-coxmediagroup-wftvnow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",WPXI Now
+https://amg00327-coxmediagroup-wpxinow-ono-q47ee.amagi.tv/playlist/amg00327-coxmediagroup-wpxinow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",KIRO 7 Now
+https://amg00327-coxmediagroup-kironow-ono-zkqw3.amagi.tv/playlist/amg00327-coxmediagroup-kironow-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="News",WRAL News+
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 #EXTINF:-1 group-title="Sports",WRAL Sports+
 https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
 #EXTINF:-1 group-title="Weather & Radar",WCPO 9 First Warning Weather 24/7
 https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8
+#EXTINF:-1 group-title="Weather & Radar",WHIO Weather 24/7
+https://amg00327-coxmediagroup-whioweather-ono-2rh3i.amagi.tv/playlist/amg00327-coxmediagroup-whioweather-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Weather & Radar",WRAL Live DUALDoppler5000
 https://media-hls.wral.com/livehttporigin/_definst_/smil:encoder48-multi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Weather & Radar",WSB-TV Weather
+#EXTINF:-1 group-title="Weather & Radar",WSB-TV Weather 24/7
 https://amg00327-coxmediagroup-wsbweather-ono-m5pmh.amagi.tv/playlist/amg00327-coxmediagroup-wsbweather-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Miscellaneous",95.5 WSB+
 https://wsb-radio-ono.amagi.tv/playlist.m3u8
