@@ -75,10 +75,6 @@ https://web.wsls-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 #EXTINF:-1 group-title="Sports",BEK Sports 24/7
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Delmarva Sports Network
-https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
-#EXTINF:-1 group-title="Sports",WRAL Sports+
-https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
 #EXTINF:-1 group-title="Weather & Radar",KSAT Doppler Radar
 https://d32i1pf0uvtk5d.cloudfront.net/out/v1/877f1a0eafff46fcbfd2083e0949c411/index.m3u8
 #EXTINF:-1 group-title="Weather & Radar",Local 10 Live Traffic and Weather
