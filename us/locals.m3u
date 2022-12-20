@@ -57,10 +57,32 @@ https://amg00327-coxmediagroup-wftvnow-ono-sz69p.amagi.tv/playlist/amg00327-coxm
 https://amg00327-coxmediagroup-wpxinow-ono-q47ee.amagi.tv/playlist/amg00327-coxmediagroup-wpxinow-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="News",KIRO 7 Now
 https://amg00327-coxmediagroup-kironow-ono-zkqw3.amagi.tv/playlist/amg00327-coxmediagroup-kironow-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="News",News4JAX Plus
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Broadcast-Filler-WEB/index.m3u8
+#EXTINF:-1 group-title="News",Local 4+
+https://web.wdiv-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WDIV-Broadcast-Filler-Web/index.m3u8
+#EXTINF:-1 group-title="News",KPRC 2+
+https://web.kprc-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/KPRC-Broadcast-Filler-Web/index.m3u8
+#EXTINF:-1 group-title="News",News 6 Plus
+https://web.wkmg-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WKMG-Broadcast-Filler-Web/index.m3u8
+#EXTINF:-1 group-title="News",KSAT+
+https://web.ksat-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/KSAT-Broadcast-Filler-Web/index.m3u8
+#EXTINF:-1 group-title="News",Local 10+
+https://web.wplg-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WPLG-Broadcast-Filler-Web/index.m3u8
+#EXTINF:-1 group-title="News",WSLS
+https://web.wsls-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WSLS-Broadcast-Filler-WEB/index.m3u8
 #EXTINF:-1 group-title="News",WRAL News+
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 #EXTINF:-1 group-title="Sports",WRAL Sports+
 https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
+#EXTINF:-1 group-title="Weather & Radar",KSAT Doppler Radar
+https://d32i1pf0uvtk5d.cloudfront.net/out/v1/877f1a0eafff46fcbfd2083e0949c411/index.m3u8
+#EXTINF:-1 group-title="Weather & Radar",Local 10 Live Traffic and Weather
+https://d3h1t4lhkznuqb.cloudfront.net/out/v1/b97711676b3147adacb5805727a39fcd/index.m3u8
+#EXTINF:-1 group-title="Weather & Radar",NEWS 6 LIVE RADAR
+https://dpmbkjxrbkme0.cloudfront.net/out/v1/3838ededb67a46788ef768ebe02dc3ef/index.m3u8
+#EXTINF:-1 group-title="Weather & Radar",News4JAX Live Radar
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-RadarLoop-WEB/index.m3u8
 #EXTINF:-1 group-title="Weather & Radar",WCPO 9 First Warning Weather 24/7
 https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8
 #EXTINF:-1 group-title="Weather & Radar",WHIO Weather 24/7
@@ -69,12 +91,75 @@ https://amg00327-coxmediagroup-whioweather-ono-2rh3i.amagi.tv/playlist/amg00327-
 https://media-hls.wral.com/livehttporigin/_definst_/smil:encoder48-multi.smil/playlist.m3u8
 #EXTINF:-1 group-title="Weather & Radar",WSB-TV Weather 24/7
 https://amg00327-coxmediagroup-wsbweather-ono-m5pmh.amagi.tv/playlist/amg00327-coxmediagroup-wsbweather-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Webcam",Detroit Live Cam: Detroit Metro Airport
+https://d18j67ugtrocuq.cloudfront.net/out/v1/2767aec339144787926bd0322f72c6e9/index.m3u8
+#EXTINF:-1 group-title="Webcam",Detroit Live Cam: View of Detroit Riverfront
+https://drkqk7wnbkqnh.cloudfront.net/out/v1/8daa4679e8034ed9a5ee9f0d66461562/index.m3u8
+#EXTINF:-1 group-title="Webcam",Houston Live Cam: KPRC 2 Tower
+https://dmoat6iwvqw76.cloudfront.net/out/v1/0208117e53ce45b281d563e2032cb6e3/index.m3u8
+#EXTINF:-1 group-title="Webcam",Houston Live Cam: Miller Outdoor Theatre
+https://d27ycorlgimcb4.cloudfront.net/out/v1/cf16c2b761ca404097cb5525b154a714/index.m3u8
+#EXTINF:-1 group-title="Webcam",Houston Live Cam: San Felipe
+https://d7sr9inxz5v91.cloudfront.net/out/v1/b662d7c1eaba472eb25da8a90226fbf8/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Beach Cam
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-BeachCam-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Doctors Lake
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-DoctorsLake-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Guy Harvey Resort
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-GuyHarveyResortCam-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Holiday Marina
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-HolidayMarina-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: JAX Airport
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-JAXAirport-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Southbank
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-DowntownSkycam-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Riverside on TIAA Bank Building
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-RiversideSkycamTIAA-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: Reynolds Park
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-ReynoldsPark-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: St Augustine Downtown
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-StAugustineDowntown-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: TIAA Jaguars Stadium
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-TIAAJaguarsStadium-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Jacksonville Live Cam: World Golf Village
+https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Static-WorldGolfVillage-WEB/index.m3u8
+#EXTINF:-1 group-title="Webcam",Miami Live Cam: Downtown Miami
+https://d1jncuynwxt69e.cloudfront.net/out/v1/6977c08732f54a84bec3266e678d1df3/index.m3u8
+#EXTINF:-1 group-title="Webcam",Miami Live Cam: Fort Lauderdale
+https://d3r9powb6maa0g.cloudfront.net/out/v1/27810322525b485b9a3b8a55c70100ab/index.m3u8
+#EXTINF:-1 group-title="Webcam",Miami Live Cam: Hollywood Beach
+https://ds0gpwfg6wp66.cloudfront.net/out/v1/c56a695b950949389afc8bff394ff568/index.m3u8
+#EXTINF:-1 group-title="Webcam",Miami Live Cam: Key West
+https://d3dtli1uerjafk.cloudfront.net/out/v1/33b5cb5fc890480aa963dc1439e9122d/index.m3u8
+#EXTINF:-1 group-title="Webcam",Miami Live Cam: Mount Sinai
+https://d3pko8mnv7wkf6.cloudfront.net/out/v1/dd84069023594003bbdf2554db656e8d/index.m3u8
+#EXTINF:-1 group-title="Webcam",Miami Live Cam: Pembroke Park
+https://dw2czwr63x0r5.cloudfront.net/out/v1/3dfededbb3414d9386197284d62f159b/index.m3u8
+#EXTINF:-1 group-title="Webcam",Orlando Live Cam: Beach
+https://pubads.g.doubleclick.net/ssai/event/A4yJbAc6SPSFIp40DxoPTg/master.m3u8
+#EXTINF:-1 group-title="Webcam",Orlando Live Cam: Orlando Health
+https://pubads.g.doubleclick.net/ssai/event/Y0_flee7QJ-ONXWT5xA3hA/master.m3u8
+#EXTINF:-1 group-title="Webcam",Orlando Live Cam: Port Canaveral
+https://pubads.g.doubleclick.net/ssai/event/V-fZFrPsSSi7dC0vXNxYXA/master.m3u8
+#EXTINF:-1 group-title="Webcam",Roanoke Live Cam: Downtown Roanoke
+https://djhay5xbq4723.cloudfront.net/out/v1/e89d8281a015449e966ed1d6f56b41fa/index.m3u8
+#EXTINF:-1 group-title="Webcam",Roanoke Live Cam: Poor Mountain
+https://d228m1hl16cnh.cloudfront.net/out/v1/fd6bf113a88b434090e2471bf658ed6a/index.m3u8
+#EXTINF:-1 group-title="Webcam",Roanoke Live Cam: Roanoke-Blacksburg Regional Airport
+https://d1tj3emjaoxhx8.cloudfront.net/out/v1/92c6e429920c423fbe81bbe64af45a23/index.m3u8
+#EXTINF:-1 group-title="Webcam",Roanoke Live Cam: Virginia Tech
+https://d3kltewpcmat9w.cloudfront.net/out/v1/d869a4a399114ff7bac0fc09607a9c02/index.m3u8
+#EXTINF:-1 group-title="Webcam",San Antonio Live Cam: SA Zoo Flamingo
+https://pubads.g.doubleclick.net/ssai/event/ZqGZV1b-QdKY2sH4oJa79g/master.m3u8
+#EXTINF:-1 group-title="Webcam",San Antonio Live Cam: SeaWorld Penguin
+https://pubads.g.doubleclick.net/ssai/event/TNE5HnxCQtOViJNzzaFebA/master.m3u8
 #EXTINF:-1 group-title="Miscellaneous",95.5 WSB+
 https://wsb-radio-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Miscellaneous",Department of Transportation Jacksonville Traffic Cam
+https://d3qyquau6y18w7.cloudfront.net/out/v1/7d578decf0b4407fafa8894266eee182/index.m3u8
+#EXTINF:-1 group-title="Miscellaneous",San Antonio Transguide Traffic Cameras
+https://do585jns2y0bk.cloudfront.net/out/v1/423f339c4fe7444ca185e09c67a4f7cf/index.m3u8
 #EXTINF:-1 group-title="Miscellaneous",WILM-TV Wilmington Cam
 https://media-hls.wral.com/livehttporigin/_definst_/mp4:wilmington_hilton-957/playlist.m3u8
 #EXTINF:-1 group-title="Miscellaneous",WILM-TV Carolina Beach Cam
 https://media-hls.wral.com/livehttporigin/_definst_/mp4:carolina_beach-957/playlist.m3u8
-
-
-
