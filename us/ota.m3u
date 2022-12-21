@@ -1,5 +1,4 @@
 #EXTM3U
-# National OTA
 #EXTINF:-1,Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1,HSN
@@ -20,7 +19,6 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786
 https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
 #EXTINF:-1,YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-# Local OTA
 #EXTINF:-1,DSN (WBOC-TV 16.2)
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
 #EXTINF:-1,The Florida Channel
@@ -45,12 +43,10 @@ http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
 #EXTINF:-1,WRAL Sports Plus (WNGT-CD)
 https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
-# Spanish Local OTA
 #EXTINF:-1,América TeVé (WJAN-CD)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1,Mega TV (WSBS-TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-# Tourism Info
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1,Beach TV Panama City
@@ -65,7 +61,6 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1,Pocono Television (WDPN-TV 2.8)
 https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
-# Religious Local OTA
 #EXTINF:-1,Atlanta's 57 WATC
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1,Atlanta's 57 WATC TOO
