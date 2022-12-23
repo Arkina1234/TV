@@ -243,7 +243,11 @@ https://wsb-radio-ono.amagi.tv/playlist.m3u8
 https://d3qyquau6y18w7.cloudfront.net/out/v1/7d578decf0b4407fafa8894266eee182/index.m3u8
 #EXTINF:-1 group-title="Miscellaneous",San Antonio Transguide Traffic Cameras
 https://do585jns2y0bk.cloudfront.net/out/v1/423f339c4fe7444ca185e09c67a4f7cf/index.m3u8
+#EXTINF:-1 group-title="Miscellaneous",Sports Radio The Fan 680 and 93.7 FM
+https://univtec.g-mana.live/media/50dd29f9-a42f-4566-b5a5-1a4d977cbcd9/manifest.m3u8
 #EXTINF:-1 group-title="Miscellaneous",WILM-TV Wilmington Cam
 https://media-hls.wral.com/livehttporigin/_definst_/mp4:wilmington_hilton-957/playlist.m3u8
 #EXTINF:-1 group-title="Miscellaneous",WILM-TV Carolina Beach Cam
 https://media-hls.wral.com/livehttporigin/_definst_/mp4:carolina_beach-957/playlist.m3u8
+#EXTINF:-1 group-title="Miscellaneous",WLNG Studio 92.1 Webcam
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
