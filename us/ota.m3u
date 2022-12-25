@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1,HSN
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1,Newsy
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1,NTD TV East
-https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1,NTD TV West
-https://ntd02.akamaized.net/NTD-West/index.m3u8
-#EXTINF:-1,PBS KIDS
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1,QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1,The Grio
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
-#EXTINF:-1,WeatherNation
-https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
-#EXTINF:-1,YTA
-https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1,DSN (WBOC-TV 16.2)
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
 #EXTINF:-1,The Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1,KCWX
+#EXTINF:-1,KCWX 
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1,KET KY
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
@@ -67,10 +47,13 @@ https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e478039df74e43898cb010c7b76f468b/playlist.m3u8
 #EXTINF:-1,God's Learning Channel (KMLM-DT)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1,Good Life 45 (WTGL)
+https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
 #EXTINF:-1,LIFE! (KSCE)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1,Mariavision (WFTT-TV)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
 #EXTINF:-1,SuperChannel Orlando (WACX)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+
 
