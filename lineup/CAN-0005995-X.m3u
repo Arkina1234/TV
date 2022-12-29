@@ -1,51 +1,122 @@
-125 | ICIQHD
+#EXTM3U
+#EXTINF:-1 tvg-chno="" tvg-logo="",125 | ICIQHD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-223 | KNOWCHD
+#EXTINF:-1 tvg-chno="" tvg-logo="",223 | KNOWCHD
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-224 | BCLEGHD
+#EXTINF:-1 tvg-chno="" tvg-logo="",224 | BCLEGHD
 https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
-251 | TSC
+#EXTINF:-1 tvg-chno="" tvg-logo="",251 | TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
-254 | CPAC
+#EXTINF:-1 tvg-chno="" tvg-logo="",254 | CPAC
 https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-282 | CJIL
+#EXTINF:-1 tvg-chno="" tvg-logo="",282 | CJIL
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-283 | DYSTCHD
+#EXTINF:-1 tvg-chno="" tvg-logo="",283 | DYSTCHD
 https://hls-live-media.cdn01.net/dvr/stream_38389.m3u8?source=othersites
-284 | SALTHD
+#EXTINF:-1 tvg-chno="" tvg-logo="",284 | SALTHD
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-285 | EWTNC
+#EXTINF:-1 tvg-chno="" tvg-logo="",285 | EWTNC
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-418 | TSCHD
+#EXTINF:-1 tvg-chno="" tvg-logo="",418 | TSCHD
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
-821 | RFI
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",821 | RFI
 http://live02.rfi.fr/rfienanglais-64.mp3
-822
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",822 | CJWEFM
 https://ammsa.leanstream.co/CJWEFM-MP3
-823 | CHONSC
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",823 | CHONSC
 http://64.251.25.76:8001/stream
-824
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",824 | CKSY
 http://live.leanstream.co/CKSYFM
-825 | AMIAU
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",825 | AMIAU
 https://ice23.securenetsystems.net/AMIAUDIO
-826 | CIUTFM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",826 | CIUTFM
 http://128.100.197.46/;stream.aac
-827 | CHINRAD
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",827 | CHINRAD
 http://ice7.securenetsystems.net/CHINFM
-828 | CKUA
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",828 | CKUA
 https://ais-sa1.streamon.fm/7000_48k.aac
-836 CBCVAM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",836 | CBCVAM
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
-837 CFMI
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",837 | CFMI
 http://live.leanstream.co/CFMIFM-MP3
-838 CFOX
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",838 | CFOX
 http://live.leanstream.co/CFOXFM-MP3
-840 CKNW
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",840 | CKNW
 http://live.leanstream.co/CKNWAM
-841 CBCVFM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",841 | CBCVFM
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
-843 CJAX
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",843 | CJAX
 https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",847 | CBUF
+https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",848 | CJJR
+https://redirect.jpbgdigital.com/CJJR.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",849 | CHQT
+http://live.leanstream.co/CHQTAM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",850 | CKNG
+http://live.leanstream.co/CKNGFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",851 | CFNR
+http://nnb.leanstream.co/CFNRFM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",852 | CFWE
+http://live.leanstream.co/CFWEFM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",853 | CIRK
+http://newcap.leanstream.co/CIRKFM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",854 | CISN
+http://live.leanstream.co/CISNFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",855 | CHED
+http://live.leanstream.co/CHEDAM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",856 | CKRW
+http://ais-sa1.streamon.fm/7222_32k.aac
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",857 | CKRY
+http://live.leanstream.co/CKRYFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",858 | CHQR
+http://corus-hls.leanstream.co/corus/CHQRAM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",859 | CFFQ
+http://live.leanstream.co/CFGQFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",860 | CJKR
+http://live.leanstream.co/CJKRFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",861 | CJOB
+http://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",862 | CING
+http://live.leanstream.co/CINGFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",863 | CHFI
+https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",864 | CILQ
+http://live.leanstream.co/CILQFM
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",865 | CFYI
+http://corus-hls.leanstream.co/corus/CHQRAM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",867 | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",868 | CJCL
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",869 | CJRT
+https://jazzfm91.streamb.live/SB00009
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",870 | CBLA
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",871 | CBL
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",873 | CKOI
+https://cogecomedia.leanstream.co/CKOIFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",874 | CFQR
+https://centova.radioservers.biz/proxy/canadai1/stream
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",876 | CFGL
+https://cogecomedia.leanstream.co/CFGLFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",878 | CKAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",879 | CBHA
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",880 | CBH
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",883 | SRC1M
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",884 | SRC2M
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",886 | CHMP
+https://cogecomedia.leanstream.co/CHMPFM-MP3
+#EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",887 | CANALM
+https://securestream.casthost.net:8285/stream
+
+
 
 
 
