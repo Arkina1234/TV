@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="" tvg-name="NEWSY" tvg-id="NEWSY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_white_360w_270h.png",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="GRIOTV" tvg-id="GRIOTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101752_white_360w_270h.png",The Grio
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="KIDS" tvg-id="KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_white_360w_270h.png",PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="DABL" tvg-id="DABL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_white_360w_270h.png",Dabl
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="QVC" tvg-id="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_white_360w_270h.png",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="HSN" tvg-id="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10269_white_360w_270h.png",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="F24EN" tvg-id="F24EN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_white_360w_270h.png",France 24 English
+https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="NTDA" tvg-id="NTDA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115494_white_360w_270h.png",NTD America
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="ALJZENG" tvg-id="ALJZENG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55559_white_360w_270h.png",Al Jazeera English
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
