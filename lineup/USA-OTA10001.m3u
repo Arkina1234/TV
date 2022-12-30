@@ -17,7 +17,7 @@ https://v-ny.mybtv.net/live/1001/768x432.m3u8
 https://arkina1234.github.io/live/hd/wnyw.m3u8
 #EXTINF:-1 tvg-chno="5.2" tvg-name="WNYWDT2" tvg-id="WNYWDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png",Movies!
 https://v-ny.mybtv.net/live/551/768x432.m3u8
-#EXTINF:-1 tvg-chno="5.3" tvg-name="WNYWDT3" tvg-id="WNYWDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121307_dark_360w_270h.png",WEATHER
+#EXTINF:-1 tvg-chno="5.3" tvg-name="WNYWDT3" tvg-id="WNYWDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121307_dark_360w_270h.png",Weather
 https://v-ny.mybtv.net/live/676/768x432.m3u8
 #EXTINF:-1 tvg-chno="5.4" tvg-name="WNYWDT4" tvg-id="WNYWDT4.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101752_dark_360w_270h.png",theGrio
 https://v-ny.mybtv.net/live/552/768x432.m3u8
@@ -137,20 +137,6 @@ https://arkina1234.github.io/live/redirect/tbd.m3u8
 http://live2.ntdimg.com/live330/playlist.m3u8
 #EXTINF:-1 tvg-chno="63.7" tvg-name="WMBCDT7" tvg-id="WMBCDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76786_dark_360w_270h.png",ALIENTO
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="68.1" tvg-name="WFUTDT" tvg-id="WFUTDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",WFUT-DT
-https://arkina1234.github.io/live/hd/wfut.m3u8
-#EXTINF:-1 tvg-chno="68.2" tvg-name="WFUTDT2" tvg-id="WFUTDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91496_dark_360w_270h.png",CRIME
-https://v-ny.mybtv.net/live/714/768x432.m3u8
-#EXTINF:-1 tvg-chno="68.3" tvg-name="WFUTDT3" tvg-id="WFUTDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82563_dark_360w_270h.png",GetTV
-https://v-px.mybtv.net/live/928/640x480.m3u8
-#EXTINF:-1 tvg-chno="33.11" tvg-name="WJLPD11" tvg-id="WJLPD11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107391_dark_360w_270h.png" radio="true",Thunder
-https://live.wostreaming.net/manifest/press-wkmkfmmp3-ibc1
-#EXTINF:-1 tvg-chno="33.12" tvg-name="WJLPD12" tvg-id="WJLPD12" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107392_dark_360w_270h.png" radio="true",B985
-https://live.wostreaming.net/manifest/press-wbbofmmp3-ibc1
-#EXTINF:-1 tvg-chno="33.13" tvg-name="WJLPD13" tvg-id="WJLPD13" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107393_dark_360w_270h.png" radio="true",The Boss
-https://live.wostreaming.net/manifest/press-wwzyfmmp3-ibc1
-#EXTINF:-1 tvg-chno="33.14" tvg-name="WJLPD14" tvg-id="WJLPD14" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107394_dark_360w_270h.png" radio="true",1410AM
-https://live.wostreaming.net/manifest/press-whtgammp3-ibc1
 #EXTINF:-1 tvg-chno="63.08" tvg-name="WMBCDT8" tvg-id="WMBCDT8.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79045_dark_360w_270h.png",WDNJ
 https://ic2.sslstream.com/wdnj-fm
 #EXTINF:-1 tvg-chno="63.09" tvg-name="WMBCDT9" tvg-id="WMBCDT9.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79046_dark_360w_270h.png",KCBN
@@ -159,3 +145,9 @@ https://streamer.radio.co/sc8fe32068/listen
 https://147.135.84.27:80/wwgb-am
 #EXTINF:-1 tvg-chno="63.12" tvg-name="WMBCD12" tvg-id="WMBCD12.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112132_dark_360w_270h.png",WBTK
 https://147.135.84.27:80/wbtk-am
+#EXTINF:-1 tvg-chno="68.1" tvg-name="WFUTDT" tvg-id="WFUTDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",WFUT-DT
+https://arkina1234.github.io/live/hd/wfut.m3u8
+#EXTINF:-1 tvg-chno="68.2" tvg-name="WFUTDT2" tvg-id="WFUTDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91496_dark_360w_270h.png",CRIME
+https://v-ny.mybtv.net/live/714/768x432.m3u8
+#EXTINF:-1 tvg-chno="68.3" tvg-name="WFUTDT3" tvg-id="WFUTDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82563_dark_360w_270h.png",GetTV
+https://v-px.mybtv.net/live/928/640x480.m3u8
