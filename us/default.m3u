@@ -5,9 +5,9 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="NEWSMX" tvg-id="NEWSMX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87925_white_360w_270h.png",Newsmx TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="REALAMV" tvg-id="REALAMV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s117378_white_360w_270h.png",Real America's Voice
+#EXTINF:-1 tvg-chno="" tvg-name="REALAMV" tvg-id="REALAMV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116186_white_360w_270h.png",Real America's Voice
 https://content.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="LOCALSH" tvg-id="LOCALSH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118952_white_360w_270h.png",Localish
+#EXTINF:-1 tvg-chno="" tvg-name="LOCALSH" tvg-id="LOCALSH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70938_white_360w_270h.png",Localish
 https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="LX" tvg-id="LX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114278_white_360w_270h.png",LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -16,13 +16,13 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="CHARGE" tvg-id="CHARGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102148_white_360w_270h.png",Charge!
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad._debug=CHARGE_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
+https://uplynkcontent.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="COMET" tvg-id="COMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97051_white_360w_270h.png",Comet
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=COMET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&adl.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19
+https://uplynkcontent.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="GRIOTV" tvg-id="GRIOTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101752_white_360w_270h.png",The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="TBD" tvg-id="TBD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102116_white_360w_270h.png",TBD
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+https://uplynkcontent.sinclairstoryline.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="DABL" tvg-id="DABL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_white_360w_270h.png",Dabl
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="QVC" tvg-id="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_white_360w_270h.png",QVC
@@ -40,6 +40,7 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 #EXTINF:-1 tvg-chno="" tvg-name="F24EN" tvg-id="F24EN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_white_360w_270h.png",France 24 English
 https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="NHKWRLD" tvg-id="NHKWRLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_white_360w_270h.png",NHK World TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="NTDA" tvg-id="NTDA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115494_white_360w_270h.png",NTD America
 https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="ALJZENG" tvg-id="ALJZENG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55559_white_360w_270h.png",Al Jazeera English
