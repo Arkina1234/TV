@@ -49,7 +49,7 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 https://scripps-bouncexl-1-us.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124040_white_360w_270h.png",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="BUZZRST" tvg-id="BUZZRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113452_white_360w_270h.png",BUZZR Stream
+#EXTINF:-1 tvg-chno="" tvg-name="BUZZRST" tvg-id="BUZZRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_white_360w_270h.png",BUZZR Stream
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="STMSTR" tvg-id="STMSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104950_white_360w_270h.png",Stadium Stream
 https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
