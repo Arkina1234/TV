@@ -38,6 +38,7 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3
 #EXTINF:-1 tvg-chno="" tvg-name="RFDTV" tvg-id="RFDTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25148_white_360w_270h.png",RFD TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="TBN" tvg-id="TBN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_white_360w_270h.png",TBN
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="IONSTR" tvg-id="IONSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122912_white_360w_270h.png",Ion Stream
 https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="IMYSSTR" tvg-id="IMYSSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_white_360w_270h.png",Ion Mystery Stream
@@ -50,13 +51,15 @@ https://scripps-bouncexl-1-us.samsung.wurl.com/manifest/playlist.m3u8
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="BUZZRST" tvg-id="BUZZRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113452_white_360w_270h.png",BUZZR Stream
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="STMSTR" tvg-id="STMSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104950_white_360w_270h.png",Stadium
+#EXTINF:-1 tvg-chno="" tvg-name="STMSTR" tvg-id="STMSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104950_white_360w_270h.png",Stadium Stream
 https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
 https://outsidetv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="ESTASTR" tvg-id="ESTASTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_white_360w_270h.png",Estrella TV
+#EXTINF:-1 tvg-chno="" tvg-name="XCIRCLE" tvg-id="XCIRCLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116338_white_360w_270h.png",Circle Streaming
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="VIZESTA" tvg-id="VIZESTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_white_360w_270h.png",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="ESTNEWS" tvg-id="ESTENWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121309_white_360w_270h.png",Estrella News
+#EXTINF:-1 tvg-chno="" tvg-name="ESTNEWS" tvg-id="ESTENWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s117478_white_360w_270h.png",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="F24EN" tvg-id="F24EN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_white_360w_270h.png",France 24 English
 https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
@@ -69,4 +72,3 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="ARANGTV" tvg-id="ARANGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87646_white_360w_270h.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",
-
