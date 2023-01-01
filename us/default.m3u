@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="" tvg-name="NEWSY" tvg-id="NEWSY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_white_360w_270h.png",Newsy
+#EXTINF:-1 tvg-chno="" tvg-name="NEWSY" tvg-id="NEWSY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_white_360w_270h.png",Scripps News
+# former Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="FOXWX" tvg-id="FOXWX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93141_white_360w_270h.png",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
