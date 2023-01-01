@@ -1,0 +1,16 @@
+11 KCHF https://5f75ff9cd9f1d.streamlock.net:443/kchflive/kchfmq/playlist.m3u8 
+16 KDSO-LD https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
+16 WGGS-TV https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
+16 WTJR https://ctntv.getstreamhosting.com:1936/WTJR/WTJR/playlist.m3u8
+22 WCLF https://ctntv.getstreamhosting.com:1936/WCLF/WCLF/playlist.m3u8
+25 KVTN-DT https://player-api.new.livestream.com/accounts/15669040/events/4554297/live.m3u8
+30 KBLN-TV https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
+38 KSCE https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+39 KQDK https://ctntv.getstreamhosting.com:1936/KQDK/KQDK/playlist.m3u8
+40 WLMB https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites 
+42 KMLM-DT https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+45 WGNM https://ctntv.getstreamhosting.com:1936/WGNM/WGNM/playlist.m3u8
+45 WTGL https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+55 WACX https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+57 WATC https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+68 WLFG https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
