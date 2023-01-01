@@ -102,7 +102,7 @@ https://centova.radioservers.biz/proxy/canadai1/stream
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",876 | CFGL
 https://cogecomedia.leanstream.co/CFGLFM-MP3
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",878 | CKAC
-https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",879 | CBHA
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",880 | CBH
@@ -112,7 +112,7 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",884 | SRC2M
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",886 | CHMP
-https://cogecomedia.leanstream.co/CHMPFM-MP3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="" radio="true",887 | CANALM
 https://securestream.casthost.net:8285/stream
 
