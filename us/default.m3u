@@ -36,10 +36,12 @@ https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="SHOPLC" tvg-id="SHOPLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56032_white_360w_270h.png",ShopLC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="NASA" tvg-id="NASA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12553_white_360w_270h.png",NASA TV
+https://content.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="RFDTV" tvg-id="RFDTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25148_white_360w_270h.png",RFD TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="TBN" tvg-id="TBN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_white_360w_270h.png",TBN
-https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="IONSTR" tvg-id="IONSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122912_white_360w_270h.png",Ion Stream
 https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="IMYSSTR" tvg-id="IMYSSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_white_360w_270h.png",Ion Mystery Stream
