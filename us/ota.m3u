@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1,BEK Sports 24/7
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1,DSN (WBOC-TV 16.2)
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
+#EXTINF:-1,Florida 24 Network (WHDT)
+https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8?ad=live&expand=live&ad.adUnit=/fl24/livestream/midroll
 #EXTINF:-1,The Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1,KCWX 
@@ -35,8 +39,20 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1,News-Press NOW (KNPN-LD 26.3)
+https://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
 #EXTINF:-1,NOTV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1,NTDTV Houston (KVVV-LD 15.2)
+https://live.ntdtv.com/htlive480/playlist.m3u8
+#EXTINF:-1,NTDTV LA (KXLA 44.7)
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+#EXTINF:-1,NTDTV New York (WMBC-TV 63.5)
+https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1,NTDTV SF (KCNS 38.5)
+https://live.ntdtv.com/sflive990/playlist.m3u8
+#EXTINF:-1,NTV Houston (KVVV-LD 15.5)
+https://dy9x7so5g8z3m.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NTVHouston-App/226.m3u8
 #EXTINF:-1,Pocono Television (WDPN-TV 2.8)
 https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
 #EXTINF:-1,Atlanta's 57 WATC
@@ -55,23 +71,7 @@ https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
 #EXTINF:-1,SuperChannel Orlando (WACX)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
-BEK Sports 24/7
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-Florida 24 Network (WHDT)
-https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8?ad=live&expand=live&ad.adUnit=/fl24/livestream/midroll
-News-Press NOW (KNPN-LD 26.3)
-https://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
-NTDTV Houston (KVVV-LD 15.2)
-https://live.ntdtv.com/htlive480/playlist.m3u8
-NTDTV LA (KXLA 44.7)
-https://live.ntdtv.com/uwlive990/playlist.m3u8
-NTDTV New York (WMBC-TV 63.5)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
-NTDTV SF (KCNS 38.5)
-https://live.ntdtv.com/sflive990/playlist.m3u8
-NTV Houston (KVVV-LD 15.5)
-https://dy9x7so5g8z3m.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NTVHouston-App/226.m3u8
-WMC Plus (WMC-TV 5.5)
+#EXTINF:-1,WMC Plus (WMC-TV 5.5)
 http://dai2-playlistserver.aws.syncbak.com/cpl/20492205/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ5MjIwNSIsImNpZCI6MjEwMTEsInNpZCI6MTU4LCJtZDUiOiI4ZTgxMjM1NGViM2M5OWJlM2EyZTE3ZWJhZmQ2NWY2NSIsImlhdCI6MTY1Mjk5NTM4NSwiZXhwIjoxNjg0NTMxMzg1LCJpc3MiOiJTeW5jYmFrIChURykifQ.hafIpU8dF72cQeIqC3EAaOTEcwvSQzp8jEuz-mh8a24
 
 
