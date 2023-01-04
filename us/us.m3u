@@ -43,3 +43,5 @@ https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 https://tastemadefreetv16-brightcove.amagi.tv/master.m3u8
 #EXTINF:-1,The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
+#EXTINF:-1,VSiN
+https://sg1.rcncdn.com/v1/master/16e9277d8d88a943c7cf93cb0e6ad4b8a5729648/streamguys/playlist.m3u8
