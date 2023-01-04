@@ -13,6 +13,8 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1,KQSL
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
+#EXTINF:-1,KRSU-TV 35.1
+https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
 #EXTINF:-1,KTOO 360TV
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 #EXTINF:-1,Michigan Learning Channel
