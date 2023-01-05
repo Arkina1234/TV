@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="C-Band",CAS
+#EXTINF:-1 group-title="TV",CAS
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
-#EXTINF:-1 group-title="C-Band",COURT
+#EXTINF:-1 group-title="TV",COURT
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/03.m3u8
-#EXTINF:-1 group-title="C-Band",COWBOY
+#EXTINF:-1 group-title="TV",COWBOY
 https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/live-audio_0=64000-video=6499968.m3u8
-#EXTINF:-1 group-title="C-Band",GEB
+#EXTINF:-1 group-title="TV",GEB
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
-#EXTINF:-1 group-title="C-Band",HD01
+#EXTINF:-1 group-title="TV",HD01
 https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
-#EXTINF:-1 group-title="C-Band",HD02
+#EXTINF:-1 group-title="TV",HD02
 https://pbs.lls.cdn.pbs.org/pst/index-1080p.m3u8
-#EXTINF:-1 group-title="C-Band",HEARTHD
+#EXTINF:-1 group-title="TV",HEARTHD
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="C-Band",HSN
+#EXTINF:-1 group-title="TV",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/med.m3u8
-#EXTINF:-1 group-title="C-Band",JBS
+#EXTINF:-1 group-title="TV",JBS
 https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="C-Band",JTVHD
+#EXTINF:-1 group-title="TV",JTVHD
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="C-Band",NASA
+#EXTINF:-1 group-title="TV",NASA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="C-Band",NEWSMX
+#EXTINF:-1 group-title="TV",NEWSMX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 group-title="C-Band",NRB
+#EXTINF:-1 group-title="TV",NRB
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="C-Band",QVC
+#EXTINF:-1 group-title="TV",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/med.m3u8
-#EXTINF:-1 group-title="C-Band",RETROTV
+#EXTINF:-1 group-title="TV",RETROTV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="C-Band",RFDTV
+#EXTINF:-1 group-title="TV",RFDTV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/live-audio_0=64000-video=6499968.m3u8
-#EXTINF:-1 group-title="C-Band",SHOPHQ
+#EXTINF:-1 group-title="TV",SHOPHQ
 https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
-#EXTINF:-1 group-title="C-Band",SHOPLC
+#EXTINF:-1 group-title="TV",SHOPLC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
-#EXTINF:-1 group-title="C-Band",TBN
+#EXTINF:-1 group-title="TV",TBN
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
-#EXTINF:-1 group-title="C-Band",YTA
+#EXTINF:-1 group-title="TV",YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-#EXTINF:-1 group-title="Ku-Band",3ANGELS
+#EXTINF:-1 group-title="TV",3ANGELS
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/LQs/chunklist.m3u8
-#EXTINF:-1 group-title="Ku-Band",CBNNEWS
+#EXTINF:-1 group-title="TV",CBNNEWS
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="Ku-Band",DYSTR
+#EXTINF:-1 group-title="TV",DYSTR
 https://hls-live-media.cdn01.net/dvr/stream_37099_2.m3u8
-#EXTINF:-1 group-title="Ku-Band",DYSTRHD
+#EXTINF:-1 group-title="TV",DYSTRHD
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
-#EXTINF:-1 group-title="Ku-Band",GLC
+#EXTINF:-1 group-title="TV",GLC
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8
-#EXTINF:-1 group-title="Ku-Band",HOPE
+#EXTINF:-1 group-title="TV",HOPE
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r2.m3u8
-#EXTINF:-1 group-title="Semi-satellite",FLACHAN
+#EXTINF:-1 group-title="TV",FLACHAN
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="Semi-satellite",KTOO360
+#EXTINF:-1 group-title="TV",KTOO360
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
-#EXTINF:-1 group-title="Semi-satellite",WLFG
+#EXTINF:-1 group-title="TV",WLFG
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
