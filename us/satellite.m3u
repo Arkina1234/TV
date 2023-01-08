@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV",3ABN English
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 group-title="TV",AFTV
+https://bcovlive-a.akamaihd.net/58e5b066aa0846fe81378efa97017993/us-west-2/6415484713001/playlist.m3u8
+#EXTINF:-1 group-title="TV",CAS
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="TV",COURT
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/03.m3u8
+#EXTINF:-1 group-title="TV",Cowboy Channel
+https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf.m3u8
+#EXTINF:-1 group-title="TV",CTN
+https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
+#EXTINF:-1 group-title="TV",CTNi
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",CTN Lifestyle
+https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
+#EXTINF:-1 group-title="TV",Daystar
+https://hls-live-media.cdn01.net/dvr/stream_37099_2.m3u8
+#EXTINF:-1 group-title="TV",Daystar HD
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
+#EXTINF:-1 group-title="TV",Florida Channel
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 group-title="TV",GEB
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+#EXTINF:-1 group-title="TV",GLC
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8
+#EXTINF:-1 group-title="TV",PBS East
+https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
+#EXTINF:-1 group-title="TV",PBS West
+https://pbs.lls.cdn.pbs.org/pst/index-1080p.m3u8
+#EXTINF:-1 group-title="TV",Heartland HD
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 group-title="TV",Hope
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
+#EXTINF:-1 group-title="TV",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/med.m3u8
+#EXTINF:-1 group-title="TV",JBS
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",JTV HD
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="TV",KTOO 360
+https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
+#EXTINF:-1 group-title="TV",NASA Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="TV",NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="TV",NEWSMX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="TV",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="TV",NRB
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/med.m3u8
+#EXTINF:-1 group-title="TV",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 group-title="TV",RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+#EXTINF:-1 group-title="TV",ShopHQ
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
+#EXTINF:-1 group-title="TV",ShopLC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+#EXTINF:-1 group-title="TV",TBN
+https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
+#EXTINF:-1 group-title="TV",Victory
+https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
+#EXTINF:-1 group-title="TV",WHT
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV",WLFG
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="TV",YTA
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
