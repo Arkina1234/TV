@@ -50,7 +50,7 @@ https://ypr.streamguys1.com/live
 #EXTINF:-1 group-title="Radio",WYSS FM 99.5
 https://ice24.securenetsystems.net/WYSS
 #EXTINF:-1 group-title="Radio",KSL Newsradio
-https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8p
+https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8
 #EXTINF:-1 group-title="TV",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/03.m3u8
 #EXTINF:-1 group-title="TV",3ABN English
