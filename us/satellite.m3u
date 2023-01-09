@@ -1,15 +1,8 @@
 #EXTM3U
-# 87.0°W SES 2
 #EXTINF:-1 group-title="Radio",Point of View
 http://198.7.62.157:10050/stream
 #EXTINF:-1 group-title="TV",Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
-# 124.9°W
-#EXTINF:-1 group-title="TV",PBS East
-https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
-#EXTINF:-1 group-title="TV",PBS West
-https://pbs.lls.cdn.pbs.org/pst/index-1080p.m3u8
-# 139.0°W AMC 6
 #EXTINF:-1 group-title="TV",KTOO 360
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 #EXTINF:-1 group-title="Radio",KUCB
@@ -27,8 +20,11 @@ https://alaskapublic-live.streamguys1.com/aac-web
 #EXTINF:-1 group-title="Radio",KMXT
 https://17833.live.streamtheworld.com/KMXTFMAAC.aac
 #EXTINF:-1 group-title="Radio",KSDP 830 AM
-http://ic2625.c962.fast-serv.com/stream.aac
-# 91.0°W
+http://ic2625.c962.fast-serv.com/stream.aac# 124.9°W
+#EXTINF:-1 group-title="TV",PBS East
+https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
+#EXTINF:-1 group-title="TV",PBS West
+https://pbs.lls.cdn.pbs.org/pst/index-1080p.m3u8
 #EXTINF:-1 group-title="TV",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 group-title="Radio",910 AM Superstation
@@ -53,7 +49,6 @@ http://uprxstreamer.usu.edu:8000/stream
 https://ypr.streamguys1.com/live
 #EXTINF:-1 group-title="Radio",WYSS FM 99.5
 https://ice24.securenetsystems.net/WYSS
-# 97.0°W
 #EXTINF:-1 group-title="Radio",KSL Newsradio
 https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8p
 #EXTINF:-1 group-title="TV",Court TV
