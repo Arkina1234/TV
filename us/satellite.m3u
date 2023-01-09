@@ -1,8 +1,72 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV",GOD TV
+https://zypelive-amd.akamaized.net/hls/live/2041205/main/playlist.m3u8?6pLKMQ3y=pLK0uw32&F38b1dF4=63bc6b69033e100001e27af2&video_id=5beee6138c550014a2005e28&hdnts=exp%3D1799520457%7Eacl%3D%2F*2041205%2F*%7Ehmac%3Db32eb1aa22dec6bf9319aa9423242c91c4a895d3b21d94d81c9dcce73de3c42d
+#EXTINF:-1 group-title="TV",Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+#EXTINF:-1 group-title="TV",LFTV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="TV",Folk TV
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV",Z Living
+https://jr7yv948la4v-hls-live.5centscdn.com/zlivingdevices/b83176779fdc6771031a6c7c02d38d70.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="TV",Jewelry TV
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="TV",Radio Nueva Vida
+https://ice10.securenetsystems.net/KMRO
+#EXTINF:-1 group-title="Radio",K-LOVE
+https://maestro.emfcdn.com/stream_for/k-love/web/hls
+#EXTINF:-1 group-title="Radio",Air1
+https://maestro.emfcdn.com/stream_for/air1/web/hls
+#EXTINF:-1 group-title="Radio",K-LOVE 90s
+https://maestro.emfcdn.com/stream_for/k-love-90s/web/hls
+#EXTINF:-1 group-title="Radio",Boost Radio
+https://boost1019.streamguys1.com/stlouis/live-aac
+#EXTINF:-1 group-title="Radio",K-LOVE 2000s
+https://maestro.emfcdn.com/stream_for/k-love-2000s/web/hls
 #EXTINF:-1 group-title="Radio",Point of View
 http://198.7.62.157:10050/stream
 #EXTINF:-1 group-title="TV",Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 group-title="TV",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 group-title="TV",FSTV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 group-title="TV",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/med.m3u8
+#EXTINF:-1 group-title="TV",QVC HD
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/high.m3u8
+#EXTINF:-1 group-title="TV",QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/med.m3u8
+#EXTINF:-1 group-title="TV",QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/med.m3u8
+#EXTINF:-1 group-title="TV",Hope Channel
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
+#EXTINF:-1 group-title="TV",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 group-title="TV",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
+#EXTINF:-1 group-title="TV",France 24 English
+https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 group-title="TV",France 24 Español
+https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 group-title="Radio",Rai Radio 1
+https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8
+#EXTINF:-1 group-title="Radio",Rai Radio 2
+https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8
+#EXTINF:-1 group-title="Radio",Rai Radio 3
+https://radiotre-live.akamaized.net/hls/live/2032594/radiotre/radiotre/playlist.m3u8
+#EXTINF:-1 group-title="TV",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/med.m3u8
+#EXTINF:-1 group-title="TV",HSN HD
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/high.m3u8
+#EXTINF:-1 group-title="TV",HSN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/med.m3u8
+#EXTINF:-1 group-title="TV",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="TV",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="TV",KTOO 360
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 #EXTINF:-1 group-title="Radio",KUCB
@@ -20,7 +84,7 @@ https://alaskapublic-live.streamguys1.com/aac-web
 #EXTINF:-1 group-title="Radio",KMXT
 https://17833.live.streamtheworld.com/KMXTFMAAC.aac
 #EXTINF:-1 group-title="Radio",KSDP 830 AM
-http://ic2625.c962.fast-serv.com/stream.aac# 124.9°W
+http://ic2625.c962.fast-serv.com/stream.aac
 #EXTINF:-1 group-title="TV",PBS East
 https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
 #EXTINF:-1 group-title="TV",PBS West
@@ -29,8 +93,6 @@ https://pbs.lls.cdn.pbs.org/pst/index-1080p.m3u8
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 group-title="Radio",910 AM Superstation
 https://clouditize.piksel.tech/hls/live/2043189/ClouditizeStream2/playlist.m3u8
-#EXTINF:-1 group-title="TV",Jewelry TV
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="TV",Gem Shopping Network
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="TV",Gem Shopping Network HD
@@ -49,10 +111,34 @@ http://uprxstreamer.usu.edu:8000/stream
 https://ypr.streamguys1.com/live
 #EXTINF:-1 group-title="Radio",WYSS FM 99.5
 https://ice24.securenetsystems.net/WYSS
+#EXTINF:-1 group-title="TV",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="TV",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="TV",JBS
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",MBC America
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:-1 group-title="TV",Cowboy Channel
+https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf.m3u8
+#EXTINF:-1 group-title="TV",Cowboy Channel SD
+https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/live-audio_0=64000-video=2000000.m3u8
+#EXTINF:-1 group-title="TV",RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+#EXTINF:-1 group-title="TV",YTA
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+#EXTINF:-1 group-title="TV",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="TV",TBN
+https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
+#EXTINF:-1 group-title="TV",TBN SD
+https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=1000000.m3u8
+#EXTINF:-1 group-title="TV",Daystar TV
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8?source=othersites
+#EXTINF:-1 group-title="TV",Daystar TV Español
+https://hls-live-media.cdn01.net/dvr/stream_37429.m3u8?source=othersites
 #EXTINF:-1 group-title="Radio",KSL Newsradio
 https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8
-#EXTINF:-1 group-title="TV",Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/03.m3u8
 #EXTINF:-1 group-title="TV",3ABN English
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 #EXTINF:-1 group-title="TV",Daystar TV
@@ -66,9 +152,9 @@ https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8?set-akamai-
 #EXTINF:-1 group-title="TV",Amazing Facts TV
 https://bcovlive-a.akamaihd.net/58e5b066aa0846fe81378efa97017993/us-west-2/6415484713001/playlist.m3u8
 #EXTINF:-1 group-title="TV",Hope Channel
-https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r480001.m3u8
 #EXTINF:-1 group-title="TV",Esperanza TV
-https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8
+https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/stream_t1_r480001.m3u8
 #EXTINF:-1 group-title="Radio",CityLifeRadio
 http://s3.voscast.com:8914/;stream1673282677018/1
 #EXTINF:-1 group-title="Radio",3ABN Music
@@ -87,58 +173,30 @@ https://ais-sa1.streamon.fm/7013_64k.aac/playlist.m3u8?listeningSessionID=61d7af
 http://radio74.dyndns.org:8000/radio74stlint.mp3
 #EXTINF:-1 group-title="Radio",3ABN Latino
 https://3abn.streamguys1.com/abr/latino/playlist.m3u8
-#EXTINF:-1 group-title="TV",CAS
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="TV",Cowboy Channel
-https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf.m3u8
+#EXTINF:-1 group-title="TV",Victory Channel
+https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:-1 group-title="TV",CTN
 https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
-#EXTINF:-1 group-title="TV",CTNi
-https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV",CTN Lifestyle
-https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
-#EXTINF:-1 group-title="TV",Folk TV
-https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="TV",FSTV
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 group-title="TV",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="TV",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="TV",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 group-title="TV",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="TV",GEB
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 group-title="TV",GLC
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8
 #EXTINF:-1 group-title="TV",Heartland HD
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:-1 group-title="TV",HSN
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/med.m3u8
-#EXTINF:-1 group-title="TV",JBS
-https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV",NASA Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="TV",NASA Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="TV",NEWSMX
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 group-title="TV",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="TV",NRB
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="TV",QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/med.m3u8
 #EXTINF:-1 group-title="TV",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:-1 group-title="TV",RFD-TV
-https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 group-title="TV",ShopHQ
 https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
-#EXTINF:-1 group-title="TV",ShopLC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
-#EXTINF:-1 group-title="TV",TBN
-https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
-#EXTINF:-1 group-title="TV",Victory
-https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:-1 group-title="TV",WHT
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV",WLFG
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-#EXTINF:-1 group-title="TV",YTA
-https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 
