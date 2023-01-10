@@ -137,6 +137,18 @@ https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=100
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8?source=othersites
 #EXTINF:-1 group-title="TV",Daystar TV Español
 https://hls-live-media.cdn01.net/dvr/stream_37429.m3u8?source=othersites
+#EXTINF:-1 group-title="TV",World Harvest TV
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio",Pulse FM
+https://ice23.securenetsystems.net/WHPZ
+#EXTINF:-1 group-title="Radio",Family Radio East
+https://ais-sa3.cdnstream1.com/2640_128.mp3
+#EXTINF:-1 group-title="Radio",Family Radio New York
+https://ais-sa3.cdnstream1.com/2712_128.mp3
+#EXTINF:-1 group-title="Radio",Family Radio West
+https://ais-sa3.cdnstream1.com/2641_128.mp3
+#EXTINF:-1 group-title="TV",Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 group-title="Radio",KSL Newsradio
 https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8
 #EXTINF:-1 group-title="TV",3ABN English
@@ -187,6 +199,8 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="TV",GLC
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8
+#EXTINF:-1 group-title="TV",ShopHQ
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
 #EXTINF:-1 group-title="TV",NRB TV
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TV",CBN News
@@ -195,13 +209,8 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 group-title="TV",Heartland East
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
-
+#EXTINF:-1 group-title="TV",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
 #EXTINF:-1 group-title="TV",Retro TV East
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:-1 group-title="TV",ShopHQ
-https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
-#EXTINF:-1 group-title="TV",WHT
-https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 
