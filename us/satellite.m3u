@@ -185,15 +185,20 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 group-title="TV",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="TV",GEB
-https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 group-title="TV",GLC
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8
-#EXTINF:-1 group-title="TV",Heartland HD
-https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:-1 group-title="TV",NRB
+#EXTINF:-1 group-title="TV",NRB TV
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="TV",Retro TV
+#EXTINF:-1 group-title="TV",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="TV",GEB
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+#EXTINF:-1 group-title="TV",Heartland East
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 group-title="TV",Retro TV East
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 group-title="TV",ShopHQ
 https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
