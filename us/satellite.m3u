@@ -48,7 +48,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 #EXTINF:-1 group-title="TV",Law & Crime
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
 #EXTINF:-1 group-title="TV",France 24 English
-https://www.klowdtv.com/PlaylistServlet.m3u8?station=72&ktv=DULMzS-VBVoFXDecVbZ2Q-SxFNrD4GUeL43NUcqmzYcfnE5GgP9b5jeN0Z-fzMRnjE1kSaLyNENO2kEXf0YhtFfOhuAkG8eVL7-2-_R-d0iO1twLFy6CP9VAW85tO6Tpxkd4xaSzGXf7XV4QBWnFQTGqT1AIcERsjqv7PIoDEF5yAQaPuFZo_EbfkwRwHj40hniAMRTSQv_t1T1U5ho9
+https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
 #EXTINF:-1 group-title="TV",France 24 Español
 https://www.klowdtv.com/PlaylistServlet.m3u8?station=80&ktv=DULMzS-VBVoFXDecVbZ2Q-SxFNrD4GUeL43NUcqmzYcfnE5GgP9b5jeN0Z-fzMRnjE1kSaLyNENO2kEXf0YhtFfOhuAkG8eVL7-2-_R-d0iO1twLFy6CP9VAW85tO6Tpxkd4xaSzGXf7XV4QBWnFQTGqT1AIcERsjqv7PIoDEF5yAQaPuFZo_EbfkwRwHj40hniAMRTSQv_t1T1U5ho9
 #EXTINF:-1 group-title="Radio",Rai Radio 1
