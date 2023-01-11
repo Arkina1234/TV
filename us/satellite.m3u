@@ -86,9 +86,9 @@ https://17833.live.streamtheworld.com/KMXTFMAAC.aac
 #EXTINF:-1 group-title="Radio",KSDP 830 AM
 http://ic2625.c962.fast-serv.com/stream.aac
 #EXTINF:-1 group-title="TV",PBS East
-https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
+https://pbs.lls.cdn.pbs.org/est/index-720p.m3u8
 #EXTINF:-1 group-title="TV",PBS West
-https://pbs.lls.cdn.pbs.org/pst/index-1080p.m3u8
+https://pbs.lls.cdn.pbs.org/pst/index-720p.m3u8
 #EXTINF:-1 group-title="TV",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 group-title="Radio",910 AM Superstation
