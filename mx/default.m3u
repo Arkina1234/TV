@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1.1",Azteca Uno
+https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
+#EXTINF:-1 tvg-chno="4.1",FOROtv
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
+#EXTINF:-1 tvg-chno="6.1",Canal 6
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-chno="6.2",Milenio Television
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-chno="6.4",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-chno="7.1",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-chno="11.1",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="22.1",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="22.2",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="40.1",adn40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
