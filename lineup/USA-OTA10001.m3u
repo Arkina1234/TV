@@ -112,7 +112,7 @@ https://v-ny.mybtv.net/live/644.m3u8
 #EXTINF:-1 tvg-chno="41.3" tvg-name="WXTVDT3" tvg-id="WXTVDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118781_dark_360w_270h.png",Twist
 https://v-ny.mybtv.net/live/999.m3u8
 #EXTINF:-1 tvg-chno="42.1" tvg-name="WKOBLD" tvg-id="WKOBLD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68621_dark_360w_270h.png",WKOB-LD
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd3b73fff541491b8d76aa671ec85b84/index.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd3b73fff541491b8d76aa671ec85b84/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-chno="42.2" tvg-name="WKOBLD2" tvg-id="WKOBLD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119661_dark_360w_270h.png",WKOB-LD2
 https://v-fn.mybtv.net/live/948.m3u8
 #EXTINF:-1 tvg-chno="42.3" tvg-name="WKOBLD3" tvg-id="WKOBLD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115515_dark_360w_270h.png",WKOB-LD3
