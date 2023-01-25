@@ -86,9 +86,9 @@ https://17833.live.streamtheworld.com/KMXTFMAAC.aac
 #EXTINF:-1 group-title="Radio",KSDP 830 AM
 http://ic2625.c962.fast-serv.com/stream.aac
 #EXTINF:-1 group-title="TV",PBS East
-https://pbs.lls.cdn.pbs.org/est/index-720p.m3u8
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 group-title="TV",PBS West
-https://pbs.lls.cdn.pbs.org/pst/index-720p.m3u8
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 group-title="TV",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 group-title="Radio",910 AM Superstation
@@ -135,6 +135,10 @@ https://www.klowdtv.com/PlaylistServlet.m3u8?station=87&ktv=DULMzS-VBVoFXDecVbZ2
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
 #EXTINF:-1 group-title="TV",TBN SD
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=1000000.m3u8
+#EXTINF:-1 group-title="TV",Univisión Este
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
+#EXTINF:-1 group-title="TV",UniMás Este
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 group-title="TV",Daystar TV
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8?source=othersites
 #EXTINF:-1 group-title="TV",Daystar TV Español
