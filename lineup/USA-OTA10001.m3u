@@ -147,8 +147,6 @@ https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/live-audio_1=128000-vi
 https://lb.privatevps.org/play/Yv8th1kWLu8AHu3BZ-Z6UeV92cWhkuYsEGn42W5OeI0/.ts
 #EXTINF:-1 tvg-chno="63.2" tvg-name="WMBCDT2" tvg-id="WMBCDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106838_dark_360w_270h.png",Quest
 https://v-ny.mybtv.net/live/155.m3u8
-#EXTINF:-1 tvg-chno="63.3" tvg-name="WMBCDT3" tvg-id="WMBCDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102116_dark_360w_270h.png",TBD
-https://arkina1234.github.io/live/redirect/tbd.m3u8
 #EXTINF:-1 tvg-chno="63.5" tvg-name="WMBCDT5" tvg-id="WMBCDT5.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s00000_dark_360w_270h.png",NTDTV
 https://ntd02.akamaized.net/HD-NY/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="63.7" tvg-name="WMBCDT7" tvg-id="WMBCDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76786_dark_360w_270h.png",ALIENTO
