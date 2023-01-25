@@ -131,10 +131,20 @@ https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="TV",Fido TV
 https://www.klowdtv.com/PlaylistServlet.m3u8?station=87&ktv=DULMzS-VBVoFXDecVbZ2Q-SxFNrD4GUeL43NUcqmzYcfnE5GgP9b5jeN0Z-fzMRnjE1kSaLyNENO2kEXf0YhtFfOhuAkG8eVL7-2-_R-d0iO1twLFy6CP9VAW85tO6Tpxkd4xaSzGXf7XV4QBWnFQTGqT1AIcERsjqv7PIoDEF5yAQaPuFZo_EbfkwRwHj40hniAMRTSQv_t1T1U5ho9
-#EXTINF:-1 group-title="TV",TBN
+#EXTINF:-1 group-title="TV",TBN HD
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
-#EXTINF:-1 group-title="TV",TBN SD
+#EXTINF:-1 group-title="TV",TBN
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=1000000.m3u8
+#EXTINF:-1 group-title="TV",TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/live-audio_1=128000-video=1000000.m3u8
+#EXTINF:-1 group-title="TV",Positiv
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/live-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 group-title="TV",Smile
+https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/live-audio_1=128000-video=1499968.m3u8
+#EXTINF:-1 group-title="TV",Enlace
+https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/live-audio_1=128000-video=1499968.m3u8
+#EXTINF:-1 group-title="TV",TBN Inspire HD
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/2de29ea6-91c5-428b-b004-292be116352d.m3u8
 #EXTINF:-1 group-title="TV",Univisión Este
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 group-title="TV",UniMás Este
