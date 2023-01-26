@@ -67,6 +67,12 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/med.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="TV",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="Radio",Modern Rock 98.7
+https://ais-sa8.cdnstream1.com/2755_96.mp3
+#EXTINF:-1 group-title="Radio",North Carolina Reading Service
+https://audio-mp3.ibiblio.org/trrs.mp3
+#EXTINF:-1 group-title="Radio",The Classical Station
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3
 #EXTINF:-1 group-title="TV",KTOO 360
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 #EXTINF:-1 group-title="Radio",KUCB
