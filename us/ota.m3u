@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Classic Reruns TV
+https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
+#EXTINF:-1,CRTV
+http://crtvnoc.com/hls/select-tv-main.m3u8
+#EXTINF:-1,Novelisima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1,Timeless TV
+https://cdn38.fntvchannel.com/playlist/playlist.m3u8
 #EXTINF:-1,BEK Sports 24/7
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1,DSN (WBOC-TV 16.2)
