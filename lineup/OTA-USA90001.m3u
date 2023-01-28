@@ -12,22 +12,20 @@ https://v-la.mybtv.net/live/79.m3u8
 http://api.new.livestream.com/accounts/23191280/events/8122971/broadcasts/234781044.m3u8
 #EXTINF:-1 tvg-chno="31.5" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",LATV
 https://v-la.mybtv.net/live/78.m3u8
-#EXTINF:-1 tvg-chno="44.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",KXLA-DT
-
 #EXTINF:-1 tvg-chno="44.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",SKYLINK
-
+https://v-la.mybtv.net/live/99.m3u8
 #EXTINF:-1 tvg-chno="44.4" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",SKY-CAN
-
+https://v-la.mybtv.net/live/100.m3u8
 #EXTINF:-1 tvg-chno="44.7" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",NTDTV
-
+https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 tvg-chno="44.8" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",EEE TV
 http://api.new.livestream.com/accounts/116136/events/10745091/broadcasts/234786829.m3u8
 #EXTINF:-1 tvg-chno="44.9" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",CGNTV
 https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index_3.m3u8
 #EXTINF:-1 tvg-chno="56.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",TCT
-
+https://v-la.mybtv.net/live/732.m3u8
 #EXTINF:-1 tvg-chno="56.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",ESNE
-
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_480/hdntl=exp=1674994152~acl=%2f*~data=hdntl~hmac=46d9d5f82186d971be1dd288dc4a5aa50c4c82be4c878ffa8d43595bf28fd3a1/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d5103e43b533000161469f&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674994110%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Ddf1ca92eadb50e79dab3e0f5b391473beb14968528a2ded8b4632ef4ad3d76c2
 #EXTINF:-1 tvg-chno="56.5" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",MAJ-TV
 https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="56.7" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",IVTV
@@ -38,18 +36,23 @@ https://5bff1bf18a887.streamlock.net/dedioseselpodertv/dedioseselpodertv/playlis
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 #EXTINF:-1 tvg-chno="57.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",KJLA
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b374554eddf84de2b2a0bc44274ce418/playlist.m3u8
-#EXTINF:-1 tvg-chno="57.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.4" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.5" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.6" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.7" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.8" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
-#EXTINF:-1 tvg-chno="57.9" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",
+#EXTINF:-1 tvg-chno="57.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",VFACE
+https://v-la.mybtv.net/live/63.m3u8
+#EXTINF:-1 tvg-chno="57.4" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",VietSky
+https://player-api.new.livestream.com/accounts/27136431/events/8142772/broadcasts/234787205.m3u8
+#EXTINF:-1 tvg-chno="57.5" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",STV
+https://tna6.tulix.tv/live/aec733c85687a7064bfc11dd9a77a223/63d5161f/vchannel2.m3u8
+#EXTINF:-1 tvg-chno="57.6" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",VBS
+https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="57.8" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",AVA
+https://media.streambrothers.com:1936/ava/ava/playlist.m3u8
+#EXTINF:-1 tvg-chno="57.9" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",ZWTV
+https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 tvg-chno="57.12" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",VGMT
+https://hls.youtb.workers.dev/channel/UCBvNR8xiS5crrzPXQir8TpQ.m3u8
+#EXTINF:-1 tvg-chno="63.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",Univers
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/e478039df74e43898cb010c7b76f468b/playlist.m3u8
+#EXTINF:-1 tvg-chno="63.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",RETRO
+https://v-la.mybtv.net/live/281.m3u8
+#EXTINF:-1 tvg-chno="63.4" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",JRES
+https://5bff1bf18a887.streamlock.net/jrestv/jrestv/playlist.m3u8
