@@ -23,8 +23,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 https://1916981956.rsc.cdn77.org/HLS/FIDO-LINEAR_SCTE.m3u8
 #EXTINF:-1 group-title="TV",Infowars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 group-title="Radio",KSL Newsradio
-https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8
 #EXTINF:-1 group-title="TV",Heartland East
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 group-title="TV",Hunt Channel
@@ -71,8 +69,6 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 group-title="TV",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="Radio",BYU Radio
-https://streams.byub.org/byuradio/stream/playlist.m3u8
 #EXTINF:-1 group-title="TV",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="TV",NASA TV Public
@@ -81,8 +77,34 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 group-title="TV",UniMás Este
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
+#EXTINF:-1 group-title="Radio",Modern Rock 98.7
+https://ais-sa8.cdnstream1.com/2755_96.mp3
+#EXTINF:-1 group-title="Radio",North Carolina Reading Service
+https://audio-mp3.ibiblio.org/trrs.mp3
+#EXTINF:-1 group-title="Radio",The Classical Station
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3
+#EXTINF:-1 group-title="Radio",910 AM Superstation
+https://clouditize.piksel.tech/hls/live/2043189/ClouditizeStream2/playlist.m3u8
+#EXTINF:-1 group-title="Radio",BYU Radio
+https://streams.byub.org/byuradio/stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio",KUNC
+https://kunc.streamguys1.com/kunc
+#EXTINF:-1 group-title="Radio",WNRN
+http://22113.live.streamtheworld.com/WNRNFM_128_SC
+#EXTINF:-1 group-title="Radio",KUSC
+http://128.mp3.kusc.live/
+#EXTINF:-1 group-title="Radio",UPR
+http://uprxstreamer.usu.edu:8000/stream
+#EXTINF:-1 group-title="Radio",YPR
+https://ypr.streamguys1.com/live
+#EXTINF:-1 group-title="Radio",WYSS FM 99.5
+https://ice24.securenetsystems.net/WYSS
+#EXTINF:-1 group-title="Radio",KSL Newsradio
+https://eml-kslnr.akamaized.net/hls/live/2043254/EML_KSLNR/master.m3u8
 #EXTINF:-1 group-title="TV",GOD TV
 https://zypelive-amd.akamaized.net/hls/live/2041205/main/playlist.m3u8?6pLKMQ3y=pLK0uw32&F38b1dF4=63bc6b69033e100001e27af2&video_id=5beee6138c550014a2005e28&hdnts=exp%3D1799520457%7Eacl%3D%2F*2041205%2F*%7Ehmac%3Db32eb1aa22dec6bf9319aa9423242c91c4a895d3b21d94d81c9dcce73de3c42d
+#EXTINF:-1 group-title="TV",LFTV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="Radio",Radio Nueva Vida
 https://ice10.securenetsystems.net/KMRO
 #EXTINF:-1 group-title="Radio",K-LOVE
@@ -101,8 +123,6 @@ http://198.7.62.157:10050/stream
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
 #EXTINF:-1 group-title="TV",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-#EXTINF:-1 group-title="Radio",910 AM Superstation
-https://clouditize.piksel.tech/hls/live/2043189/ClouditizeStream2/playlist.m3u8
 #EXTINF:-1 group-title="TV",TBN HD
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/903fc04d-1073-42d3-bf03-897f2dd43ca3.m3u8
 #EXTINF:-1 group-title="TV",TBN
@@ -133,8 +153,36 @@ https://ais-sa3.cdnstream1.com/2712_128.mp3
 https://ais-sa3.cdnstream1.com/2641_128.mp3
 #EXTINF:-1 group-title="TV",3ABN English
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 group-title="TV",Smart LifeStyle TV
+https://brightstar-sls.secure.footprint.net/egress/bhandler/brightstar/brightstarslshd/manifest.m3u8
+#EXTINF:-1 group-title="TV",LLBN His Word
+https://brightstar-hisword.secure.footprint.net/egress/bhandler/brightstar/brightstarHisWord/manifest.m3u8
+#EXTINF:-1 group-title="TV",LLBN His Light
+https://brightstar-hisword.secure.footprint.net/egress/bhandler/brightstar/brightstarHisLight/manifest.m3u8
+#EXTINF:-1 group-title="TV",Amazing Facts TV
+https://bcovlive-a.akamaihd.net/58e5b066aa0846fe81378efa97017993/us-west-2/6415484713001/playlist.m3u8
 #EXTINF:-1 group-title="TV",Hope Channel
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r480001.m3u8
+#EXTINF:-1 group-title="TV",Esperanza TV
+https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/stream_t1_r480001.m3u8
+#EXTINF:-1 group-title="Radio",CityLifeRadio
+http://s3.voscast.com:8914/;stream1673282677018/1
+#EXTINF:-1 group-title="Radio",3ABN Music
+https://3abn.streamguys1.com/abr/mc01/playlist.m3u8
+#EXTINF:-1 group-title="Radio",LRN.FM
+https://streams.freetalklive.com:8443/lrn64
+#EXTINF:-1 group-title="Radio",KNLB
+https://ic1.sslstream.com/knlb-fm?rnd=1873
+#EXTINF:-1 group-title="Radio",The Overcomer
+https://video1.getstreamhosting.com:8436/stream
+#EXTINF:-1 group-title="Radio",3ABN Radio
+https://3abn.streamguys1.com/abr/english/playlist.m3u8
+#EXTINF:-1 group-title="Radio",LifeTalk Radio
+https://ais-sa1.streamon.fm/7013_64k.aac/playlist.m3u8?listeningSessionID=61d7af2f009d4242_31758436_ILenxRmz_NjYuODUuODkuMTY6ODA!_000000oKnSK&downloadSessionID=0&listenerId=b833a36011e8cdb6d0bd81993323dc38&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1673283475
+#EXTINF:-1 group-title="Radio",Radio74
+http://radio74.dyndns.org:8000/radio74stlint.mp3
+#EXTINF:-1 group-title="Radio",3ABN Latino
+https://3abn.streamguys1.com/abr/latino/playlist.m3u8
 #EXTINF:-1 group-title="TV",Victory Channel
 https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:-1 group-title="TV",CTN
