@@ -21,6 +21,8 @@ http://swaag-tv-preview.trafficjam.ca:5080/LiveApp/streams/78791414821007205382_
 https://hls-live-media.cdn01.net/default/stream_27547.m3u8?source=othersites
 #EXTINF:-1 group-title="News",Florida 24 Network (WHDT)
 https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8?ad=live&expand=live&ad.adUnit=/fl24/livestream/midroll
+#EXTINF:-1 group-title="News",Local News 8 NOW (KIFI-TV 8.4)
+https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
 #EXTINF:-1 group-title="News",News-Press NOW (KNPN-LD 26.3)
 https://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
 #EXTINF:-1 group-title="News",NTV Houston (KVVV-LD 15.5)
@@ -81,6 +83,8 @@ https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlis
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SuperChannel Orlando (WACX)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",WGGS-TV 16
+https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="Religious",WLMB-TV 40
 https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
 #EXTINF:-1 group-title="Religious",WVCY TV-30
