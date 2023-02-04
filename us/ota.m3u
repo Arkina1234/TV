@@ -53,6 +53,10 @@ https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2c
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local",Vision (WSWF-LD 10.3)
 http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",CMC
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",América TeVé (WJAN-CD)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
@@ -75,6 +79,8 @@ https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Atlanta's 57 WATC TOO
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 group-title="Religious",COACB (WOCB-CD 39.1)
+https://bozztv.com/cus01/coacb/coacb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Religious",God's Learning Channel (KMLM-DT)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Good Life 45 (WTGL)
@@ -83,6 +89,8 @@ https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlis
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SuperChannel Orlando (WACX)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",theDove (KDOV-LD)
+https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",WGGS-TV 16
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="Religious",WLMB-TV 40
