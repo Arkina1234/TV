@@ -157,6 +157,10 @@ https://kusi-hd.akamaized.net/hls/live/2029022/kusiINGEST/master.m3u8
 https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
 #EXTINF:-1 group-title="News",WRAL News+
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
+#EXTINF:-1 group-title="News",WHDH 7News
+https://dai2-playlistserver.aws.syncbak.com/cpl/20356403/dai2v5/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMDM1NjQwMyIsImNpZCI6MjA5MjcsInNpZCI6ODYxLCJtZDUiOiIwYjE4NDc5ZTdlMzZjNDY5Y2M4MTNlN2IxNDFmNmNiOSIsImlhdCI6MTY0ODc2MjAxNywiZXhwIjoxNjgwMjk4MDE3LCJpc3MiOiJTeW5jYmFrIChURykifQ.R58NQ3Y77C4VeHPgbu-ouIof40HddUYGR3Nh4NO8n_0&platform=web
+#EXTINF:-1 group-title="News",WSVN 7News
+https://dai2-playlistserver.aws.syncbak.com/cpl/20359441/dai2v5/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMDM1OTQ0MSIsImNpZCI6MjA5MzAsInNpZCI6ODYzLCJtZDUiOiI1ZDMzMWNmZmVhODViNWRkNjFiZWE0ODVhMWVhZjg2MCIsImlhdCI6MTY0OTg3MDk2NSwiZXhwIjoxNjgxNDA2OTY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.6iv8j0qkjp8ewBm4fBRdNF0wCgznWxcaSnFHKoB9br0&platform=web
 #EXTINF:-1 group-title="Sports",BEK Sports 24/7
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Weather & Radar",KSAT Doppler Radar
