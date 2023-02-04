@@ -1,0 +1,2 @@
+https://norcalpublic-hls.secdn.net/norcalpublic-live/play/KRCB.smil/playlist.m3u8
+https://norcalpublic-hls.secdn.net/norcalpublic-live/play/KPJK.smil/playlist.m3u8
