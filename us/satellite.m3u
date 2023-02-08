@@ -64,7 +64,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="TV",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="TV",PBS East
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+https://pbs.lls.cdn.pbs.org/est/index-720p.m3u8
 #EXTINF:-1 group-title="TV",PBS West
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 group-title="TV",Classic Arts Showcase
