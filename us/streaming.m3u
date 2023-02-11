@@ -13,6 +13,8 @@ https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/playlist/amg00684
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="LCSTR" tvg-id="LCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109553_white_360w_270h.png",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Drama" tvg-name="IMYSSTR" tvg-id="IMYSSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_white_360w_270h.png",Ion Mystery
 https://scripps-ionmystery-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="IONSTR" tvg-id="IONSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122912_white_360w_270h.png",Ion
@@ -43,6 +45,10 @@ https://d2j3i48a0fc7gv.cloudfront.net/amgthisoldhousemakers/playlist.m3u8
 https://d235jmf8w8bh78.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Game Show" tvg-name="BUZZRST" tvg-id="BUZZRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_white_360w_270h.png",BUZZR
 https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="MOVSPH" tvg-id="MOVSPH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120203_white_360w_270h.png",Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="REVRY" tvg-id="REVRY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113603_white_360w_270h.png",Revry
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="STMSTR" tvg-id="STMSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104950_white_360w_270h.png",Stadium
 https://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="IMPACTW" tvg-id="IMPACTW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121991_white_360w_270h.png",IMPACT! Wrestling
@@ -51,6 +57,10 @@ https://ps-6152cd6e7034ac0001f417c4-zqppwnqg.veset.cloud/hls/main.m3u8
 https://ps-60191c597474bf0001021f30-qhyzbdvk.veset.cloud/hls/main.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="XAZWPT" tvg-id="XAZWPT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113372_white_360w_270h.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/120.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="SPOGRID" tvg-id="SPOGRID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112732_white_360w_270h.png",SportsGrid
+https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name=VSIN"" tvg-id="VSIN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",VSiN
+https://sg1.rcncdn.com/v1/master/16e9277d8d88a943c7cf93cb0e6ad4b8a5729648/streamguys/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
 https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Spanish" tvg-name="VIZESTA" tvg-id="VIZESTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_white_360w_270h.png",Estrella TV
