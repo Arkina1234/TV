@@ -59,7 +59,7 @@ https://d27i89roau0nzv.cloudfront.net/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/ThePriceisRight/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="GMSHCE" tvg-id="GMSHCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116474_white_360w_270h.png",Game Show Central
 https://gsn-gameshowchannnel-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="DORNOD" tvg-id="DORNOD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121301_white_360w_270h.png",Deal or No Deal
+#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="DORNOD" tvg-id="DORNOD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122475_white_360w_270h.png",Deal or No Deal
 https://d3sjlbn3svig82.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="MOVSPH" tvg-id="MOVSPH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115944_white_360w_270h.png",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
