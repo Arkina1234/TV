@@ -17,6 +17,10 @@ https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/inde
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Drama" tvg-name="IMYSSTR" tvg-id="IMYSSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_white_360w_270h.png",Ion Mystery
 https://scripps-ionmystery-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Drama" tvg-name="BAYW" tvg-id="BAYW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120491_white_360w_270h.png",Baywatch
+https://d3vdwtqqboxhm9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="AWTY" tvg-id="AWTY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120237_white_360w_270h.png",Are We There Yet?
+https://lionsgate-arewethereyet-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="IONSTR" tvg-id="IONSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122912_white_360w_270h.png",Ion
 https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="IONPSTR" tvg-id="IONPSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s117518_white_360w_270h.png",Ion Plus
@@ -29,6 +33,10 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="NOSEY" tvg-id="NOSEY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119233_white_360w_270h.png",Nosey
 https://noseyintl-selecttv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="DTTB" tvg-id="DTTB" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121714_white_360w_270h.png",Don't Tell The Bride
+https://lds-donttellbride-simplestream.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="CIPROV" tvg-id="CIPROV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Caught in Providence
+https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="YUM" tvg-id="YUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115674_white_360w_270h.png",So Yummy
 https://soyummy-selecttv.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="TASTE" tvg-id="TASTE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107076_white_360w_270h.png",Tastemade
@@ -43,9 +51,17 @@ https://d1igp1kv49nlwd.cloudfront.net/amgthisoldhouse/playlist.m3u8
 https://d2j3i48a0fc7gv.cloudfront.net/amgthisoldhousemakers/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Home & DIY" tvg-name="TMHOME" tvg-id="TMHOME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s125187_white_360w_270h.png",Tastemade Home
 https://d235jmf8w8bh78.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Game Show" tvg-name="BUZZRST" tvg-id="BUZZRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_white_360w_270h.png",BUZZR
+#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="BUZZRST" tvg-id="BUZZRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_white_360w_270h.png",BUZZR
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="MOVSPH" tvg-id="MOVSPH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120203_white_360w_270h.png",Moviesphere
+#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="SPRSWP" tvg-id="SPRSWP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121598_white_360w_270h.png",Supermarket Sweep
+https://d27i89roau0nzv.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="TPIR" tvg-id="TPIR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121659_white_360w_270h.png",The Price Is Right: The Barker Era
+https://siloh.pluto.tv/lilo/production/ThePriceisRight/master.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="GMSHCE" tvg-id="GMSHCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116474_white_360w_270h.png",Game Show Central
+https://gsn-gameshowchannnel-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="DORNOD" tvg-id="DORNOD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121301_white_360w_270h.png",Deal or No Deal
+https://d3sjlbn3svig82.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="MOVSPH" tvg-id="MOVSPH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115944_white_360w_270h.png",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="REVRY" tvg-id="REVRY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113603_white_360w_270h.png",Revry
 https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
@@ -61,6 +77,8 @@ https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/120.m3u8
 https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name=VSIN"" tvg-id="VSIN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",VSiN
 https://sg1.rcncdn.com/v1/master/16e9277d8d88a943c7cf93cb0e6ad4b8a5729648/streamguys/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="ACCDN" tvg-id="ACCDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124806_white_360w_270h.png",ACCDN
+https://120sports-accdn-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
 https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Spanish" tvg-name="VIZESTA" tvg-id="VIZESTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_white_360w_270h.png",Estrella TV
