@@ -58,15 +58,15 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Spanish" tvg-name="ESTNEWS" tvg-id="ESTENWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s117478_white_360w_270h.png",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VVP" tvg-id="VVP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115694_white_360w_270h.png",Vevo Pop
-https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
+https://d28edobz3hqdpi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VVHH" tvg-id="VVHH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Vevo Hip-Hop
-https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
+https://d2p8vga36q26tv.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VVRB" tvg-id="VVRB" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Vevo R&B
-https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8
+https://d188921up0bidw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VVC" tvg-id="VVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Vevo Country
-https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/8e0c316e-0f5f-445a-98a6-616e93b87f87-roku-channel/live.m3u8
+https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VVL" tvg-id="VVL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120053_white_360w_270h.png",Vevo Latino
-https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/a6cb3e12-3ff2-4429-9838-53f9dfa6bacf-roku-channel/live.m3u8
+https://d1jg19cd16tz4s.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VVRT" tvg-id="VVRT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121388_white_360w_270h.png",Vevo Reggaeton & Trap
 https://na.linear.zype.com/551f8fd6-a43b-851e-7ce8-05629c4c99e3/25463f19-c4d2-4ac0-8feb-f4e206452cdc-roku-channel/live.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VV70" tvg-id="VV70" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121122_white_360w_270h.png",Vevo 70s
