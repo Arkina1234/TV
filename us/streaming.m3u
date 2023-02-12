@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="NEWSY" tvg-id="NEWSY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_white_360w_270h.png",Scripps News
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-name="LIVENOW" tvg-id="LIVENOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119219_white_360w_270h.png",LiveNOW from FOX
+https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="NEWSMX" tvg-id="NEWSMX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87925_white_360w_270h.png",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="CHEDSTR" tvg-id="CHEDSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101103_white_360w_270h.png",Cheddar News
@@ -9,6 +11,9 @@ https://livestream.chdrstatic.com/cheddar/primary/index.m3u8
 https://livestream.chdrstatic.com/news12newyork/primary/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Weather" tvg-name="ACUWNW" tvg-id="ACUWNW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120551_white_360w_270h.png",AccuWeather Now
 https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/playlist/amg00684-accuweatherinc-accuweather-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="FOXWX" tvg-id="FOXWX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93141_white_360w_270h.png",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Financial" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113674_white_360w_270h.png",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
@@ -27,6 +32,8 @@ https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="BOUNSTR" tvg-id="BOUNSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120372_white_360w_270h.png",Bounce XL
 https://scripps-bouncexl-1-us.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="FOXSOUL" tvg-id="FOXSOUL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119212_white_360w_270h.png",FOX SOUL
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="XCIRCLE" tvg-id="XCIRCLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116338_white_360w_270h.png",Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124040_white_360w_270h.png",Grit Xtra
@@ -35,7 +42,7 @@ https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 https://noseyintl-selecttv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="DTTB" tvg-id="DTTB" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121714_white_360w_270h.png",Don't Tell The Bride
 https://lds-donttellbride-simplestream.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="CIPROV" tvg-id="CIPROV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Caught in Providence
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="CIPROV" tvg-id="CIPROV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121881_white_360w_270h.png",Caught in Providence
 https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="YUM" tvg-id="YUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115674_white_360w_270h.png",So Yummy
 https://soyummy-selecttv.amagi.tv/index.m3u8
