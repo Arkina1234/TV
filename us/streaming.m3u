@@ -11,8 +11,9 @@ https://livestream.chdrstatic.com/cheddar/primary/index.m3u8
 https://livestream.chdrstatic.com/news12newyork/primary/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Weather" tvg-name="ACUWNW" tvg-id="ACUWNW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120551_white_360w_270h.png",AccuWeather Now
 https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/playlist/amg00684-accuweatherinc-accuweather-ono/CDN/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="FOXWX" tvg-id="FOXWX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93141_white_360w_270h.png",Fox Weather
+#EXTINF:-1 tvg-chno="" group-title="Weather" tvg-name="FOXWX" tvg-id="FOXWX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93141_white_360w_270h.png",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Weather" tvg-name="WTHRNAT" tvg-id="WTHRNAT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72413_white_360w_270h.png",WeatherNation
 https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Financial" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113674_white_360w_270h.png",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
