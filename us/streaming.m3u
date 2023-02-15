@@ -113,3 +113,8 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/52e2cd5e8678
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6f3906dc3132490c8b2cc96c1be2936c/live.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="VV2K" tvg-id="VV2K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121125_white_360w_270h.png",Vevo 2K
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/7b83f8a3217842c296f761a901362cf0/live.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="F80BK" tvg-id="F80BK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s125191_white_360w_270h.png",XITE 80s Flashback
+https://dw0oa71jud5ry.cloudfront.net/amg80rewind/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="F90BK" tvg-id="F90BK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",XITE 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/amg90rock/playlist.m3u8
+
