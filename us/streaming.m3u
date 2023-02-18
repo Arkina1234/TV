@@ -71,7 +71,7 @@ https://mst3k-ts-zype.amagi.tv/playlist.m3u8
 https://johnnycarson-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="CAROL" tvg-id="CAROL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122609_white_360w_270h.png",The Carol Burnett Show
 https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogoElectricNOWs/s124040_white_360w_270h.png",Grit Xtra
+#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogo/s124040_white_360w_270h.png",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="DOVESTR" tvg-id="DOVESTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110480_white_360w_270h.png",Dove Channel
 https://dovenow-plex-ingest.cinedigm.com/playlist.m3u8
@@ -85,6 +85,14 @@ https://noseyintl-selecttv.amagi.tv/playlist.m3u8
 https://lds-donttellbride-simplestream.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="CIPROV" tvg-id="CIPROV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121881_white_360w_270h.png",Caught in Providence
 https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="FLARMY" tvg-id="FLARMY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121204_white_360w_270h.png",FailArmy
+https://failarmy-linear-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="PAAINTL" tvg-id="PAAINTL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s133322_white_360w_270h.png",People are Awesome
+https://jukin-peopleareawesome-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="PETCOLL" tvg-id="PETCOLL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110356_white_360w_270h.png",The Pet Collective
+https://the-pet-collective-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="WTHRSPY" tvg-id="WTHRSPY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s127141_white_360w_270h.png",WeatherSpy
+https://jukin-weatherspy-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="LOCALSH" tvg-id="LOCALSH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70938_white_360w_270h.png",Localish
 https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="DABL" tvg-id="DABL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_white_360w_270h.png",Dabl
