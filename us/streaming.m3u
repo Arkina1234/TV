@@ -91,13 +91,13 @@ https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="REALSTR" tvg-id="REALSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114871_white_360w_270h.png",So... Real
 https://soreal-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="" tvg-name="QVC" tvg-id="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",QVC
+#EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="QVC" tvg-id="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_white_360w_270h.png",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-chno="" group-title="" tvg-name="HSN" tvg-id="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",HSN
+#EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="HSN" tvg-id="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10269_white_360w_270h.png",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1 tvg-chno="" group-title="" tvg-name="BIGDISH" tvg-id="BIGDISH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s129135_white_360w_270h.png",The Big Dish
+#EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="BIGDISH" tvg-id="BIGDISH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s129135_white_360w_270h.png",The Big Dish
 https://amg01717-qvcinc-thebigdish-selecttv-xttxc.amagi.tv/playlist/amg01717-qvcinc-thebigdish-selecttv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="" tvg-name="JTV" tvg-id="JTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_white_360w_270h.png",JTV
+#EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="JTV" tvg-id="JTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_white_360w_270h.png",JTV
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="TASTE" tvg-id="TASTE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107076_white_360w_270h.png",Tastemade
 https://tastemadefreetv16-brightcove.amagi.tv/master.m3u8
