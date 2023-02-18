@@ -71,7 +71,7 @@ https://mst3k-ts-zype.amagi.tv/playlist.m3u8
 https://johnnycarson-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="CAROL" tvg-id="CAROL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122609_white_360w_270h.png",The Carol Burnett Show
 https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogo/s124040_white_360w_270h.png",Grit Xtra
+#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124040_white_360w_270h.png",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="DOVESTR" tvg-id="DOVESTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110480_white_360w_270h.png",Dove Channel
 https://dovenow-plex-ingest.cinedigm.com/playlist.m3u8
@@ -131,10 +131,6 @@ https://d27i89roau0nzv.cloudfront.net/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/ThePriceisRight/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="GMSHCE" tvg-id="GMSHCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116474_white_360w_270h.png",Game Show Central
 https://gsn-gameshowchannnel-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="DORNOD" tvg-id="DORNOD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122475_white_360w_270h.png",Deal or No Deal
-https://d3sjlbn3svig82.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Game Shows" tvg-name="WIPEOUT" tvg-id="WIPEOUT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113735_white_360w_270h.png",Wipeout Xtra
-https://d2stx9idyk58lb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="PREVIEW" tvg-id="PREVIEW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s129902_white_360w_270h.png",The Preview Channel
 https://previewchannel-previewchannel-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="MOVSPH" tvg-id="MOVSPH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115944_white_360w_270h.png",Moviesphere
