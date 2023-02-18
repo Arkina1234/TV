@@ -157,6 +157,7 @@ https://sg1.rcncdn.com/v1/master/16e9277d8d88a943c7cf93cb0e6ad4b8a5729648/stream
 https://120sports-accdn-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="BEINX" tvg-id="BEINX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113143_white_360w_270h.png",beIN SPORTS XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="MAVTVST" tvg-id="MAVTVST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",MavTV Select
 https://mavtv-1-us.selecttv.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
 https://outsidetv-oando.amagi.tv/playlist.m3u8
