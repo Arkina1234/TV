@@ -11,6 +11,8 @@ https://lnc-fox-live-now.tubi.video/index.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="LX" tvg-id="LX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114278_white_360w_270h.png",LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-name="LOCNOW" tvg-id="LOCNOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99988_white_360w_270h.png",Local Now
+https://djocnjwtkehj4.cloudfront.net/37c4ba92985d8d79/746ac1558408920b/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="CHEDSTR" tvg-id="CHEDSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101103_white_360w_270h.png",Cheddar News
 https://livestream.chdrstatic.com/cheddar/primary/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="N12NY" tvg-id="N12NY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116946_white_360w_270h.png",News 12 New York
@@ -39,6 +41,8 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 https://amg00491-fandango-rottentomatous-samsungus-b17d7.amagi.tv/playlist/amg00491-fandango-rottentomatous-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="BAKSGE" tvg-id="BAKSGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s117060_white_360w_270h.png",Backstage
 https://d1w5xedouwkj5i.cloudfront.net/amgfusebackstage/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="AXSTNST" tvg-id="AXSTNST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s123156_white_360w_270h.png",AXS TV NOW
+https://5f2125c37494350001010e71.veset.cloud/hls/main.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="LCSTR" tvg-id="LCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109553_white_360w_270h.png",Law & Crime
@@ -71,6 +75,10 @@ https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="DOVESTR" tvg-id="DOVESTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110480_white_360w_270h.png",Dove Channel
 https://dovenow-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="TBRCSTR" tvg-id="TBRCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114491_white_360w_270h.png",The Bob Ross Channel
+https://bobross-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="ELVIS" tvg-id="ELVIS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124326_white_360w_270h.png",The Elvis Presley Channel
+https://amg01201-cinedigmenterta-elvispresley-plex-vt3lj.amagi.tv/playlist/amg01201-cinedigmenterta-elvispresley-plex/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="NOSEY" tvg-id="NOSEY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119233_white_360w_270h.png",Nosey
 https://noseyintl-selecttv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="DTTB" tvg-id="DTTB" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121714_white_360w_270h.png",Don't Tell The Bride
@@ -83,6 +91,14 @@ https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="REALSTR" tvg-id="REALSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114871_white_360w_270h.png",So... Real
 https://soreal-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="" tvg-name="QVC" tvg-id="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1 tvg-chno="" group-title="" tvg-name="HSN" tvg-id="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-chno="" group-title="" tvg-name="BIGDISH" tvg-id="BIGDISH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s129135_white_360w_270h.png",The Big Dish
+https://amg01717-qvcinc-thebigdish-selecttv-xttxc.amagi.tv/playlist/amg01717-qvcinc-thebigdish-selecttv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="" tvg-name="JTV" tvg-id="JTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_white_360w_270h.png",JTV
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="TASTE" tvg-id="TASTE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107076_white_360w_270h.png",Tastemade
 https://tastemadefreetv16-brightcove.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="TMTRAVEL" tvg-id="TMTRAVEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120351_white_360w_270h.png",Tastemade Travel
@@ -91,6 +107,8 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 https://tastemade-tastemadeinternational-brightcove-cnf7i.amagi.tv/playlist/tastemade-tastemadeinternational-brightcove/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="YUM" tvg-id="YUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115674_white_360w_270h.png",So Yummy
 https://soyummy-selecttv.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Food" tvg-name=GUSTOTV"" tvg-id="GUSTOTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111140_white_360w_270h.png",GUSTOTV
+https://amg01077-gustoworldwidem-gustous-selecttv-ud0uo.amagi.tv/playlist/amg01077-gustoworldwidem-gustous-selecttv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Home & DIY" tvg-name="TOH" tvg-id="TOH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120480_white_360w_270h.png",This Old House
 https://d1igp1kv49nlwd.cloudfront.net/amgthisoldhouse/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Home & DIY" tvg-name="TOHMC" tvg-id="TOHMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122387_white_360w_270h.png",This Old House Makers Channel
@@ -135,6 +153,7 @@ https://sg1.rcncdn.com/v1/master/16e9277d8d88a943c7cf93cb0e6ad4b8a5729648/stream
 https://120sports-accdn-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="BEINX" tvg-id="BEINX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113143_white_360w_270h.png",beIN SPORTS XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+https://mavtv-1-us.selecttv.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
 https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Spanish" tvg-name="VIZESTA" tvg-id="VIZESTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_white_360w_270h.png",Estrella TV
