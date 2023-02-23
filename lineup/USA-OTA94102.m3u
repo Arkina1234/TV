@@ -26,6 +26,8 @@ https://v-ca.mybtv.net/live/163.m3u8
 https://v-ca.mybtv.net/live/125.m3u8
 #EXTINF:-1 tvg-chno="22.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",KRCB-DT
 https://norcalpublic-hls.secdn.net/norcalpublic-live/play/KRCB.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="22.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",KRCB-C
+https://v-ca.mybtv.net/live/719.m3u8
 #EXTINF:-1 tvg-chno="26.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10736_dark_360w_270h.png",KTSF
 https://v-ca.mybtv.net/live/126.m3u8
 #EXTINF:-1 tvg-chno="26.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s50437_dark_360w_270h.png",26-3
