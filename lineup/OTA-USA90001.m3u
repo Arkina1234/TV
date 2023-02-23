@@ -86,7 +86,7 @@ https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 https://hls.youtb.workers.dev/channel/UCBvNR8xiS5crrzPXQir8TpQ.m3u8
 #EXTINF:-1 tvg-chno="58.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",KLCS-HD
 https://v-la.mybtv.net/live/109.m3u8
-#EXTINF:-1 tvg-chno="58.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",KIDS-TV
+#EXTINF:-1 tvg-chno="58.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",KIDS-TV
 https://v-la.mybtv.net/live/110.m3u8
 #EXTINF:-1 tvg-chno="58.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",CREATE
 https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
