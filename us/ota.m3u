@@ -19,6 +19,8 @@ https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 http://swaag-tv-preview.trafficjam.ca:5080/LiveApp/streams/78791414821007205382_adaptive.m3u8
 #EXTINF:-1 group-title="General",WMFD Television
 https://hls-live-media.cdn01.net/default/stream_27547.m3u8?source=othersites
+#EXTINF:-1 group-title="General",WIVM-LD 39
+https://api.new.livestream.com/accounts/17488475/events/4802826/live.m3u8
 #EXTINF:-1 group-title="News",Florida 24 Network (WHDT)
 https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8?ad=live&expand=live&ad.adUnit=/fl24/livestream/midroll
 #EXTINF:-1 group-title="News",Local News 8 NOW (KIFI-TV 8.4)
@@ -33,6 +35,8 @@ http://dai2-playlistserver.aws.syncbak.com/cpl/20492205/dai2v5/1.0/7b22646576696
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DSN (WBOC-TV 16.2)
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",WOSN (WLMA 44.2)
+https://cdn3.wowza.com/1/K1NDYm90dUgyTXZK/WlQrOE92/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",WRAL Sports Plus (WNGT-CD)
 https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
 #EXTINF:-1 group-title="Public",KET KY
@@ -53,6 +57,8 @@ https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2c
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local",Vision (WSWF-LD 10.3)
 http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Local",WHIG-CD 31
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/72b9b345a2ce4e9291957ff609cbb9f3/playlist.m3u8
 #EXTINF:-1 group-title="Music",CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",CMC-USA
@@ -61,17 +67,17 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Atlanta Channel
+#EXTINF:-1 group-title="Tourism Info",Atlanta Channel (WTHC-LD)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Beach TV Panama City
+#EXTINF:-1 group-title="Tourism Info",Beach TV Panama City (WPCT)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Beach TV Florida & Alabama
+#EXTINF:-1 group-title="Tourism Info",Beach TV Florida & Alabama (WAWD)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Beach TV Myrtle Beach
+#EXTINF:-1 group-title="Tourism Info",Beach TV Myrtle Beach (WGSC-CD)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Key TV
+#EXTINF:-1 group-title="Tourism Info",Key TV (WCAY-CD)
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",NOTV
+#EXTINF:-1 group-title="Tourism Info",NOTV (KNOV-CD)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Tourism Info",Pocono Television (WDPN-TV 2.8)
 https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
@@ -109,6 +115,6 @@ https://live.ntdtv.com/uwlive990/playlist.m3u8
 https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 group-title="Ethnic",NTDTV SF (KCNS 38.5)
 https://live.ntdtv.com/sflive990/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Horse Racing",OTB TV (WXXA-TV 23.2)
+https://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
 
