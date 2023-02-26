@@ -1,20 +1,34 @@
 #EXTM3U
+#EXTINF:-1 group-title="National",Ace TV
+https://d14c63magvk61v.cloudfront.net/strm/channels/aspen2/master.m3u8
+#EXTINF:-1 group-title="National",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="National",Biz TV
+https://thegateway.app/Bizcdn/BizTV-ABR/BizAndYou/Biz_720p/playlist.m3u8
 #EXTINF:-1 group-title="National",Classic Reruns TV
 https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
 #EXTINF:-1 group-title="National",CRTV
 http://crtvnoc.com/hls/select-tv-main.m3u8
+#EXTINF:-1 group-title="National",Fun Roads
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 group-title="National",NewsNet
+https://cdnendpoint001.noisypeak.com/25042334/content/playlist.m3u8
 #EXTINF:-1 group-title="National",Novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1 group-title="National",Right Now TV
+https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/playlist.m3u8
 #EXTINF:-1 group-title="National",Timeless TV
 https://cdn38.fntvchannel.com/playlist/playlist.m3u8
-#EXTINF:-1 group-title="Real Estate",702.TV (KHMP-LD 18.8)
-https://livetv.305streamhd.com:3578/live/sevenzerotwotvlive.m3u8
+#EXTINF:-1 group-title="National",YTA
+https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 group-title="General",KCWX 
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",KOOL TV (K34HO/K21GN)
 http://64.91.244.153:1935/roku/roku/playlist.m3u8
 #EXTINF:-1 group-title="General",KQSL
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
+#EXTINF:-1 group-title="General",KVVB.TV 33
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 group-title="General",SWAAG TV (WPVN-CD 24.3)
 http://swaag-tv-preview.trafficjam.ca:5080/LiveApp/streams/78791414821007205382_adaptive.m3u8
 #EXTINF:-1 group-title="General",WMFD Television
@@ -65,6 +79,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/72b9b345a2ce4e9291957ff609cbb9f3/p
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="Music",StreetzTV
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_1q68na3t5jy8.m3u8
 #EXTINF:-1 group-title="Music",Video Mix TV Orlando+Tampa (WSWF-LD 10.8/WTBT-LD 45.7)
 https://2-fss-2.streamhoster.com/pl_138/206436-3189486-1/playlist.m3u8
 #EXTINF:-1 group-title="Music",Video Mix TV South Florida (W18EU)
@@ -75,6 +91,10 @@ https://2-fss-1.streamhoster.com/pl_122/205510-3150738-1/playlist.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1 group-title="Horse Racing",OTB TV (WXXA-TV 23.2)
+https://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
+#EXTINF:-1 group-title="Real Estate",702.TV (KHMP-LD 18.8)
+https://livetv.305streamhd.com:3578/live/sevenzerotwotvlive.m3u8
 #EXTINF:-1 group-title="Tourism Info",Atlanta Channel (WTHC-LD)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="Tourism Info",Beach TV Panama City (WPCT)
@@ -129,6 +149,4 @@ https://live.ntdtv.com/uwlive990/playlist.m3u8
 https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 group-title="Ethnic",NTDTV SF (KCNS 38.5)
 https://live.ntdtv.com/sflive990/playlist.m3u8
-#EXTINF:-1 group-title="Horse Racing",OTB TV (WXXA-TV 23.2)
-https://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
 
