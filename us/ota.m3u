@@ -65,6 +65,12 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/72b9b345a2ce4e9291957ff609cbb9f3/p
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="Music",Video Mix TV Orlando+Tampa (WSWF-LD 10.8/WTBT-LD 45.7)
+https://2-fss-2.streamhoster.com/pl_138/206436-3189486-1/playlist.m3u8
+#EXTINF:-1 group-title="Music",Video Mix TV South Florida (W18EU)
+https://c.streamhoster.com/link/hls/W3s3Xf/iT1pSTusAtV/iGX6IdsWm0F_5/playlist.m3u8
+#EXTINF:-1 group-title="Music",Vision Musical TV (KHSC-LD 35.4)
+https://2-fss-1.streamhoster.com/pl_122/205510-3150738-1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",América TeVé (WJAN-CD)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
@@ -93,10 +99,12 @@ https://bozztv.com/cus01/coacb/coacb/tracks-v1a1/mono.m3u8
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Good Life 45 (WTGL)
 https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1 group-title="Religious",JGN TV (WACX 55.10)
+https://www.lightcast.com/embed/playlist_m3u8_live2.php?playlist=eyJzdHJlYW1lciI6InJ0bXA6XC9cL2xpdmUyLmNkbjAxLm5ldFwvTGl2ZUNoYW5uZWxzIiwic291cmNlIjoid293emEiLCJobHNfdXJsIjoiaHR0cHM6XC9cL2hscy1saXZlLWxpbmVhci13ZWItbWVkaWEuY2RuMDEubmV0XC9MaXZlQ2hhbm5lbHNcLyMjI1NUUkVBTSMjI1wvY2h1bmtsaXN0Lm0zdTgiLCJ1cmwiOiJzdHJlYW1fMjYyODEiLCJtZWRpYUdyb3VwIjpbeyJpZCI6IjI2MjgxIiwiYml0cmF0ZSI6IjE4ODgiLCJ3aWR0aCI6IjEyODAiLCJ1cmwiOiJzdHJlYW1fMjYyODEifSx7ImlkIjoiMjYyODIiLCJiaXRyYXRlIjoiNjc2Iiwid2lkdGgiOiI2NDAiLCJ1cmwiOiJzdHJlYW1fMjYyODIifSx7ImlkIjoiMjYyODMiLCJiaXRyYXRlIjoiMTkyIiwid2lkdGgiOiIzMjAiLCJ1cmwiOiJzdHJlYW1fMjYyODMifV0sImhsc19wYXJhbWV0ZXJzIjoiPzloLTNENURNTF9Gc2JyNkctTzJaelBlT0p3RFMybmFMdHdUcmp4WWd5ZjR0OWFIUnFzUjNSMHRGMEVqd3NwRXd0eXlzQ2xRTG9KUmNjXzNXbVhKSGFpWnY5Zy1fbzVJRFFNbFoxdDVvOUNmYldvOEV4bEtFR1VPZEpPdG5OT083amRrWEprZkQwTE85UHFzQWF0NTBPSmdTaDlrVThpOV9SNDBXWFZQa0ZXSDJ4ZGswMGtPMUtjNzlvNVpQMW44YzFSbXozT1pkVktVbGtJMHVvcXlBZDlmSXF4TWVISnJ3UmRObEd6UTFsM1FaXzNnU1FTd2tWamFhZ0tDanAzOHVlR0hRZFpWQVhrdXZmRUMxci1PWEVtOHlya0RFOXJLTVJDMkhqS1BpVFJZSFFXNGEzU2lLR2x6bmtHTF9POVFXdW9CRjhIZDYyRXU4RWR3bHlYS3prQSZjaGFubmVsX2lkPTI2MjgxJnNvdXJjZT1XZWJBcHAmYXBwX2lkPTI3MjkmZGV2aWNlX2lkPTI2NjI1Nzk0NjMtOTNjMzliZTE2Zjg0MjkwYzU3ZDBiNDM5MWM0YmVhYjAmbGNwPTIiLCJjbGllbnRfaWQiOiImY2xpZW50X2lkPTIxMDYyMzg1NzU3MDg0NjQ2MSJ9&play_id=1677411912446720
 #EXTINF:-1 group-title="Religious",LIFE! (KSCE)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SuperChannel Orlando (WACX)
-https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SUMTV (KAIL 7.10)
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",theDove (KDOV-LD)
