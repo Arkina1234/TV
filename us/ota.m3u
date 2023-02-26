@@ -75,6 +75,8 @@ http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local",WHIG-CD 31
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/72b9b345a2ce4e9291957ff609cbb9f3/playlist.m3u8
+#EXTINF:-1 group-title="Music",Blues Television Network
+https://c.streamhoster.com/link/hls/W5s3Wi/3gVcfnWsqJZ/i9awBds4KGh_5/playlist.m3u8
 #EXTINF:-1 group-title="Music",CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",CMC-USA
@@ -86,7 +88,7 @@ https://2-fss-2.streamhoster.com/pl_138/206436-3189486-1/playlist.m3u8
 #EXTINF:-1 group-title="Music",Video Mix TV South Florida (W18EU)
 https://c.streamhoster.com/link/hls/W3s3Xf/iT1pSTusAtV/iGX6IdsWm0F_5/playlist.m3u8
 #EXTINF:-1 group-title="Music",Vision Musical TV (KHSC-LD 35.4)
-https://2-fss-1.streamhoster.com/pl_122/205510-3150738-1/playlist.m3u8
+https://c.streamhoster.com/link/hls/W5s3Wi/3gVcfnWsqJZ/iIjZGps4BSV_5/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",América TeVé (WJAN-CD)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
