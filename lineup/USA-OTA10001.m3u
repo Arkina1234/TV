@@ -152,13 +152,13 @@ https://ntd02.akamaized.net/HD-NY/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="63.7" tvg-name="WMBCDT7" tvg-id="WMBCDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76786_dark_360w_270h.png",ALIENTO
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="63.08" tvg-name="WMBCDT8" tvg-id="WMBCDT8.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79045_dark_360w_270h.png",WDNJ
-https://ic2.sslstream.com/wdnj-fm
+https://ic2.christiannetcast.com/wdnj-fm
 #EXTINF:-1 tvg-chno="63.09" tvg-name="WMBCDT9" tvg-id="WMBCDT9.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79046_dark_360w_270h.png",KCBN
 https://streamer.radio.co/sc8fe32068/listen
 #EXTINF:-1 tvg-chno="63.11" tvg-name="WMBCD11" tvg-id="WMBCD11.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112131_dark_360w_270h.png",WWGB
-https://147.135.84.27:80/wwgb-am
+https://ic2.christiannetcast.com/wwgb-am
 #EXTINF:-1 tvg-chno="63.12" tvg-name="WMBCD12" tvg-id="WMBCD12.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112132_dark_360w_270h.png",WBTK
-https://147.135.84.27:80/wbtk-am
+https://ic2.christiannetcast.com/wbtk-am
 #EXTINF:-1 tvg-chno="68.1" tvg-name="WFUTDT" tvg-id="WFUTDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",WFUT-DT
 https://v-ny.mybtv.net/live/713.m3u8
 #EXTINF:-1 tvg-chno="68.2" tvg-name="WFUTDT2" tvg-id="WFUTDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91496_dark_360w_270h.png",CRIME
