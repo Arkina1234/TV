@@ -91,7 +91,7 @@ https://v-ny.mybtv.net/live/609.m3u8
 https://d1j7cwbdfboas0.cloudfront.net/out/v1/2b0282e10f244d41b35a2dd815b044af/index_2.m3u8
 #EXTINF:-1 tvg-chno="32.1" tvg-name="WXNYLD1" tvg-id="WXNYLD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19026_dark_360w_270h.png",WXNY-LD
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
-#EXTINF:-1 tvg-chno="32.1" tvg-name="WXNYLD2" tvg-id="WXNYLD2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s132423_dark_360w_270h.png",WXNY-LD
+#EXTINF:-1 tvg-chno="32.2" tvg-name="WXNYLD2" tvg-id="WXNYLD2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s132423_dark_360w_270h.png",WXNY-LD
 https://hls-live-media.cdn01.net/dvr/stream_37429.m3u8
 #EXTINF:-1 tvg-chno="33.1" tvg-name="WJLPDT" tvg-id="WJLPDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png",MeTV
 https://v-ny.mybtv.net/live/637.m3u8
