@@ -61,8 +61,10 @@ https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 #EXTINF:-1 group-title="Public",KPJK
 https://norcalpublic-hls.secdn.net/norcalpublic-live/play/KPJK.smil/playlist.m3u8
-#EXTINF:-1 group-title="Educational",KRSU-TV 35.1
-https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
+#EXTINF:-1 group-title="Public",RSU2
+https://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
+#EXTINF:-1 group-title="Educational",RSUTV Public Television
+https://2-fss-1.streamhoster.com/pl_122/amlst:202742-1432010/playlist.m3u8
 #EXTINF:-1 group-title="Educational",Michigan Learning Channel
 https://d2jalth387y2js.cloudfront.net/test.m3u8
 #EXTINF:-1 group-title="Government",The Ohio Channel
