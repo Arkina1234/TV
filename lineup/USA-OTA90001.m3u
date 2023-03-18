@@ -32,15 +32,15 @@ http://api.new.livestream.com/accounts/23191280/events/8122971/broadcasts/234781
 https://v-la.mybtv.net/live/78.m3u8
 #EXTINF:-1 tvg-chno="34.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png",KMEX-DT
 https://v-la.mybtv.net/live/178.m3u8
-#EXTINF:-1 tvg-chno="40.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",TBN
+#EXTINF:-1 tvg-chno="40.1" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_dark_360w_270h.png",TBN
 https://v-la.mybtv.net/live/93.m3u8
-#EXTINF:-1 tvg-chno="40.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",inspire
+#EXTINF:-1 tvg-chno="40.2" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122276_dark_360w_270h.png",inspire
 https://v-la.mybtv.net/live/94.m3u8
-#EXTINF:-1 tvg-chno="40.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",SMILE
+#EXTINF:-1 tvg-chno="40.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",SMILE
 https://v-la.mybtv.net/live/95.m3u8
-#EXTINF:-1 tvg-chno="40.4" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",Enlace
+#EXTINF:-1 tvg-chno="40.4" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20286_dark_360w_270h.png",Enlace
 https://v-la.mybtv.net/live/96.m3u8
-#EXTINF:-1 tvg-chno="40.5" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",PosiTiV
+#EXTINF:-1 tvg-chno="40.5" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34169_dark_360w_270h.png",PosiTiV
 https://v-la.mybtv.net/live/97.m3u8
 #EXTINF:-1 tvg-chno="44.3" tvg-name="DT" tvg-id="DT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49492_dark_360w_270h.png",SKYLINK
 https://v-la.mybtv.net/live/99.m3u8
