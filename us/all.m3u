@@ -11,11 +11,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
 #EXTINF:-1,DW English [SD]
 #EXTVLCOPT:http-referrer=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream01/streamPlaylist.m3u8
+#EXTINF:-1,CNN [SD]
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_7_264000.m3u8
 #EXTINF:-1,CNN International [SD]
 https://tve-live-lln.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_7_264000.m3u8
 #EXTINF:-1,France 24 English [SD]
 #EXTVLCOPT:http-referrer=https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
 https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
+#EXTINF:-1,HLN [SD]
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_7_264000.m3u8
 #EXTINF:-1,NHK World-Japan [SD]
 #EXTVLCOPT:http-referrer=https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
