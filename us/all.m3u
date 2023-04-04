@@ -23,3 +23,6 @@ https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
 #EXTINF:-1,NHK World-Japan [SD]
 #EXTVLCOPT:http-referrer=https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
+#EXTINF:-1,CatholicTV [SD]
+#EXTVLCOPT:http-referrer=https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
