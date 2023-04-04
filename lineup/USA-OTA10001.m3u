@@ -66,7 +66,7 @@ https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/2de29ea6-91c5-428b-b004-
 #EXTINF:-1 tvg-chno="24" tvg-name="WASALD" tvg-id="WASALD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_dark_360w_270h.png",WASA-LD
 https://v-ny.mybtv.net/live/650.m3u8
 #EXTINF:-1 tvg-chno="25.1" tvg-name="WNYEDT" tvg-id="WNYEDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11744_dark_360w_270h.png",NYLIFE
-https://v-ny.mybtv.net/live/591.m3u8
+https://v-ny.mybtv.net/live/591?env=prd&uid=-1&x=1&date=2023-04-01T01%3A26%3A28Z&expires=21600&sig=6f6705493ee4014680dcb77ce4a3ee2bfdf2ec0c93c41773efe0c42e7bf5430a
 #EXTINF:-1 tvg-chno="25.2" tvg-name="WNYEDT2" tvg-id="WNYEDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s00000_dark_360w_270h.png",NYGOV
 https://v-ny.mybtv.net/live/592.m3u8
 #EXTINF:-1 tvg-chno="25.3" tvg-name="WNYEDT3" tvg-id="WNYEDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10167_dark_360w_270h.png",CUNY
