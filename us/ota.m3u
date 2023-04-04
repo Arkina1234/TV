@@ -70,7 +70,7 @@ https://d2jalth387y2js.cloudfront.net/test.m3u8
 #EXTINF:-1 group-title="Government",The Ohio Channel
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 #EXTINF:-1 group-title="Government",The Florida Channel
-https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_zfd7tvio/protocol/https/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="Local",Orange (WSWF-LD 10.2)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local",Vision (WSWF-LD 10.3)
