@@ -8,6 +8,8 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 #EXTINF:-1,CGTN [SD]
 #EXTVLCOPT:http-referrer=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,Circle [SD]
+https://frndlymsl1.akamaized.net/hls/live/2006426/circlemsl/circlemsl/circle_600/chunklist.m3u8?hdntl=exp=1681665650~acl=*~data=hdntl~hmac=edbc727edb8f52d91a27c8d802a4d6c00eed9c1195eab7534b93641b66c6cfdf
 #EXTINF:-1,Classic Arts Showcase [SD]
 #EXTVLCOPT:http-referrer=https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
@@ -17,6 +19,8 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_7_
 https://tve-live-lln.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_7_264000.m3u8
 #EXTINF:-1,Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/01.m3u8
+#EXTINF:-1,Cowboy Channel [SD]
+https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/
 #EXTINF:-1,Dabl [SD]
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd_1.m3u8
 #EXTINF:-1,DW English [SD]
@@ -27,6 +31,8 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream01/strea
 https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
 #EXTINF:-1,FOX Weather [SD]
 https://247wlive.foxweather.com/stream/index_512x288.m3u8
+#EXTINF:-1,FSTV [SD]
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/01.m3u8
 #EXTINF:-1,HLN [SD]
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_7_264000.m3u8
 #EXTINF:-1,LX [SD]
@@ -36,7 +42,13 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-6.m3u8
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
 #EXTINF:-1,PBS KIDS [SD]
 https://d3afonbm0qxmbc.cloudfront.net/est_130.m3u8
+#EXTINF:-1,RFD-TV [SD]
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/live-audio_0=64000-video=364992.m3u8
 #EXTINF:-1,Scripps News [SD]
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_12.m3u8
 #EXTINF:-1,The Grio [SD]
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index_1.m3u8
+#EXTINF:-1,UniMás Este [SD]
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_800_pc.m3u8?t1=&fdvr=dvr
+#EXTINF:-1,Univision Este [SD]
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_800_pc.m3u8?t1=&fdvr=dvr
