@@ -13,10 +13,6 @@ https://frndlymsl1.akamaized.net/hls/live/2006426/circlemsl/circlemsl/circle_600
 #EXTINF:-1,Classic Arts Showcase [SD]
 #EXTVLCOPT:http-referrer=https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
-#EXTINF:-1,CNN [SD]
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_7_264000.m3u8
-#EXTINF:-1,CNN International [SD]
-https://tve-live-lln.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_7_264000.m3u8
 #EXTINF:-1,Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/01.m3u8
 #EXTINF:-1,Cowboy Channel [SD]
@@ -33,8 +29,6 @@ https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
 https://247wlive.foxweather.com/stream/index_512x288.m3u8
 #EXTINF:-1,FSTV [SD]
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/01.m3u8
-#EXTINF:-1,HLN [SD]
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_7_264000.m3u8
 #EXTINF:-1,LX [SD]
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-6.m3u8
 #EXTINF:-1,NHK World-Japan [SD]
