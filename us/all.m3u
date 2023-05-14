@@ -2,9 +2,6 @@
 #EXTINF:-1,Al Jazeera English [SD]
 #EXTVLCOPT:http-referrer=https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE-b/06.m3u8
-#EXTINF:-1,CatholicTV [SD]
-#EXTVLCOPT:http-referrer=https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 #EXTINF:-1,CGTN [SD]
 #EXTVLCOPT:http-referrer=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://live.cgtn.com/500/prog_index.m3u8
