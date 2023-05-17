@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml"
 #EXTINF:-1 tvg-chno="2.1" tvg-name="WCBSDT" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",WCBS-HD
 https://v-ny.mybtv.net/live/545.m3u8
+https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-chno="2.2" tvg-name="WCBSDT2" tvg-id="WCBSDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109454_dark_360w_270h.png",STARTTV
 https://v-ny.mybtv.net/live/546.m3u8
 #EXTINF:-1 tvg-chno="2.3" tvg-name="WCBSDT3" tvg-id="WCBSDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_dark_360w_270h.png",DABL
@@ -9,6 +10,7 @@ https://v-ny.mybtv.net/live/547.m3u8
 https://v-ny.mybtv.net/live/648.m3u8
 #EXTINF:-1 tvg-chno="4.1" tvg-name="WNBCDT" tvg-id="WNBCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png",WNBC
 https://v-ny.mybtv.net/live/548.m3u8
+https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-chno="4.2" tvg-name="WNBCDT2" tvg-id="WNBCDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78851_dark_360w_270h.png",COZI-TV
 https://v-ny.mybtv.net/live/549.m3u8
 #EXTINF:-1 tvg-chno="4.3" tvg-name="WNBCDT3" tvg-id="WCAUDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114278_dark_360w_270h.png",NBCLX
@@ -25,6 +27,7 @@ https://v-ny.mybtv.net/live/552.m3u8
 https://v-ny.mybtv.net/live/553.m3u8
 #EXTINF:-1 tvg-chno="7.1" tvg-name="WABCDT" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png",WABC-HD
 https://v-ny.mybtv.net/live/554.m3u8
+https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-chno="7.2" tvg-name="WABCDT2" tvg-id="WABCDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70938_dark_360w_270h.png",LOCLish
 https://v-ny.mybtv.net/live/555.m3u8
 #EXTINF:-1 tvg-chno="7.2" tvg-name="WABCDT3" tvg-id="WABCDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61775_dark_360w_270h.png",ThisTV
