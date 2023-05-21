@@ -43,6 +43,28 @@ https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 group-title="News",CBS News Sacramento
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="News",NBC New York News
+https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Los Angeles News
+https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Chicago News
+https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Philadelphia News
+https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Dallas-Fort Worth News
+https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Bay Area News
+https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Washington DC News
+https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Boston News
+https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC South Florida News
+https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC San Diego News
+https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC Connecticut News
+https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WSB Now
 https://amg00327-coxmediagroup-wsbnow-ono-02gud.amagi.tv/playlist/amg00327-coxmediagroup-wsbnow-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="News",Boston 25 Now
