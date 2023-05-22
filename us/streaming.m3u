@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="ABCNL" tvg-id="ABCNL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_white_360w_270h.png",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-name="CBSNSTR" tvg-id="CBSNSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104846_white_360w_270h.png",CBS News Streaming
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="NBCNN" tvg-id="NBCNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114174_white_360w_270h.png",NBC News NOW
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.csid=xumo_desktopweb_nbcnewsnow_ssai_cro&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:8974aeaf-5f22-f11f-a9a1-cbcbacd7a1d4&ads._fw_vcid2=512116:8974aeaf-5f22-f11f-a9a1-cbcbacd7a1d4&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.8.12&ads.appName=xumo&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="SCNEWS" tvg-id="SCNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_white_360w_270h.png",Scripps News
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="LIVENOW" tvg-id="LIVENOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119219_white_360w_270h.png",LiveNOW from FOX
@@ -11,6 +13,8 @@ https://lnc-fox-live-now.tubi.video/index.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="LX" tvg-id="LX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114278_white_360w_270h.png",LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-name="PK20" tvg-id="PK20" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114138_white_360w_270h.png",TODAY All Day
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245&ads.asnw=169843&ads.afid=137705821&ads.sfid=16772608&ads.csid=xumo_desktopweb_nbctoday_ssai_cro&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:8974aeaf-5f22-f11f-a9a1-cbcbacd7a1d4&ads._fw_vcid2=512116:8974aeaf-5f22-f11f-a9a1-cbcbacd7a1d4&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.8.12&ads.appName=xumo&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="LOCNOW" tvg-id="LOCNOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99988_white_360w_270h.png",Local Now
 https://djocnjwtkehj4.cloudfront.net/37c4ba92985d8d79/746ac1558408920b/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="CHEDSTR" tvg-id="CHEDSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101103_white_360w_270h.png",Cheddar News
