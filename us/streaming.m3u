@@ -61,12 +61,18 @@ https://scripps-ionmystery-1-us.vizio.wurl.tv/playlist.m3u8
 https://d3vdwtqqboxhm9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Drama" tvg-name="ELECNOW" tvg-id="ELECNOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112797_white_360w_270h.png",ElectricNOW
 https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430
+#EXTINF:-1 tvg-chno="" group-title="Drama" tvg-name="TWDU" tvg-id="TWDU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115540_white_360w_270h.png",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="AWTY" tvg-id="AWTY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120237_white_360w_270h.png",Are We There Yet?
 https://lionsgate-arewethereyet-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="RIFF" tvg-id="RIFF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s126941_white_360w_270h.png",RiffTrax
 https://rifftrax-2-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="COMCLN" tvg-id="COMCLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111668_white_360w_270h.png",Comedy Dynamics
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="IFCOFF" tvg-id="IFCOFF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116019_white_360w_270h.png",Slightly Off IFC
+https://amc-slightly-off-by-amc-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Portlandia
+https://amc-portlandia-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="SFTVSTR" tvg-id="SFTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_white_360w_270h.png",Shout! Factory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="MST3K" tvg-id="MST3K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113781_white_360w_270h.png",MST3K
@@ -97,6 +103,10 @@ https://jukin-peopleareawesome-1-us.plex.wurl.tv/playlist.m3u8
 https://the-pet-collective-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="WTHRSPY" tvg-id="WTHRSPY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s127141_white_360w_270h.png",WeatherSpy
 https://jukin-weatherspy-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="WEREAL" tvg-id="WEREAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115679_white_360w_270h.png",All Reality WE tv
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",All Weddings WE tv
+https://amc-allweddings-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="LOCALSH" tvg-id="LOCALSH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70938_white_360w_270h.png",Localish
 https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="DABL" tvg-id="DABL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_white_360w_270h.png",Dabl
@@ -143,6 +153,12 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="MBLC" tvg-id="MBLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121534_white_360w_270h.png",Maverick Black Cinema
 https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="AMCPRES" tvg-id="AMCPRES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115539_white_360w_270h.png",Stories by AMC
+https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="AMCRSH" tvg-id="AMCRSH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115678_white_360w_270h.png",AMC Thrillers
+https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Movies" tvg-name="IFCFILM" tvg-id="IFCFILM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115677_white_360w_270h.png",IFC Films Picks
+https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="FUBOSN" tvg-id="FUBOSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106100_white_360w_270h.png",Fubo Sports Network
 https://playout.fubo.tv/xumo/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="STMSTR" tvg-id="STMSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104950_white_360w_270h.png",Stadium
