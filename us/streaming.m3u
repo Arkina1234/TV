@@ -51,8 +51,6 @@ https://5f2125c37494350001010e71.veset.cloud/hls/main.m3u8
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="LCSTR" tvg-id="LCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109553_white_360w_270h.png",Law & Crime
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Documentary" tvg-name="DOCUSTR" tvg-id="DOCUSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110479_white_360w_270h.png",Docurama
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Documentary" tvg-name="DUST" tvg-id="DUST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112881_white_360w_270h.png",DUST
 https://dmnrfk13mvw0g.cloudfront.net/amgdust/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Drama" tvg-name="IMYSSTR" tvg-id="IMYSSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_white_360w_270h.png",Ion Mystery
@@ -83,12 +81,8 @@ https://johnnycarson-zype.amagi.tv/playlist.m3u8
 https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="GRITX" tvg-id="GRITX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124040_white_360w_270h.png",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="DOVESTR" tvg-id="DOVESTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110480_white_360w_270h.png",Dove Channel
-https://dovenow-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="TBRCSTR" tvg-id="TBRCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114491_white_360w_270h.png",The Bob Ross Channel
-https://bobross-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="ELVIS" tvg-id="ELVIS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s124326_white_360w_270h.png",The Elvis Presley Channel
-https://amg01201-cinedigmenterta-elvispresley-plex-vt3lj.amagi.tv/playlist/amg01201-cinedigmenterta-elvispresley-plex/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="ALF" tvg-id="ALF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89311_white_360w_270h.png",ALF
+https://shoutfactory-alf-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="NOSEY" tvg-id="NOSEY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119233_white_360w_270h.png",Nosey
 https://noseyintl-selecttv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Reality" tvg-name="DTTB" tvg-id="DTTB" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121714_white_360w_270h.png",Don't Tell The Bride
@@ -111,8 +105,6 @@ https://amc-allweddings-1-us.plex.wurl.tv/playlist.m3u8
 https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="DABL" tvg-id="DABL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_white_360w_270h.png",Dabl
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Lifestyle" tvg-name="REALSTR" tvg-id="REALSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114871_white_360w_270h.png",So... Real
-https://soreal-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="QVC" tvg-id="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_white_360w_270h.png",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="HSN" tvg-id="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10269_white_360w_270h.png",HSN
