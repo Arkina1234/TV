@@ -209,3 +209,23 @@ https://kusi-hd.akamaized.net/hls/live/2029022/kusiINGEST/master.m3u8
 https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
 #EXTINF:-1 group-title="News",WRAL News+
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",NBC 4 New York
+https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",NBC 10 Philadelphia
+https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream2/master.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",NBC 4 Washington
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 5 New York
+https://lnc-wnyw.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 29 Philadelphia
+https://lnc-wtxf.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 5 Washington DC
+https://lnc-wttg.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",WBAL 11 News
+https://content.uplynk.com/channel/f9fd500c186f416fa4a5edeec26b52ae.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Pittsburgh Action News 4
+https://content.uplynk.com/channel/738511700c9145ca8e4c8147f15aedb9.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",WJLA
+https://uplynkcontent.sinclairstoryline.com/channel/548fa3bec5a444a38e95f82283df85a0.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",WBFF
+https://uplynkcontent.sinclairstoryline.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
