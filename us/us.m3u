@@ -27,9 +27,9 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream01/strea
 #EXTVLCOPT:http-referrer=https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
 https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
 #EXTINF:-1,Fox Business
-https://content-auso1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58.m3u8?CMCD=sid=84b52181-61ff-461d-9d25-2a7ade9f7a07&pbs=ffcefe048dbe47ca818b05e32844ec44&cdn=ak
-#EXTINF:-1,Fox News Channel
 https://content-ause1.uplynk.com/channel/0889265100704d178922db41fa6b6b91.m3u8?CMCD=sid=62e53d16-1b64-44b4-a5c3-22d1c4955d98&pbs=8492df9b0b6f4fd1a75a3ba2f3be98b8&cdn=fa
+#EXTINF:-1,Fox News Channel
+https://content-auso1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58.m3u8?CMCD=sid=84b52181-61ff-461d-9d25-2a7ade9f7a07&pbs=ffcefe048dbe47ca818b05e32844ec44&cdn=ak
 #EXTINF:-1,FOX Weather [SD]
 https://247wlive.foxweather.com/stream/index_512x288.m3u8
 #EXTINF:-1,FSTV [SD]
