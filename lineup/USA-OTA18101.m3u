@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="35.1" tvg-name="WPPTDT" tvg-id="WPPTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12008_dark_360w_270h.png",39EXTRA
-https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+https://playout6multirtmp.tulix.tv/output76-2/output76-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="39.1" tvg-name="WLVTDT" tvg-id="WLVTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",WLVT-DT
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+https://playout6multirtmp.tulix.tv/live76-wlvtv1/live76-wlvtv1/playlist.m3u8
 #EXTINF:-1 tvg-chno="39.2" tvg-name="WLVTDT2" tvg-id="WLVTDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",CREATE
-https://forerunnerrtmp.livestreamingcdn.com/wltv3/wltv3/playlist.m3u8
+https://playout6multirtmp.tulix.tv/live76-wlvtv3/live76-wlvtv3/playlist.m3u8
 #EXTINF:-1 tvg-chno="39.3" tvg-name="WLVTDT3" tvg-id="WLVTDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png",FRAN24
 https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
 #EXTINF:-1 tvg-chno="60.1" tvg-name="WBPHDT" tvg-id="WBPHDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11314_dark_360w_270h.png",WBPH-D1
