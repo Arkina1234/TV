@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,CREATE 
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
+#EXTINF:-1,WORLD
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
