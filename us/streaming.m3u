@@ -47,6 +47,8 @@ https://amg00491-fandango-rottentomatous-samsungus-b17d7.amagi.tv/playlist/amg00
 https://d1w5xedouwkj5i.cloudfront.net/amgfusebackstage/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="AXSTNST" tvg-id="AXSTNST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s123156_white_360w_270h.png",AXS TV NOW
 https://5f2125c37494350001010e71.veset.cloud/hls/main.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Mixible
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="LCSTR" tvg-id="LCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109553_white_360w_270h.png",Law & Crime
@@ -109,10 +111,6 @@ https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="HSN" tvg-id="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10269_white_360w_270h.png",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="BIGDISH" tvg-id="BIGDISH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s129135_white_360w_270h.png",The Big Dish
-https://amg01717-qvcinc-thebigdish-selecttv-xttxc.amagi.tv/playlist/amg01717-qvcinc-thebigdish-selecttv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Shopping" tvg-name="JTV" tvg-id="JTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_white_360w_270h.png",JTV
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="TASTE" tvg-id="TASTE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107076_white_360w_270h.png",Tastemade
 https://tastemadefreetv16-brightcove.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Food" tvg-name="TMTRAVEL" tvg-id="TMTRAVEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120351_white_360w_270h.png",Tastemade Travel
@@ -171,7 +169,9 @@ https://120sports-accdn-1-us.plex.wurl.tv/playlist.m3u8
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="MAVTVST" tvg-id="MAVTVST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",MavTV Select
 https://mavtv-1-us.selecttv.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",CBS Sports HQ
+https://mediag2481ed.airspace-cdn.cbsivideo.com/sportshqv2-master/master/sportshqv2-master.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Outdoors" tvg-name="OTVSTR" tvg-id="OTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114313_white_360w_270h.png",Outside TV+
 https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Spanish" tvg-name="VIZESTA" tvg-id="VIZESTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_white_360w_270h.png",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
