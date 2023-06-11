@@ -5,7 +5,7 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/aspen2/master.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="National",Biz TV
 https://thegateway.app/Bizcdn/BizTV-ABR/BizAndYou/Biz_720p/playlist.m3u8
-#EXTINF:-1 group-title="National",Classic Reruns TV
+#EXTINF:-1 group-title="National", Nostalgia Ch
 https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
 #EXTINF:-1 group-title="National",CRTV
 http://crtvnoc.com/hls/select-tv-main.m3u8
@@ -45,6 +45,8 @@ https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
 https://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
 #EXTINF:-1 group-title="News",NTV Houston (KVVV-LD 15.5)
 https://dy9x7so5g8z3m.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NTVHouston-App/226.m3u8
+#EXTINF:-1 group-title="News",WBRZ Plus (WBRZ-TV 2.2)
+https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",WMC Plus (WMC-TV 5.5)
 http://dai2-playlistserver.aws.syncbak.com/cpl/20492205/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ5MjIwNSIsImNpZCI6MjEwMTEsInNpZCI6MTU4LCJtZDUiOiI4ZTgxMjM1NGViM2M5OWJlM2EyZTE3ZWJhZmQ2NWY2NSIsImlhdCI6MTY1Mjk5NTM4NSwiZXhwIjoxNjg0NTMxMzg1LCJpc3MiOiJTeW5jYmFrIChURykifQ.hafIpU8dF72cQeIqC3EAaOTEcwvSQzp8jEuz-mh8a24
 #EXTINF:-1 group-title="Sports",BEK Sports 24/7
@@ -95,6 +97,8 @@ https://c.streamhoster.com/link/hls/W5s3Wi/3gVcfnWsqJZ/iIjZGps4BSV_5/playlist.m3
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1 group-title="Spanish General",Noticias RGV / Novelisima 5.2 (WRGV-TV 5.2)
+https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 group-title="Horse Racing",OTB TV (WXXA-TV 23.2)
 https://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
 #EXTINF:-1 group-title="Real Estate",702.TV (KHMP-LD 18.8)
