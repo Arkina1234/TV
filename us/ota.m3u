@@ -47,14 +47,14 @@ https://dy9x7so5g8z3m.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",WMC Plus (WMC-TV 5.5)
 http://dai2-playlistserver.aws.syncbak.com/cpl/20492205/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ5MjIwNSIsImNpZCI6MjEwMTEsInNpZCI6MTU4LCJtZDUiOiI4ZTgxMjM1NGViM2M5OWJlM2EyZTE3ZWJhZmQ2NWY2NSIsImlhdCI6MTY1Mjk5NTM4NSwiZXhwIjoxNjg0NTMxMzg1LCJpc3MiOiJTeW5jYmFrIChURykifQ.hafIpU8dF72cQeIqC3EAaOTEcwvSQzp8jEuz-mh8a24
+#EXTINF:-1 group-title="News",WRAL Plus (WNGT-CD)
+https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
 #EXTINF:-1 group-title="Sports",BEK Sports 24/7
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DSN (WBOC-TV 16.2)
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",WOSN (WLMA 44.2)
 https://cdn3.wowza.com/1/K1NDYm90dUgyTXZK/WlQrOE92/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Sports",WRAL Sports Plus (WNGT-CD)
-https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
 #EXTINF:-1 group-title="Public",KET KY
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 group-title="Public",KTOO 360TV
