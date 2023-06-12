@@ -23,3 +23,9 @@ http://api.new.livestream.com/accounts/6478976/events/10721188/broadcasts/236196
 http://api.new.livestream.com/accounts/6312590/events/10721313/broadcasts/236190342.m3u8
 #EXTINF:-1 group-title="New York - Manhattan",MNN Culture
 http://api.new.livestream.com/accounts/6478935/events/10721179/broadcasts/236191045.m3u8
+#EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
+https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Washington - Seattle",SCCtv
+https://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
+#EXTINF:-1 group-title="Washington - Tacoma",TV Tacoma
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/cityoftacoma/G1201_006/playlist.m3u8
