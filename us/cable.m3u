@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="California - Los Angeles",LA CityView 35
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 group-title="California - Los Angeles",LA 36
+https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 group-title="California - Santa Monica",CityTV Santa Monica
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+#EXTINF:-1 group-title="California - San Diego",CityTV San Diego
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
+#EXTINF:-1 group-title="Massachusetts - Boston",BNN News & Info
+https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 group-title="Massachusetts - Boston",BNN Community
+https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 group-title="Massachusetts - Boston",CatholicTV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="New York - Manhattan",MNN HD
+http://api.new.livestream.com/accounts/17251372/events/10721168/broadcasts/236190345.m3u8
+#EXTINF:-1 group-title="New York - Manhattan",MNN Community
+http://api.new.livestream.com/accounts/6480540/events/10721190/broadcasts/236190234.m3u8
+#EXTINF:-1 group-title="New York - Manhattan",MNN Lifestyle
+http://api.new.livestream.com/accounts/6478976/events/10721188/broadcasts/236196548.m3u8
+#EXTINF:-1 group-title="New York - Manhattan",MNN Spirit
+http://api.new.livestream.com/accounts/6312590/events/10721313/broadcasts/236190342.m3u8
+#EXTINF:-1 group-title="New York - Manhattan",MNN Culture
+http://api.new.livestream.com/accounts/6478935/events/10721179/broadcasts/236191045.m3u8
