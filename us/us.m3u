@@ -2,18 +2,14 @@
 #EXTINF:-1,Al Jazeera English [SD]
 #EXTVLCOPT:http-referrer=https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE-b/06.m3u8
+#EXTINF:-1,BYU TV
+https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 #EXTINF:-1,CGTN [SD]
 #EXTVLCOPT:http-referrer=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,Circle [SD]
-https://frndlymsl1.akamaized.net/hls/live/2006426/circlemsl/circlemsl/circle_600/chunklist.m3u8?hdntl=exp=1681665650~acl=*~data=hdntl~hmac=edbc727edb8f52d91a27c8d802a4d6c00eed9c1195eab7534b93641b66c6cfdf
 #EXTINF:-1,Classic Arts Showcase [SD]
 #EXTVLCOPT:http-referrer=https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
-#EXTINF:-1,CNN
-https://arkina1234.github.io/live/cnn.m3u8
-#EXTINF:-1,CNN International
-https://arkina1234.github.io/live/cnni.m3u8
 #EXTINF:-1,Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1,Cowboy Channel [SD]
@@ -36,8 +32,6 @@ https://247wlive.foxweather.com/stream/index_512x288.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/01.m3u8
 #EXTINF:-1,LX [SD]
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-6.m3u8
-#EXTINF:-1,HLN
-https://arkina1234.github.io/live/hln.m3u8
 #EXTINF:-1,NHK World-Japan [SD]
 #EXTVLCOPT:http-referrer=https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
