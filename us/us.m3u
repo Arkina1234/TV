@@ -12,8 +12,8 @@ https://live.cgtn.com/500/prog_index.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
 #EXTINF:-1,Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1,Cowboy Channel [SD]
-https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/
+#EXTINF:-1,Cowboy Channel
+https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/.m3u8
 #EXTINF:-1,Dabl
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 #EXTINF:-1,DW English [SD]
@@ -37,10 +37,14 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-6.m3u8
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
 #EXTINF:-1,PBS KIDS
 https://d3afonbm0qxmbc.cloudfront.net/est.m3u8
-#EXTINF:-1,RFD-TV [SD]
-https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/live-audio_0=64000-video=364992.m3u8
+#EXTINF:-1,RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/.m3u8
 #EXTINF:-1,Scripps News
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1,TBN
+https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/.m3u8
+#EXTINF:-1,TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
 #EXTINF:-1,The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
 #EXTINF:-1,UniMás Este [SD]
