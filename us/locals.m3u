@@ -223,6 +223,8 @@ https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
 https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream2/master.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",NBC 4 Washington
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",NBC 6 South Florida
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",Fox 5 New York
 https://lnc-wnyw.tubi.video/index.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",Fox 29 Philadelphia
