@@ -231,6 +231,14 @@ https://lnc-wnyw.tubi.video/index.m3u8
 https://lnc-wtxf.tubi.video/index.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",Fox 5 Washington DC
 https://lnc-wttg.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 11 Los Angeles
+https://lnc-kttv.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",KTVU Fox 2
+https://lnc-ktvu.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 10 Pheonix
+https://lnc-ksaz.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 13 Seattle
+https://lnc-kcpq.tubi.video/index.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",WBAL 11 News
 https://content.uplynk.com/channel/f9fd500c186f416fa4a5edeec26b52ae.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",Pittsburgh Action News 4
