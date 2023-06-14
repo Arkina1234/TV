@@ -239,6 +239,20 @@ https://lnc-ktvu.tubi.video/index.m3u8
 https://lnc-ksaz.tubi.video/index.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",Fox 13 Seattle
 https://lnc-kcpq.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 32 Chicago
+https://lnc-wfld.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 6 News
+https://lnc-witi.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 2 Detroit
+https://lnc-wjbk.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 9
+https://lnc-kmsp.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 4 News
+https://lnc-kdfw.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 26 Houston
+https://lnc-kriv.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Off-Air Newscast",Fox 7 Austin
+https://lnc-ktbc.tubi.video/index.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",WBAL 11 News
 https://content.uplynk.com/channel/f9fd500c186f416fa4a5edeec26b52ae.m3u8
 #EXTINF:-1 group-title="Off-Air Newscast",Pittsburgh Action News 4
