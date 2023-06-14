@@ -157,8 +157,6 @@ https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8
 https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8
 #EXTINF:-1 group-title="News",WPTV NewsChannel 5
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 group-title="News",Florida 24 Network
-https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8
 #EXTINF:-1 group-title="News",KSHB 41
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 #EXTINF:-1 group-title="News",ABC15 Arizona
@@ -185,6 +183,8 @@ https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8
 #EXTINF:-1 group-title="News",TMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 group-title="News",Florida 24 Network
+https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8
 #EXTINF:-1 group-title="News",WBAL-TV 11 News
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="News",WISN 12
