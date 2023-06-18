@@ -66,50 +66,21 @@ https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",NBC Connecticut News
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WSB Now
-https://amg00327-coxmediagroup-wsbnow-ono-02gud.amagi.tv/playlist/amg00327-coxmediagroup-wsbnow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-wsbbreaking-ono-o873b.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Boston 25 Now
-https://amg00327-coxmediagroup-wfxtnow-ono-00yau.amagi.tv/playlist/amg00327-coxmediagroup-wfxtnow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-wfxtbreaking-ono-n5e03.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WSOC Now
-https://amg00327-coxmediagroup-wsocnow-ono-pc8ki.amagi.tv/playlist/amg00327-coxmediagroup-wsocnow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-wsocbreaking-ono-8j7a8.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WHIO 7 Now
-https://amg00327-coxmediagroup-whionow-ono-rim4m.amagi.tv/playlist/amg00327-coxmediagroup-whionow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-whiobreaking-ono-01a0t.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Action News Jax Now
-https://amg00327-coxmediagroup-wjaxnow-ono-82fst.amagi.tv/playlist/amg00327-coxmediagroup-wjaxnow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-wjaxbreaking-ono-tv8pt.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WFTV Now
-https://amg00327-coxmediagroup-wftvnow-ono-sz69p.amagi.tv/playlist/amg00327-coxmediagroup-wftvnow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-wftvbreaking-ono-nf6r8.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WPXI Now
-https://amg00327-coxmediagroup-wpxinow-ono-q47ee.amagi.tv/playlist/amg00327-coxmediagroup-wpxinow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-wpxibreaking-ono-y9dml.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",KIRO 7 Now
-https://amg00327-coxmediagroup-kironow-ono-zkqw3.amagi.tv/playlist/amg00327-coxmediagroup-kironow-ono/CDN/playlist.m3u8
 https://amg00327-coxmediagroup-kirobreaking-ono-mzefy.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News",News4JAX Plus
-https://web.wjxt-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WJXT-Broadcast-Filler-WEB/index.m3u8
-https://web.wjxt-live.gmg.io/east-livestream/filler/index.m3u8
-#EXTINF:-1 group-title="News",Local 4+
-https://web.wdiv-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WDIV-Broadcast-Filler-Web/index.m3u8
-https://web.wdiv-live.gmg.io/east-livestream/filler/index.m3u8
-#EXTINF:-1 group-title="News",KPRC 2+
-https://web.kprc-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/KPRC-Broadcast-Filler-Web/index.m3u8
-https://web.kprc-live.gmg.io/east-livestream/filler/index.m3u8
-#EXTINF:-1 group-title="News",News 6 Plus
-https://web.wkmg-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WKMG-Broadcast-Filler-Web/index.m3u8
-https://web.wkmg-live.gmg.io/east-livestream/filler/index.m3u8
-#EXTINF:-1 group-title="News",KSAT+
-https://web.ksat-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/KSAT-Broadcast-Filler-Web/index.m3u8
-https://web.ksat-live.gmg.io/east-livestream/filler/index.m3u8
-#EXTINF:-1 group-title="News",Local 10+
-https://web.wplg-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WPLG-Broadcast-Filler-Web/index.m3u8
-https://web.wplg-live.gmg.io/east-livestream/filler/index.m3u8
-#EXTINF:-1 group-title="News",WSLS
-https://web.wsls-live.gmg.io/v1/master/302790b8a8381338417f197292f034cbdaa2307a/WSLS-Broadcast-Filler-WEB/index.m3u8
-https://web.wsls-live.gmg.io/east-livestream/filler/index.m3u8
 #EXTINF:-1 group-title="News",WUSA 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 #EXTINF:-1 group-title="News",WXIA 11 Alive
@@ -192,34 +163,74 @@ https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
 #EXTINF:-1 group-title="News",Florida 24 Network
 https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8
-#EXTINF:-1 group-title="News",WBAL-TV 11 News
-https://lnc-wbal.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WISN 12
-https://lnc-wisn.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WTAE Pittsburgh's Action News 4
-https://lnc-wtae.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",KMBC 9
-https://lnc-kmbc.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WCVB NewsCenter 5
-https://lnc-wcvb.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WLWT News 5
-https://lnc-wlwt.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",KOCO 5
-https://lnc-koco.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WESH 2
-https://lnc-wesh.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",KCCI 8 News
-https://lnc-kccu.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WLKY
-https://lnc-wlky.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",WDSU Channel 6
-https://lnc-wdsu.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",KETV NewsWatch 7
-https://lnc-ketv.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",KOAT Action 7 News
-https://lnc-koat.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="News",KCRA 3
-https://lnc-kcra.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="News",WRAL News+
+https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
+#EXTINF:-1 group-title="News",Very Local - KOAT 7 New Mexico
+https://linear-97.frequency.stream/dist/hearst/97/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WBAL 11 Baltimore
+https://linear-105.frequency.stream/dist/hearst/105/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WTVM 13 Alabama
+https://linear-116.frequency.stream/dist/hearst/116/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WCVB 5 Boston
+https://linear-102.frequency.stream/dist/hearst/102/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WMUR 9 New Hampshire
+https://linear-33.frequency.stream/dist/hearst/33/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WPTZ 5 Burlington
+https://linear-115.frequency.stream/dist/hearst/115/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WLTW 5 Cincinnati
+https://linear-107.frequency.stream/dist/hearst/107/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KCCI 8 Iowa
+https://linear-93.frequency.stream/dist/hearst/93/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KHBS 40 / KHOG 29 Arkansas
+https://linear-95.frequency.stream/dist/hearst/95/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WXII 12 Carolina
+https://linear-117.frequency.stream/dist/hearst/117/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WYFF 4 Carolina
+https://linear-110.frequency.stream/dist/hearst/110/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WGAL 8 Pennsylvania
+https://linear-111.frequency.stream/dist/hearst/111/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WAPT 16 Jackson
+https://linear-100.frequency.stream/dist/hearst/100/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KMBC 9 Kansas City
+https://linear-96.frequency.stream/dist/hearst/96/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WLKY Louisville
+https://linear-109.frequency.stream/dist/hearst/109/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WISN 12 Milwaukee
+https://linear-106.frequency.stream/dist/hearst/106/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KSBW 8 Central Coast
+https://linear-99.frequency.stream/dist/hearst/99/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WDSU 6 New Orleans
+https://linear-108.frequency.stream/dist/hearst/108/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KOCO 5 Oklahoma City
+https://linear-98.frequency.stream/dist/hearst/98/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KETV 7 Omaha
+https://linear-94.frequency.stream/dist/hearst/94/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WESH 2 Orlando
+https://linear-103.frequency.stream/dist/hearst/103/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WTAE 4 Pittsburgh
+https://linear-36.frequency.stream/dist/hearst/36/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WMTW 8 Maine
+https://linear-113.frequency.stream/dist/hearst/113/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - KRCA 3 Sacramento
+https://linear-92.frequency.stream/dist/hearst/92/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WJCL 22 Savannah
+https://linear-112.frequency.stream/dist/hearst/112/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",Very Local - WPBF 25 South Florida
+https://linear-114.frequency.stream/dist/hearst/114/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",News4JAX Plus
+https://web.wjxt-live.gmg.io/east-livestream/filler/index.m3u8
+#EXTINF:-1 group-title="News",Local 4+
+https://web.wdiv-live.gmg.io/east-livestream/filler/index.m3u8
+#EXTINF:-1 group-title="News",KPRC 2+
+https://web.kprc-live.gmg.io/east-livestream/filler/index.m3u8
+#EXTINF:-1 group-title="News",News 6 Plus
+https://web.wkmg-live.gmg.io/east-livestream/filler/index.m3u8
+#EXTINF:-1 group-title="News",KSAT+
+https://web.ksat-live.gmg.io/east-livestream/filler/index.m3u8
+#EXTINF:-1 group-title="News",Local 10+
+https://web.wplg-live.gmg.io/east-livestream/filler/index.m3u8
+#EXTINF:-1 group-title="News",WSLS
+https://web.wsls-live.gmg.io/east-livestream/filler/index.m3u8
 #EXTINF:-1 group-title="News",WBRZ Plus
 https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",KUSI News
@@ -228,8 +239,6 @@ https://kusi-hd.akamaized.net/hls/live/2029022/kusiINGEST/master.m3u8
 https://content.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
 #EXTINF:-1 group-title="News",Local News 8 NOW
 https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
-#EXTINF:-1 group-title="News",WRAL News+
-https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 #EXTINF:-1 group-title="News",41 NBC News
 https://wmgt.akamaized.net/hls/live/2029583/WMGT_INGEST/master.m3u8
 #EXTINF:-1 group-title="News",ABC 36 News
