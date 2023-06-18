@@ -14,15 +14,15 @@ https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",CatholicTV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 group-title="New York - Manhattan",MNN HD
-http://api.new.livestream.com/accounts/17251372/events/10721168/broadcasts/236190345.m3u8
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/17251372/events/10721168/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Community
-http://api.new.livestream.com/accounts/6480540/events/10721190/broadcasts/236190234.m3u8
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6480540/events/10721190/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Lifestyle
-http://api.new.livestream.com/accounts/6478976/events/10721188/broadcasts/236196548.m3u8
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478976/events/10721188/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Spirit
-http://api.new.livestream.com/accounts/6312590/events/10721313/broadcasts/236190342.m3u8
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6312590/events/10721313/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Culture
-http://api.new.livestream.com/accounts/6478935/events/10721179/broadcasts/236191045.m3u8
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478935/events/10721179/
 #EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",SCCtv
