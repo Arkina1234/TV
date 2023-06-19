@@ -13,6 +13,16 @@ https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
 https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",CatholicTV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="New York - Bronx",BronxNet Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 group-title="New York - Bronx",BronxNet Arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 group-title="New York - Bronx",BronxNet Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 group-title="New York - Bronx",BronxNet Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 group-title="New York - Bronx",BronxNet Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
 #EXTINF:-1 group-title="New York - Manhattan",MNN HD
 https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/17251372/events/10721168/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Community
