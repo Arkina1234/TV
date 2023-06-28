@@ -49,6 +49,8 @@ https://d1w5xedouwkj5i.cloudfront.net/amgfusebackstage/playlist.m3u8
 https://5f2125c37494350001010e71.veset.cloud/hls/main.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Mixible
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="SFTVSTR" tvg-id="SFTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_white_360w_270h.png",Shout! TV
+https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="LCSTR" tvg-id="LCSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109553_white_360w_270h.png",Law & Crime
@@ -73,8 +75,6 @@ https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 https://amc-slightly-off-by-amc-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Comedy" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Portlandia
 https://amc-portlandia-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="SFTVSTR" tvg-id="SFTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_white_360w_270h.png",Shout! Factory TV
-https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="MST3K" tvg-id="MST3K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113781_white_360w_270h.png",MST3K
 https://mst3k-ts-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="JCARTV" tvg-id="JCARTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115370_white_360w_270h.png",Johnny Carson TV
