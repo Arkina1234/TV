@@ -53,3 +53,5 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_800_pc.m3u8?t1=&fdvr=dvr
 #EXTINF:-1,Univision Este [SD]
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_800_pc.m3u8?t1=&fdvr=dvr
+#EXTINF:-1,Victory Channel
+https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
