@@ -23,6 +23,8 @@ https://livestream.chdrstatic.com/cheddar/primary/index.m3u8
 https://livestream.chdrstatic.com/news12newyork/primary/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-name="REUTERS" tvg-id="REUTERS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s131221_white_360w_270h.png",Reuters
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-name="OANP" tvg-id="OANP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon_mt/v1/master/a00d26ef3921d96b2d27e2510a66b2a88504e065/OAN_Encore_Standalone/OAN_Encore.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Weather" tvg-name="ACUWNW" tvg-id="ACUWNW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120551_white_360w_270h.png",AccuWeather Now
 https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/playlist/amg00684-accuweatherinc-accuweather-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Weather" tvg-name="FOXWX" tvg-id="FOXWX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93141_white_360w_270h.png",Fox Weather
@@ -49,7 +51,9 @@ https://d1w5xedouwkj5i.cloudfront.net/amgfusebackstage/playlist.m3u8
 https://5f2125c37494350001010e71.veset.cloud/hls/main.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",Mixible
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Classic" tvg-name="SFTVSTR" tvg-id="SFTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_white_360w_270h.png",Shout! TV
+#EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="AWEP" tvg-id="AWEP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",AWE Plus
+https://cdn.herringnetwork.com/80A4DFF/awee_oregon_mt/v1/master/a00d26ef3921d96b2d27e2510a66b2a88504e065/AWE_Encore_Standalone/AWE_Encore.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Entertainment" tvg-name="SFTVSTR" tvg-id="SFTVSTR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_white_360w_270h.png",Shout! TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Crime" tvg-name="COURT" tvg-id="COURT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
@@ -205,4 +209,5 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/7b83f8a32178
 https://dw0oa71jud5ry.cloudfront.net/amg80rewind/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Music" tvg-name="F90BK" tvg-id="F90BK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",XITE 90s Throwback
 https://d3fr64zqebnqn3.cloudfront.net/amg90rock/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="" tvg-name="" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_white_360w_270h.png",
 
