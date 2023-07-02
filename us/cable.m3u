@@ -49,6 +49,10 @@ https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestrea
 https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6312590/events/10721313/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Culture
 https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478935/events/10721179/
+#EXTINF:-1 group-title="Pennsylvania - Philadelphia",PhillyCAM
+https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pennsylvania - Philadelphia",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",SCCtv
