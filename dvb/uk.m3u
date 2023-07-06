@@ -1,8 +1,18 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv8z38ajejpxn984"
-#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17153_dark_360w_270h.png" group-title="TV",BBC One
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="001" tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17153_dark_360w_270h.png" group-title="TV",BBC One
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17154_dark_360w_270h.png" group-title="TV",BBC Two
+#EXTINF:-1 tvg-chno="002" tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17154_dark_360w_270h.png" group-title="TV",BBC Two
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="003" tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24291_dark_360w_270h.png" group-title="TV",ITV1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1|Content-Type=application%2Foctet-stream|R{SSM}|
+https://dar-itv1simadotcom.itv.com/csm/extlive/itv01,itv1-dotcom-dash-proda-multicdn.mpd
+#EXTINF:-1 tvg-chno="004" tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117175_dark_360w_270h.png" group-title="TV",Channel 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" group-title="TV",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20685_dark_360w_270h.png" group-title="TV",BBC Parliament
