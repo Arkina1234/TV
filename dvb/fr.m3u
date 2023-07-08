@@ -1,6 +1,33 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/france.xml"
+#EXTINF:-1 tvg-chno="01" tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70551_dark_360w_270h.png" group-title="TV",TF1
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/1-TF1/1-TF1.php
+http://www.callofliberty.fr/stream/TF1/manifest.m3u8
+#EXTINF:-1 tvg-chno="02" tvg-id="France2.fr" tvg-name="France 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24463_dark_360w_270h.png" group-title="TV",France 2
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/2-france.2/2-france.2.php
+http://www.callofliberty.fr/stream/france.2/master.m3u8
+#EXTINF:-1 tvg-chno="03" tvg-id="France3.fr" tvg-name="France 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105763_dark_360w_270h.png" group-title="TV",France 3
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/3-france.3/3-france.3.php
+http://www.callofliberty.fr/stream/france.3/master.m3u8
+#EXTINF:-1 tvg-chno="04" tvg-id="CanalPlusFrance.fr" tvg-name="Canalplus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="TV",Canal+
+http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-chno="05" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87350_dark_360w_270h.png" group-title="TV",France 5
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/5-france.5/5-france.5.php
+http://www.callofliberty.fr/stream/france.5/master.m3u8
+#EXTINF:-1 tvg-chno="06" tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78972_dark_360w_270h.png" group-title="TV",M6
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/m6/sixplayhde/hls_short_fp10_m6/index.m3u8
+#EXTINF:-1 tvg-chno="07" tvg-id="ARTEFrance.fr" tvg-name="ARTE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78974_dark_360w_270h.png" group-title="TV",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-chno="08" tvg-id="C8.fr" tvg-name="C8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87335_dark_360w_270h.png" group-title="TV",C8
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/8-C8/8-C8.php
+http://www.callofliberty.fr/stream/C8/master.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-name="France 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87349_dark_360w_270h.png" group-title="TV",France 4
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/14-france.4/14-france.4.php
+http://www.callofliberty.fr/stream/france.4/master.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90472_dark_360w_270h.png" group-title="TV",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-chno="30" tvg-id="BFMParis.fr" tvg-name="BFMParis" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103496_dark_360w_270h.png" group-title="Regional",BFM Paris
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-chno="33" tvg-id="France24French.fr" tvg-name="France24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60562_dark_360w_270h.png" group-title="Regional",France 24
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://www.callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.php
+http://www.callofliberty.fr/stream/FRANCE24/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="TV",
