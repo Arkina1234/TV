@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Alabama",.3 - CREATE 
+http://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
+#EXTINF:-1 group-title="Alabama",.4 - WORLD
+http://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 group-title="Alabama - Mobile",25 - WAWD - Beach TV Gulf Coast
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Alaska",360 North
@@ -37,8 +41,14 @@ http://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 http://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 group-title="Idaho - Idaho Falls",8.4 - KIFI-TV - Now
 http://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
-#EXTINF:-1 group-title="Kentucky",Kentucky Channel
+#EXTINF:-1 group-title="Kentucky",.1 - KET
 http://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="Kentucky",.2 - KET2
+http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 group-title="Kentucky",.3 - KETKY
+http://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="Kentucky",.4 - KETKIDS
+http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Louisiana - Baton Rouge",2.2 - WBRZ-TV - NEWS 2
 http://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Louisiana - New Orleans",41.1 - KNOV-CD - NOTV
