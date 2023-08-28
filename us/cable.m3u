@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="Alabama - Huntsville",ETV
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
+http://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA CityView 35
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+http://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA 36
-https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+http://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="California - Santa Monica",CityTV Santa Monica
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+http://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 group-title="California - San Diego",CityTV San Diego
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
+http://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCN
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="District of Columbia",DKN
@@ -16,49 +16,53 @@ http://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCC
 http://video.oct.dc.gov/out/u/DCC.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCTV
-https://securestream7.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8
+http://securestream7.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8
 #EXTINF:-1 group-title="District of Columbia",Enrichment
-https://securestream7.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8
+http://securestream7.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8
 #EXTINF:-1 group-title="District of Columbia",Focus
-https://securestream7.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
+http://securestream7.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN News & Info
-https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
+http://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN Community
-https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
+http://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",CatholicTV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+http://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="Minnesota - Minneapolis",MCN6
+http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 group-title="Minnesota - Minneapolis",City Council TV
+https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
 #EXTINF:-1 group-title="Nevada - Clark County",Clark County TV
-https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/user/ClarkCountyNV/live
+http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/user/ClarkCountyNV/live
 #EXTINF:-1 group-title="Nevada - Las Vegas",KCLV
-https://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
+http://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet Omni
-https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+http://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet Arts
-https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+http://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet Culture
-https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+http://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet Inform
-https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+http://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet Inspire
-https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+http://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
 #EXTINF:-1 group-title="New York - Manhattan",MNN HD
-https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/17251372/events/10721168/
+http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/17251372/events/10721168/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Community
-https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6480540/events/10721190/
+http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6480540/events/10721190/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Lifestyle
-https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478976/events/10721188/
+http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478976/events/10721188/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Spirit
-https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6312590/events/10721313/
+http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6312590/events/10721313/
 #EXTINF:-1 group-title="New York - Manhattan",MNN Culture
-https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478935/events/10721179/
+http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/6478935/events/10721179/
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",PhillyCAM
-https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+http://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",TUTV
-https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+http://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
-https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
+http://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",SCCtv
-https://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
+http://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Tacoma",TV Tacoma
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/cityoftacoma/G1201_006/playlist.m3u8
+http://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/cityoftacoma/G1201_006/playlist.m3u8
 #EXTINF:-1 group-title="",
