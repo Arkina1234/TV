@@ -70,7 +70,7 @@ htts://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
 #EXTINF:-1 group-title="Oregon - Medford",18.1 - KDOV-LD - theDove
 http://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",2.8 - WDPN-TV - 2-PTN - Pocono Television
-http://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
+http://wms-iso-1.wetmet.net/live/115-00-08/playlist.m3u8
 #EXTINF:-1 group-title="South Carolina - Myrtle Beach",8 - WGSC-CD - Beach TV Grand Stand
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Tennessee - Memphis",5.5 - WMC-TV - WMC-5 - WMC Plus
