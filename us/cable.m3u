@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Alabama - Huntsville",ETV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA 36
