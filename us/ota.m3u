@@ -1,158 +1,91 @@
 #EXTM3U
-#EXTINF:-1 group-title="National",Ace TV
-https://d14c63magvk61v.cloudfront.net/strm/channels/aspen2/master.m3u8
-#EXTINF:-1 group-title="National",AMG TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="National",Biz TV
-https://thegateway.app/Bizcdn/BizTV-ABR/BizAndYou/Biz_720p/playlist.m3u8
-#EXTINF:-1 group-title="National",CRTV
-http://crtvnoc.com/hls/select-tv-main.m3u8
-#EXTINF:-1 group-title="National",Fun Roads
-http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:-1 group-title="National",NewsNet
-https://cdnendpoint001.noisypeak.com/25042334/content/playlist.m3u8
-#EXTINF:-1 group-title="National",Novelisima
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:-1 group-title="National",Right Now TV
-https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/playlist.m3u8
-#EXTINF:-1 group-title="National",Timeless TV
-https://cdn38.fntvchannel.com/playlist/playlist.m3u8
-#EXTINF:-1 group-title="National",YTA
-https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
-#EXTINF:-1 group-title="General",KCWX 
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",KOOL TV (K34HO/K21GN)
-http://64.91.244.153:1935/roku/roku/playlist.m3u8
-#EXTINF:-1 group-title="General",KQSL
-https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
-#EXTINF:-1 group-title="General",KVVB.TV 33
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 group-title="General",SWAAG TV (WPVN-CD 24.3)
-http://swaag-tv-preview.trafficjam.ca:5080/LiveApp/streams/78791414821007205382_adaptive.m3u8
-#EXTINF:-1 group-title="General",WMFD Television
-https://hls-live-media.cdn01.net/default/stream_27547.m3u8?source=othersites
-#EXTINF:-1 group-title="General",WIVM-LD 39
-https://api.new.livestream.com/accounts/17488475/events/4802826/live.m3u8
-#EXTINF:-1 group-title="News",3 News Now (WCAX-TV 3.6)
-http://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjI3MzQyLCJtZDUiOiJkNDI3NmYwMTJlMTAwNzBhZmE1MzQ5Y2Q3NGJkZDJhZiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.Dsfud-ksBdsOoudnh790ABGOq-x6E2CJCyV_bELOTDg
-#EXTINF:-1 group-title="News",Florida 24 Network (WHDT)
-https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8?ad=live&expand=live&ad.adUnit=/fl24/livestream/midroll
-#EXTINF:-1 group-title="News",Local News 8 NOW (KIFI-TV 8.4)
-https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
-#EXTINF:-1 group-title="News",News-Press NOW (KNPN-LD 26.3)
-https://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
-#EXTINF:-1 group-title="News",NTV Houston (KVVV-LD 15.5)
-https://dy9x7so5g8z3m.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NTVHouston-App/226.m3u8
-#EXTINF:-1 group-title="News",WBRZ Plus (WBRZ-TV 2.2)
-https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",WMC Plus (WMC-TV 5.5)
-http://dai2-playlistserver.aws.syncbak.com/cpl/20492205/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ5MjIwNSIsImNpZCI6MjEwMTEsInNpZCI6MTU4LCJtZDUiOiI4ZTgxMjM1NGViM2M5OWJlM2EyZTE3ZWJhZmQ2NWY2NSIsImlhdCI6MTY1Mjk5NTM4NSwiZXhwIjoxNjg0NTMxMzg1LCJpc3MiOiJTeW5jYmFrIChURykifQ.hafIpU8dF72cQeIqC3EAaOTEcwvSQzp8jEuz-mh8a24
-#EXTINF:-1 group-title="News",WRAL Plus (WNGT-CD)
-https://content.uplynk.com/channel/6081978fb93f470795872dc71421d0a1.m3u8
-#EXTINF:-1 group-title="Sports",BEK Sports 24/7
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports",DSN (WBOC-TV 16.2)
-https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
-#EXTINF:-1 group-title="Sports",WOSN (WLMA 44.2)
-https://cdn3.wowza.com/1/K1NDYm90dUgyTXZK/WlQrOE92/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Public",KET KY
-https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
-#EXTINF:-1 group-title="Public",KTOO 360TV
-https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
-#EXTINF:-1 group-title="Public",KPJK
-https://norcalpublic-hls.secdn.net/norcalpublic-live/play/KPJK.smil/playlist.m3u8
-#EXTINF:-1 group-title="Public",RSUTV Public Television
-https://2-fss-1.streamhoster.com/pl_122/amlst:202742-1432010/playlist.m3u8
-#EXTINF:-1 group-title="Public",RSUTV2
-https://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
-#EXTINF:-1 group-title="Educational",Michigan Learning Channel
-https://d2jalth387y2js.cloudfront.net/test.m3u8
-#EXTINF:-1 group-title="Government",The Ohio Channel
-https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
-#EXTINF:-1 group-title="Government",The Florida Channel
-https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_zfd7tvio/protocol/https/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="Local",Orange (WSWF-LD 10.2)
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Local",Vision (WSWF-LD 10.3)
-http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Local",WHIG-CD 31
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/72b9b345a2ce4e9291957ff609cbb9f3/playlist.m3u8
-#EXTINF:-1 group-title="Music",Blues Television Network
-https://c.streamhoster.com/link/hls/W5s3Wi/3gVcfnWsqJZ/i9awBds4KGh_5/playlist.m3u8
-#EXTINF:-1 group-title="Music",CMC
-https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 group-title="Music",StreetzTV
-https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_1q68na3t5jy8.m3u8
-#EXTINF:-1 group-title="Music",Video Mix TV Orlando+Tampa (WSWF-LD 10.8/WTBT-LD 45.7)
-https://2-fss-2.streamhoster.com/pl_138/206436-3189486-1/playlist.m3u8
-#EXTINF:-1 group-title="Music",Video Mix TV South Florida (W18EU)
-https://c.streamhoster.com/link/hls/W3s3Xf/iT1pSTusAtV/iGX6IdsWm0F_5/playlist.m3u8
-#EXTINF:-1 group-title="Music",Vision Musical TV (KHSC-LD 35.4)
-https://c.streamhoster.com/link/hls/W5s3Wi/3gVcfnWsqJZ/iIjZGps4BSV_5/playlist.m3u8
-#EXTINF:-1 group-title="Spanish General",América TeVé (WJAN-CD)
-https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1 group-title="Spanish General",Mega TV (WSBS-TV)
-https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-#EXTINF:-1 group-title="Spanish General",Noticias RGV / Novelisima 5.2 (WRGV-TV 5.2)
-https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 group-title="Horse Racing",OTB TV (WXXA-TV 23.2)
-https://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
-#EXTINF:-1 group-title="Real Estate",702.TV (KHMP-LD 18.8)
-https://livetv.305streamhd.com:3578/live/sevenzerotwotvlive.m3u8
-#EXTINF:-1 group-title="Tourism Info",Atlanta Channel (WTHC-LD)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Beach TV Panama City (WPCT)
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Beach TV Florida & Alabama (WAWD)
+#EXTINF:-1 group-title="Alabama - Mobile",25 - WAWD - Beach TV Gulf Coast
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Beach TV Myrtle Beach (WGSC-CD)
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Key TV (WCAY-CD)
+#EXTINF:-1 group-title="Alaska",360 North
+http://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
+#EXTINF:-1 group-title="California",CMC
+http://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="California",CMC-USA
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="California - Fresno",7.10 - KAIL - SUMTV
+http://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
+#EXTINF:-1 group-title="California - Fresno",7.11 - KAIL - SUMTV Latino
+http://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 group-title="California - San Francisco",8.1 - KQSL
+http://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
+#EXTINF:-1 group-title="California - San Francisco",60.1 - KPJK
+http://norcalpublic-hls.secdn.net/norcalpublic-live/play/KPJK.smil/playlist.m3u8
+#EXTINF:-1 group-title="Florida",The Florida Channel
+http://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_50if848o/protocol/https/format/applehttp/protocol/http/a.m3u8
+#EXTINF:-1 group-title="Florida - Key West",36 - WCAY-CD - Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",NOTV (KNOV-CD)
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Tourism Info",Pocono Television (WDPN-TV 2.8)
-https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Atlanta's 57 WATC
-https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Atlanta's 57 WATC TOO
-https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
-#EXTINF:-1 group-title="Religious",COACB (WOCB-CD 39.1)
-https://bozztv.com/cus01/coacb/coacb/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Religious",God's Learning Channel (KMLM-DT)
-https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Good Life 45 (WTGL)
-https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
-#EXTINF:-1 group-title="Religious",JGN TV (WACX 55.10)
-https://www.lightcast.com/embed/playlist_m3u8_live2.php?playlist=eyJzdHJlYW1lciI6InJ0bXA6XC9cL2xpdmUyLmNkbjAxLm5ldFwvTGl2ZUNoYW5uZWxzIiwic291cmNlIjoid293emEiLCJobHNfdXJsIjoiaHR0cHM6XC9cL2hscy1saXZlLWxpbmVhci13ZWItbWVkaWEuY2RuMDEubmV0XC9MaXZlQ2hhbm5lbHNcLyMjI1NUUkVBTSMjI1wvY2h1bmtsaXN0Lm0zdTgiLCJ1cmwiOiJzdHJlYW1fMjYyODEiLCJtZWRpYUdyb3VwIjpbeyJpZCI6IjI2MjgxIiwiYml0cmF0ZSI6IjE4ODgiLCJ3aWR0aCI6IjEyODAiLCJ1cmwiOiJzdHJlYW1fMjYyODEifSx7ImlkIjoiMjYyODIiLCJiaXRyYXRlIjoiNjc2Iiwid2lkdGgiOiI2NDAiLCJ1cmwiOiJzdHJlYW1fMjYyODIifSx7ImlkIjoiMjYyODMiLCJiaXRyYXRlIjoiMTkyIiwid2lkdGgiOiIzMjAiLCJ1cmwiOiJzdHJlYW1fMjYyODMifV0sImhsc19wYXJhbWV0ZXJzIjoiPzloLTNENURNTF9Gc2JyNkctTzJaelBlT0p3RFMybmFMdHdUcmp4WWd5ZjR0OWFIUnFzUjNSMHRGMEVqd3NwRXd0eXlzQ2xRTG9KUmNjXzNXbVhKSGFpWnY5Zy1fbzVJRFFNbFoxdDVvOUNmYldvOEV4bEtFR1VPZEpPdG5OT083amRrWEprZkQwTE85UHFzQWF0NTBPSmdTaDlrVThpOV9SNDBXWFZQa0ZXSDJ4ZGswMGtPMUtjNzlvNVpQMW44YzFSbXozT1pkVktVbGtJMHVvcXlBZDlmSXF4TWVISnJ3UmRObEd6UTFsM1FaXzNnU1FTd2tWamFhZ0tDanAzOHVlR0hRZFpWQVhrdXZmRUMxci1PWEVtOHlya0RFOXJLTVJDMkhqS1BpVFJZSFFXNGEzU2lLR2x6bmtHTF9POVFXdW9CRjhIZDYyRXU4RWR3bHlYS3prQSZjaGFubmVsX2lkPTI2MjgxJnNvdXJjZT1XZWJBcHAmYXBwX2lkPTI3MjkmZGV2aWNlX2lkPTI2NjI1Nzk0NjMtOTNjMzliZTE2Zjg0MjkwYzU3ZDBiNDM5MWM0YmVhYjAmbGNwPTIiLCJjbGllbnRfaWQiOiImY2xpZW50X2lkPTIxMDYyMzg1NzU3MDg0NjQ2MSJ9&play_id=1677411912446720
-#EXTINF:-1 group-title="Religious",LIFE! (KSCE)
-https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
-#EXTINF:-1 group-title="Religious",SuperChannel Orlando (WACX)
+#EXTINF:-1 group-title="Florida - Orlando",10.2 - WSWF-LD - Orange
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Florida - Orlando",10.3 - WSWF-LD - Vision
+http://otv3.ocfl.net:1936/VisionTV/smil:VisionTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Florida - Orlando",45 - WTGL - Good Life 45
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1 group-title="Florida - Orlando",55.1 - WACX - SuperChannel
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
-#EXTINF:-1 group-title="Religious",SUMTV (KAIL 7.10)
-https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious",theDove (KDOV-LD)
-https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious",WGGS-TV 16
-https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
-#EXTINF:-1 group-title="Religious",WLMB-TV 40
-https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
-#EXTINF:-1 group-title="Religious",WVCY TV-30
-http://api.new.livestream.com/accounts/30337923/events/9488449/broadcasts/234877885.m3u8
-#EXTINF:-1 group-title="Catholic",Mariavision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
-#EXTINF:-1 group-title="Spanish Religious",Canal de La Fe (KBEH)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/e478039df74e43898cb010c7b76f468b/playlist.m3u8
-#EXTINF:-1 group-title="Spanish Religious",SUMTV Latino (KAIL 7.11)
-https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ethnic",NTDTV Houston (KVVV-LD 15.2)
-https://live.ntdtv.com/htlive480/playlist.m3u8
-#EXTINF:-1 group-title="Ethnic",NTDTV LA (KXLA 44.7)
-https://live.ntdtv.com/uwlive990/playlist.m3u8
-#EXTINF:-1 group-title="Ethnic",NTDTV New York (WMBC-TV 63.5)
-https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 group-title="Ethnic",NTDTV SF (KCNS 38.5)
-https://live.ntdtv.com/sflive990/playlist.m3u8
-
+#EXTINF:-1 group-title="Florida - Panama City",46.1 - WPCT - BeachTV - Beach TV Panama City Beach
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Georgia - Atlanta",42.1 - WTHC-LD - The Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1 group-title="Georgia - Atlanta",57.1 - WATC-DT - WATC-TV 57
+http://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 group-title="Georgia - Atlanta",57.2 - WATC-DT - POINT - WATC Too
+http://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 group-title="Idaho - Idaho Falls",8.4 - KIFI-TV - Now
+http://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
+#EXTINF:-1 group-title="Kentucky",Kentucky Channel
+http://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="Louisiana - Baton Rouge",2.2 - WBRZ-TV - NEWS 2
+http://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Louisiana - New Orleans",41.1 - KNOV-CD - NOTV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Maryland - Salisbury",16.2 - WBOC-TV - DSN
+http://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
+#EXTINF:-1 group-title="Michigan",Michigan Learning Channel
+https://d2jalth387y2js.cloudfront.net/test.m3u8
+#EXTINF:-1 group-title="Missouri - Kansas City",26.3 - KNPN-LD - ONPN-DT - News-Press 3 NOW
+http://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
+#EXTINF:-1 group-title="New York - Albany",23.2 - WXXA-TV - WXXA-OT - OTB TV
+http://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
+#EXTINF:-1 group-title="North Carolina - Greensville",16.1 - WGGS-TV
+http://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="Ohio",The Ohio Channel
+http://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
+#EXTINF:-1 group-title="Ohio - Columbus",39.1 - WOCB-CD - COACB
+http://bozztv.com/cus01/coacb/coacb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ohio - Lima",44.2 - WLMA - WOSN_DT
+http://cdn3.wowza.com/1/K1NDYm90dUgyTXZK/WlQrOE92/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Ohio - Mansfield",68.1 - WMFD-TV
+http://hls-live-media.cdn01.net/default/stream_27547.m3u8?source=othersites
+#EXTINF:-1 group-title="Ohio - Toledo",40.1 - WLMB-TV - Toledo's Christian Station
+http://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
+#EXTINF:-1 group-title="Oklahoma - Tulsa",35.1 - KRSU-TV
+http://2-fss-1.streamhoster.com/pl_122/amlst:202742-1432010/playlist.m3u8
+#EXTINF:-1 group-title="Oklahoma - Tulsa",35.2 - KRSU-TV
+htts://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
+#EXTINF:-1 group-title="Oregon - Medford",18.1 - KDOV-LD - theDove
+http://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
+#EXTINF:-1 group-title="Pennsylvania - Philadelphia",2.8 - WDPN-TV - 2-PTN - Pocono Television
+http://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
+#EXTINF:-1 group-title="South Carolina - Myrtle Beach",8 - WGSC-CD - Beach TV Grand Stand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Tennessee - Memphis",5.5 - WMC-TV - WMC-5 - WMC Plus
+http://dai2-playlistserver.aws.syncbak.com/cpl/20492205/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ5MjIwNSIsImNpZCI6MjEwMTEsInNpZCI6MTU4LCJtZDUiOiI4ZTgxMjM1NGViM2M5OWJlM2EyZTE3ZWJhZmQ2NWY2NSIsImlhdCI6MTY1Mjk5NTM4NSwiZXhwIjoxNjg0NTMxMzg1LCJpc3MiOiJTeW5jYmFrIChURykifQ.hafIpU8dF72cQeIqC3EAaOTEcwvSQzp8jEuz-mh8a24
+#EXTINF:-1 group-title="Texas - El Paso",38.1 - KSCE - LIFE!
+http://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 group-title="Texas - El Paso",38.2 - KSCE - VIDA
+http://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 group-title="Texas - El Paso",38.3 - KSCE - ETTV - End Times TV
+http://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1 group-title="Texas - Harlingen",5.2 - WRGV-TV - NRGV
+http://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 group-title="Texas - Odessa",43.1 - KMLM-DT - God's L
+http://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1 group-title="Texas - San Antonio",2.1 - KCWX 
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vermont - Burlington",3.6 - WCAX-TV - 3NN - 3 News Now
+http://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjI3MzQyLCJtZDUiOiJkNDI3NmYwMTJlMTAwNzBhZmE1MzQ5Y2Q3NGJkZDJhZiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.Dsfud-ksBdsOoudnh790ABGOq-x6E2CJCyV_bELOTDg
