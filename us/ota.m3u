@@ -37,10 +37,12 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="Georgia - Atlanta",57.1 - WATC-DT - WATC-TV 57
 http://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1 group-title="Georgia - Atlanta",57.2 - WATC-DT - POINT - WATC Too
+#EXTINF:-1 group-title="Georgia - Atlanta",57.2 - WATC-DT - POINT - Point
 http://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 group-title="Idaho - Idaho Falls",8.4 - KIFI-TV - Now
 http://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8
+#EXTINF:-1 group-title="Kansas - Wichita",12.2 - KWCH-DT - KWCH-WX - Always On Storm Team 12
+http://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
 #EXTINF:-1 group-title="Kentucky",.1 - KET
 http://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 group-title="Kentucky",.2 - KET2
@@ -101,3 +103,6 @@ http://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vermont - Burlington",3.6 - WCAX-TV - 3NN - 3 News Now
 http://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjI3MzQyLCJtZDUiOiJkNDI3NmYwMTJlMTAwNzBhZmE1MzQ5Y2Q3NGJkZDJhZiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.Dsfud-ksBdsOoudnh790ABGOq-x6E2CJCyV_bELOTDg
+#EXTINF:-1 group-title="Wisconsin - Green Bay",2.2 - WBAY-TV - WBAY-WX - First Alert Weather 24/7
+http://d2jni005khp8n7.cloudfront.net/out/gray-wbaywx-rtmp-v3/live.m3u8
+#EXTINF:-1 group-title="",
