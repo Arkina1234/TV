@@ -233,8 +233,6 @@ https://web.wplg-live.gmg.io/east-livestream/filler/index.m3u8
 https://web.wsls-live.gmg.io/east-livestream/filler/index.m3u8
 #EXTINF:-1 group-title="News",WBRZ Plus
 https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",KUSI News
-https://kusi-hd.akamaized.net/hls/live/2029022/kusiINGEST/master.m3u8
 #EXTINF:-1 group-title="News",News-Press NOW
 https://content.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
 #EXTINF:-1 group-title="News",Local News 8 NOW
