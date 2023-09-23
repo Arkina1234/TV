@@ -33,6 +33,8 @@ http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Florida - Panama City",46.1 - WPCT - BeachTV - Beach TV Panama City Beach
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Georgia",.3 - KNOWLED - GPB Knowledge
+https://query-streamlink.arkina1234.repl.co/stream.m3u8?url=http://new.livestream.com/accounts/30060031/events/9303760/player
 #EXTINF:-1 group-title="Georgia - Atlanta",42.1 - WTHC-LD - The Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="Georgia - Atlanta",57.1 - WATC-DT - WATC-TV 57
@@ -51,6 +53,8 @@ http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 http://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 group-title="Kentucky",.4 - KETKIDS
 http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Kentucky - Louisville",68.5 - WKMJ-TV - KETWRLD
+http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 group-title="Louisiana - Baton Rouge",2.2 - WBRZ-TV - NEWS 2
 http://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Louisiana - Baton Rouge",36.3 - KBTR-CD - WX
