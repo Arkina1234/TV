@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 channel-id="fstv" tvg-id="fstv" tvg-logo="" group-title="TV" ,FSTV
+http://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/01.m3u8
+#EXTINF:-1 channel-id="cas" tvg-id="cas" tvg-logo="" group-title="TV" ,Classical Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
+#EXTINF:-1 channel-id="kpfa" tvg-id="kpfa" tvg-logo="" group-title="Radio" radio="true" ,KPFA
+http://stations.pacifica.org:8000/kpfa
+#EXTINF:-1 channel-id="kpfa_64" tvg-id="kpfa_64" tvg-logo="" group-title="Radio" radio="true" ,KPFA
+http://stations.pacifica.org:8000/kpfa_64
+#EXTINF:-1 channel-id="kpfk-fm" tvg-id="kpfk-fm" tvg-logo="" group-title="Radio" radio="true" ,KPFK
+http://ic1.mainstreamnetwork.com/kpfk-fm
+#EXTINF:-1 channel-id="wbai_128" tvg-id="wbai_128" tvg-logo="" group-title="Radio" radio="true" ,WBAI
+http://stations.pacifica.org:8000/wbai_128
+#EXTINF:-1 channel-id="live_64" tvg-id="live_64" tvg-logo="" group-title="Radio" radio="true" ,KPFT
+http://streams.pacifica.org:8000/live_64
+#EXTINF:-1 channel-id="wpfw_128" tvg-id="wpfw_128" tvg-logo="" group-title="Radio" radio="true" ,WPFW
+http://streams.pacifica.org:8000/wpfw_128
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="" group-title="" radio="true" ,
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="" group-title="" 
