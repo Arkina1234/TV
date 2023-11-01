@@ -161,6 +161,8 @@ https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8
 #EXTINF:-1 group-title="News",TMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 group-title="News",Fox 13 News
+https://content.uplynk.com/channel/c80f6f27bc1b48099bbbd202fde01656.m3u8
 #EXTINF:-1 group-title="News",Florida 24 Network
 https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8
 #EXTINF:-1 group-title="News",WRAL News+
