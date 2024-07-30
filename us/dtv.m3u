@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kentucky - Louisville",34.1 - KET
+#EXTINF:-1 group-title="Kentucky - Louisville",34.1/15.1 - WKPC-TV - KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 group-title="Kentucky - Louisville",34.2 - WKMJ-TV - KET2
+#EXTINF:-1 group-title="Kentucky - Louisville",34.2/68.1 - WKMJ-TV - KET2
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#EXTINF:-1 group-title="Kentucky - Louisville",34.3 - WKMJ-TV - KETKY
+#EXTINF:-1 group-title="Kentucky - Louisville",34.3/68.3 - WKMJ-TV - KETKY
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
-#EXTINF:-1 group-title="Kentucky - Louisville",34.4 - WKMJ-TV- KETKIDS
+#EXTINF:-1 group-title="Kentucky - Louisville",34.4/68.4 - WKMJ-TV- KETKIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="Kentucky - Louisville",34.5 - WKMJ-TV - KETWRLD
+#EXTINF:-1 group-title="Kentucky - Louisville",34.5/68.5 - WKMJ-TV - KETWRLD
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
