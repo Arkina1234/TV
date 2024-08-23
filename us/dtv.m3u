@@ -1,43 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="National",TBN
-https://tbn-jw.cdn.vustreams.com/live/tbn-ssai/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",Inspire - Church
-https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",Smile
-https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",FNX
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-#EXTINF:-1 group-title="National",T2
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
-#EXTINF:-1 group-title="National",The Country Network
-https://tcn-live.cdn.vustreams.com/live/feddb25b-7367-49e4-bbb6-48af01ca7407/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="Baltimore, MD",25.6/22.1-67.1 - WMPT/WMPB
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="Boston, MA",27.3/25.1 - WFXT*NX
-http://143.244.60.30/FOX_EAST/index.m3u8
+https://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Chicago, IL",12.2/5.1 - WMAQ-NG
-http://143.244.60.30/NBC_EAST/index.m3u8
+https://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Las Vegas, NV",6 - KGHD-LD
 https://customer-l1etlhbrwpbtmvdz.cloudflarestream.com/510f9d03f67c74a6cec295449fe4ce4b/manifest/video.m3u8
-#EXTINF:-1 group-title="Louisville, KY",34.1/15.1 - WKPC-TV - KET
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 group-title="Louisville, KY",34.2/68.1 - WKMJ-TV - KET2
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#EXTINF:-1 group-title="Louisville, KY",34.3/68.3 - WKMJ-TV - KETKY
-https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
-#EXTINF:-1 group-title="Louisville, KY",34.4/68.4 - WKMJ-TV - KETKIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="Louisville, KY",34.5/68.5 - WKMJ-TV - KETWRLD
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 group-title="Memphis, TN",6 - WPGF-LP
-http://securenetg.com/listen/right_on_radio_/stream.aac
+https://securenetg.com/listen/right_on_radio_/stream.aac
 #EXTINF:-1 group-title="Miami, FL",6/31 - WEYS-LD
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cdccfdc52ff8ba3/playlist.m3u8
-#EXTINF:-1 group-title="Miami, FL",10.7/10.4 - WPLG - LOCL10+
-https://web.wplg-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
 #EXTINF:-1 group-title="New York, NY",6 - WNYZ-LD - Srv 1
-http://streaming.live365.com/a48202
-#EXTINF:-1 group-title="San Antonio, TX",32.5/2.1 - KCWX
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+https://streaming.live365.com/a48202
 #EXTINF:-1 group-title="San Francisco, CA",6.2 - KBKF-LD - UChn
 https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
