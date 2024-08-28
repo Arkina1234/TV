@@ -5,7 +5,9 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-ssai/live.isml/playlist.m3u8
 https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="National",Smile
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",FNX
+#EXTINF:-1 group-title="National",World Channel (members only)
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="National",FNX (members only)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 group-title="National",T2 (steaming)
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
@@ -71,10 +73,12 @@ https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kentucky",22.5-34.5/54.5-68.5 - WCVN-TV/WKMJ-TV - KETWRLD
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1 group-title="Louisiana - Baton Rouge",2.2 - WBRZ-TV - NEWS 2
-https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Louisiana - Baton Rouge",2.2-36.2 - WBRZ-TV - NEWS 2
+https://d1wdgbxqfhyvfu.cloudfront.net/Content/HLS/Live/channel(wbrzplus)/wbrzplus.m3u8
 #EXTINF:-1 group-title="Louisiana - Baton Rouge",36.3 - KBTR-CD - WX
-https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Louisiana - New Orleans",30.1 - KFOL-CD/KJUN-CD - HTV-10
+https://stream.castr.net/6672e294d2ff6dbd6fe92983/live_9e8e7f002e4311ef82fa1fcee3db9ef4/index.m3u8
 #EXTINF:-1 group-title="Louisiana - New Orleans",41.1 - KNOV-CD - NOTV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Maryland",.1 - MPT-HD
@@ -107,6 +111,12 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
 http://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",2.8 - WDPN-TV - 2-PTN - Pocono Television
 http://wms-iso-1.wetmet.net/live/115-00-08/playlist.m3u8
+#EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",35.1 - WPPT - 39EXTRA - PBS 39 Extra
+https://playout6multirtmp.tulix.tv/output76-2/output76-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",39.1 - WLVT-DT - PBS 39
+https://playout6multirtmp.tulix.tv/live76-wlvtv1/live76-wlvtv1/playlist.m3u8
+#EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",39.2 - WLVT-TV - CREATE
+https://playout6multirtmp.tulix.tv/live76-wlvtv3/live76-wlvtv3/playlist.m3u8
 #EXTINF:-1 group-title="South Carolina - Myrtle Beach",8 - WGSC-CD - Beach TV Grand Stand
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Texas - El Paso",38.1 - KSCE - LIFE!
@@ -121,6 +131,8 @@ http://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 http://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 group-title="Texas - San Antonio",32.5/2.1 - KCWX 
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vermont - Burlington",3.6 - WCAX-TV - 3NN - 3 News Now
+https://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjI3MzQyLCJtZDUiOiJkNDI3NmYwMTJlMTAwNzBhZmE1MzQ5Y2Q3NGJkZDJhZiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.Dsfud-ksBdsOoudnh790ABGOq-x6E2CJCyV_bELOTDg
 #EXTINF:-1 group-title="Wisconsin - Green Bay",2.2 - WBAY-TV - WBAY-WX - First Alert Weather 24/7
 https://d2jni005khp8n7.cloudfront.net/out/gray-wbaywx-rtmp-v3/live.m3u8
 #EXTINF:-1 group-title="",
