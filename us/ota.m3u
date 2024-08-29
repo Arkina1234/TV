@@ -24,7 +24,7 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 group-title="Alabama - Mobile",25 - WAWD - Beach TV Gulf Coast
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Alaska",360 North
-https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
+https://live-linear.global.ssl.fastly.net/persis/2147483647_KTOO360TV.stream_247/chunklist.m3u8
 #EXTINF:-1 group-title="California",CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="California",CMC-USA
@@ -38,7 +38,7 @@ http://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1 group-title="California - San Francisco",60.1 - KPJK
 http://norcalpublic-hls.secdn.net/norcalpublic-live/play/KPJK.smil/playlist.m3u8
 #EXTINF:-1 group-title="Florida",The Florida Channel
-http://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_50if848o/protocol/https/format/applehttp/protocol/http/a.m3u8
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/protocol/http/a.m3u8
 #EXTINF:-1 group-title="Florida - Key West",36 - WCAY-CD - Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Florida - Miami",10.7/10.4 - WPLG - LOCL10+ (streaming)
@@ -96,7 +96,7 @@ https://d2up1hmow19bcd.cloudfront.net/livecf/capitalotb/playlist.m3u8
 #EXTINF:-1 group-title="North Carolina - Greensville",16.1 - WGGS-TV
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="Ohio",The Ohio Channel
-http://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
+https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8
 #EXTINF:-1 group-title="Ohio - Columbus",39.1 - WOCB-CD - COACB
 http://bozztv.com/cus01/coacb/coacb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ohio - Lima",44.2 - WLMA - WOSN_DT
