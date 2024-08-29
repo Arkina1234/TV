@@ -99,6 +99,14 @@ https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8
 #EXTINF:-1 group-title="Ohio - Columbus",39.1 - WOCB-CD - COACB
 http://bozztv.com/cus01/coacb/coacb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ohio - Dayton",40.1 - WRCX-LD - WRCXHD1
+https://watchwrcx.com:8080/401/video.m3u8
+#EXTINF:-1 group-title="Ohio - Dayton",40.2 - WRCX-LD - WRCXHD2
+https://watchwrcx.com:8080/402/video.m3u8
+#EXTINF:-1 group-title="Ohio - Dayton",40.3 - WRCX-LD - WRCXSD3
+https://watchwrcx.com:8081/403/video.m3u8
+#EXTINF:-1 group-title="Ohio - Dayton",40.3 - WRCX-LD - WRCXSD3
+https://watchwrcx.com:8081/404/video.m3u8
 #EXTINF:-1 group-title="Ohio - Lima",44.2 - WLMA - WOSN_DT
 https://cdn3.wowza.com/1/K1NDYm90dUgyTXZK/WlQrOE92/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Ohio - Toledo",40.1 - WLMB-TV - Toledo's Christian Station
