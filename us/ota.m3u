@@ -142,7 +142,7 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
 #EXTINF:-1 group-title="Oregon - Medford",18.1 - KDOV-LD - theDove
 http://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania",Pocono Television
-http://arkina1234.infinityfreeapp.com/livestream_m3u8.php?id=accounts/31309432/events/11164230
+http://arkina1234.infinityfreeapp.com/livestream.m3u8?id=accounts/31309432/events/11164230
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",35.1 - WPPT - 39EXTRA - PBS 39 Extra
 https://playout6multirtmp.tulix.tv/output76-2/output76-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",39.1 - WLVT-DT - PBS 39
@@ -150,7 +150,7 @@ https://playout6multirtmp.tulix.tv/live76-wlvtv1/live76-wlvtv1/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",39.2 - WLVT-TV - CREATE
 https://playout6multirtmp.tulix.tv/live76-wlvtv3/live76-wlvtv3/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",60.1 - WBPH-TV
-http://arkina1234.infinityfreeapp.com/livestream_m3u8.php?id=accounts/31252136/events/10721265
+http://arkina1234.infinityfreeapp.com/livestream.m3u8?id=accounts/31252136/events/10721265
 #EXTINF:-1 group-title="South Carolina - Myrtle Beach",8 - WGSC-CD - Beach TV Grand Stand
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Texas - El Paso",38.1 - KSCE - LIFE!
@@ -170,5 +170,5 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access
 #EXTINF:-1 group-title="Wisconsin - Green Bay",2.2 - WBAY-TV - WBAY-WX - First Alert Weather 24/7
 https://d2jni005khp8n7.cloudfront.net/out/gray-wbaywx-rtmp-v3/live.m3u8
 #EXTINF:-1 group-title="Wisconsin - Milwaukee",30 - WVCY-TV - VCY America
-http://arkina1234.infinityfreeapp.com/livestream_m3u8.php?id=accounts/30337923/events/11163434
+http://arkina1234.infinityfreeapp.com/livestream.m3u8?id=accounts/30337923/events/11163434
 #EXTINF:-1 group-title="",
