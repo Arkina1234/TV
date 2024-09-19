@@ -68,11 +68,11 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 group-title="Kentucky",.2 - KET2
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 #EXTINF:-1 group-title="Kentucky",.3 - KETKY
-https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/chunklist_b600000.m3u8
 #EXTINF:-1 group-title="Kentucky",.4 - KETKIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 group-title="Kentucky",22.5-34.5/54.5-68.5 - WCVN-TV/WKMJ-TV - KETWRLD
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/chunklist_b600000.m3u8
 #EXTINF:-1 group-title="Louisiana - Baton Rouge",2.2-36.2 - WBRZ-TV - NEWS 2
 https://d1wdgbxqfhyvfu.cloudfront.net/Content/HLS/Live/channel(wbrzplus)/wbrzplus.m3u8
 #EXTINF:-1 group-title="Louisiana - Baton Rouge",36.3 - KBTR-CD - WX
