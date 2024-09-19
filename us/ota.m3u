@@ -89,6 +89,10 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
 #EXTINF:-1 group-title="Michigan",Michigan Learning Channel
 https://d2jalth387y2js.cloudfront.net/test.m3u8
+#EXTINF:-1 group-title="Missouri - Jefferson City",8.1 - KOMU-DT - KOMU 8
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 group-title="Missouri - Jefferson City",8.3 - KOMU-CW - Mid-Missouri CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 group-title="Missouri - Kansas City",25.1 - KCKS-LD
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 group-title="Missouri - Kansas City",25.2 - KCKS-LD - NewsNet
