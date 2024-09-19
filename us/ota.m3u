@@ -121,10 +121,18 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 https://content-aapm1.uplynk.com/channel/703a29a9e3c249288bb0babc01f73a94.m3u8
 #EXTINF:-1 group-title="New York - Albany",23.2 - WXXA-TV - WXXA-OT - OTB TV
 https://stream.castr.net/6661fe929711aa9fdfbacf40/live_ef522430243111ef8ea87d66ec1e11d3/index.m3u8
+#EXTINF:-1 group-title="Nebraska",xx.1 - NE-PBS
+https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+#EXTINF:-1 group-title="Nebraska",xx.2 - NE-W
+https://d3bpna7ua68cn6.cloudfront.net/out/v1/bfe93f9852004ad199ed69890cfa8784/index.m3u8
 #EXTINF:-1 group-title="North Carolina - Greensville",16.1 - WGGS-TV
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="North Carolina - Raleigh",34 - WNGT-CD - WRAL Plus
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live
+#EXTINF:-1 group-title="North Dakota",BEK News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 group-title="North Dakota",BEK Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ohio",The Ohio Channel
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8
 #EXTINF:-1 group-title="Ohio - Cincinnati",25.1 - WBQC-LD
