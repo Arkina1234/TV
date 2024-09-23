@@ -9,6 +9,10 @@ http://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 http://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 group-title="California - San Diego",CityTV San Diego
 http://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
+#EXTINF:-1 group-title="Connecticut",News 12 Connecticut
+https://live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
+#EXTINF:-1 group-title="Connecticut",News 12+ Connecticut
+https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCN
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="District of Columbia",DKN
@@ -21,6 +25,8 @@ http://securestream7.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8
 http://securestream7.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8
 #EXTINF:-1 group-title="District of Columbia",Focus
 http://securestream7.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
+#EXTINF:-1 group-title="Louisiana - New Orleans",HTV-10 (KFOL-CD/KJUN-CD)
+https://stream.castr.net/6672e294d2ff6dbd6fe92983/live_9e8e7f002e4311ef82fa1fcee3db9ef4/index.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN News & Info
 http://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN Community
@@ -35,6 +41,26 @@ https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
 http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/user/ClarkCountyNV/live
 #EXTINF:-1 group-title="Nevada - Las Vegas",KCLV
 http://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
+#EXTINF:-1 group-title="New Jersey",News 12 New Jersey
+https://live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
+#EXTINF:-1 group-title="New Jersey",News 12+ New Jersey
+https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12 Long Island
+https://live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 group-title=New York"",News 12 Westchester
+https://live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12 The Bronx
+https://live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12 Brooklyn
+https://live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12 Hudson Valley
+https://live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12+ Westchester
+https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12+ New York
+https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 group-title="New York",News 12+ Long Island
+https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Omni
 http://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Arts
