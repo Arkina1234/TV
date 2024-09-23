@@ -150,7 +150,7 @@ https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
 #EXTINF:-1 group-title="Oklahoma - Tulsa",35.1 - KRSU-TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:202742-1432010/playlist.m3u8
 #EXTINF:-1 group-title="Oklahoma - Tulsa",35.2 - KRSU-TV - FNX
-https://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/chunklist_b600000.m3u8
 #EXTINF:-1 group-title="Oregon - Medford",18.1 - KDOV-LD - theDove
 https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania",Pocono Television
@@ -168,9 +168,9 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1 group-title="South Carolina - Myrtle Beach",8 - WGSC-CD - Beach TV Grand Stand
 https://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Texas - El Paso",38.1 - KSCE - LIFE!
-https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/amlst:200226-1359204-1/playlist.m3u8
 #EXTINF:-1 group-title="Texas - El Paso",38.2 - KSCE - VIDA
-https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024-1/playlist.m3u8
 #EXTINF:-1 group-title="Texas - El Paso",38.3 - KSCE - ETTV - End Times TV
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 #EXTINF:-1 group-title="Texas - Harlingen",5.2 - WRGV-TV - NRGV
