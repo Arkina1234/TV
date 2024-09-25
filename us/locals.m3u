@@ -241,6 +241,8 @@ https://linear-704.frequency.stream/dist/newson/704/hls/master/playlist.m3u8
 https://linear-707.frequency.stream/dist/newson/707/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",FOX 26 KMPH News
 https://linear-711.frequency.stream/dist/newson/711/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",KATU 2 On Your Side
+https://linear-710.frequency.stream/dist/newson/710/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",WJAC 6 News
 https://linear-698.frequency.stream/dist/newson/698/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",KOMO News
