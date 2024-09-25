@@ -223,34 +223,34 @@ https://linear-681.frequency.stream/dist/newson/681/hls/master/playlist.m3u8
 https://linear-688.frequency.stream/dist/newson/688/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Local 12 News
 https://linear-691.frequency.stream/dist/newson/691/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",ABC 6 On Your Side
-https://linear-689.frequency.stream/dist/newson/689/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",FOX 25 News
 https://linear-705.frequency.stream/dist/newson/705/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",News 3 Las Vegas
 https://linear-708.frequency.stream/dist/newson/708/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",ABC 6 On Your Side
+https://linear-689.frequency.stream/dist/newson/689/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",News 4 San Antonio
+https://linear-703.frequency.stream/dist/newson/703/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Dayton 24/7 Now
 https://linear-690.frequency.stream/dist/newson/690/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",CBS 12 News
 https://linear-692.frequency.stream/dist/newson/692/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",CBS Austin
 https://linear-704.frequency.stream/dist/newson/704/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",News 4 San Antonio
-https://linear-703.frequency.stream/dist/newson/703/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",KUTV Channel 2 News
+https://linear-707.frequency.stream/dist/newson/707/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",FOX 26 KMPH News
 https://linear-711.frequency.stream/dist/newson/711/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC 10 WJAR
-https://linear-694.frequency.stream/dist/newson/694/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",FOX 11 News
-https://linear-702.frequency.stream/dist/newson/702/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WSBT 22
-https://linear-693.frequency.stream/dist/newson/693/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",WJAC 6 News
 https://linear-698.frequency.stream/dist/newson/698/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",KOMO News
 https://linear-709.frequency.stream/dist/newson/709/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",KUTV Channel 2 News
-https://linear-707.frequency.stream/dist/newson/707/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",NBC 10 WJAR
+https://linear-694.frequency.stream/dist/newson/694/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",FOX 11 News Green Bay
+https://linear-702.frequency.stream/dist/newson/702/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local News",WSBT 22
+https://linear-693.frequency.stream/dist/newson/693/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Local News",News4JAX Plus
 https://web.wjxt-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
 #EXTINF:-1 group-title="Local News",Local 4+
