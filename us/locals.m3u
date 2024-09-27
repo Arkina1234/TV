@@ -65,6 +65,40 @@ https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
 https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Local News",NBC Connecticut News
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Fox 5 New York
+https://aegis-cloudfront-1.tubi.video/78391ebf-985c-4a49-869c-a19041ccd41a/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 11 Los Angeles
+https://aegis-cloudfront-1.tubi.video/4a112709-ae99-4138-bd7c-0a944f519384/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 32 Chicago
+https://aegis-cloudfront-1.tubi.video/812215fe-dd68-4878-ac10-5dbda1d19e60/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 29 Philadelphia
+https://aegis-cloudfront-1.tubi.video/c9e09bbd-2bdd-4ab6-959a-0953a0267b61/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 4 KDFW
+https://aegis-cloudfront-1.tubi.video/675a28a1-10b8-4215-bf37-bd821fa2c7bc/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 26 Houston
+https://aegis-cloudfront-1.tubi.video/73713e05-3738-4b06-9540-8c9ba0e0c3fb/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 2 KTVU
+https://aegis-cloudfront-1.tubi.video/bde8f972-bfd6-4475-9d90-1c6a9ab71f1a/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 5 Atlanta
+https://aegis-cloudfront-1.tubi.video/90ed6e40-545b-4773-9370-1d79944b3572/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 5 Washington DC
+https://aegis-cloudfront-1.tubi.video/b749bd8d-516c-4d26-a2c0-fcf9bb836a08/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 2 Detroit
+https://aegis-cloudfront-1.tubi.video/ac853300-5182-4818-83a5-15e6791e4ef7/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 13 Seattle
+https://aegis-cloudfront-1.tubi.video/27d4e300-73b8-49ae-86d8-2c28567aab23/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 9 KMSP
+https://aegis-cloudfront-1.tubi.video/862eb89b-2430-4863-83bc-73b55dadd9b4/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 10 Phoenix
+https://aegis-cloudfront-1.tubi.video/b6a98868-816a-458d-a089-923778b2729f/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 13 Tampa Bay
+https://aegis-cloudfront-1.tubi.video/086864ef-ec57-4864-886b-0f3d9093ed89/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 35 Orlando
+https://aegis-cloudfront-1.tubi.video/34290680-0d3f-4c95-84c7-f06c08ff78ed/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 6 WITI-Milwaukee
+https://aegis-cloudfront-1.tubi.video/850dcf5c-087b-44d4-94de-30e59221549d/index.m3u8
+#EXTINF:-1 group-title="Local News",Fox 7 Austin
+https://aegis-cloudfront-1.tubi.video/222b64c9-b12f-4225-8295-de9e69040d66/index.m3u8
 #EXTINF:-1 group-title="Local News",WSB Now
 https://amg00327-coxmediagroup-wsbbreaking-ono-o873b.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Boston 25 Now
