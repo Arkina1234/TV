@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1,CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,48 Hours
+https://48hoa39aa69.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1,60 Minutes
+https://60mi203g0hb.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1,CBS Sports HQ
+https://propee33f9c2.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1,CBS Sports Golazo Network
+https://golazf8g649b.airspace-cdn.cbsivideo.com/hls/master.m3u8
+#EXTINF:-1,ET Now
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+#EXTINF:-1,AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8
+#EXTINF:-1,BUZZR
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1,Circle Country
+https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
+#EXTINF:-1,Electric NOW
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:-1,Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1,Estrella News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+#EXTINF:-1,Estrella Games
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1,ION
+https://d17c57c9d84m4s.cloudfront.net/Ion_US.m3u8
+#EXTINF:-1,ION Mystery
+https://d202aedyflofmo.cloudfront.net/Ion_Mystery_US.m3u8
+#EXTINF:-1,ION Plus
+https://d3bqtyq9ihrj5i.cloudfront.net/Ion_Plus_US.m3u8
+#EXTINF:-1,NTD
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+#EXTINF:-1,Outside TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
+#EXTINF:-1,Revry
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1,Salem News Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playlist.m3u8
+#EXTINF:-1,SportsGrid
+https://amg00315-sportsgridfast-amg00315c1-sportsgrid-us-1271.playouts.now.amagi.tv/playlist/amg00315-sportsgridfast-sportsgrid-sportsgridus/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv1624i-ono/playlist.m3u8
+#EXTINF:-1,Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
+#EXTINF:-1,Tastemade Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/playlist.m3u8
+#EXTINF:-1,Tastemade En Espanol
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:-1,Tastemade International
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8
+#EXTINF:-1,asiancrush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1,Midnight Pulp
+https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
+#EXTINF:-1,Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1,The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1,Retro Crush
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+#EXTINF:-1,Dove Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1,ScreamBox TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+#EXTINF:-1,Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+#EXTINF:-1,Dog Whisperer
+https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8
+#EXTINF:-1,Lone Star
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
+#EXTINF:-1,The Bob Ross Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
+#EXTINF:-1,MeatEater
+https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
+#EXTINF:-1,Entrepreneur TV
+https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8
+#EXTINF:-1,SoReal
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1,Qwest TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-ono/playlist.m3u8
+#EXTINF:-1,The Design Network
+https://thedesignnetwork-tdn-2-us.xumo.wurl.tv/manifest/playlist.m3u8
