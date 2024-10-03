@@ -1,57 +1,48 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera English [SD]
-#EXTVLCOPT:http-referrer=https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-https://live-hls-web-aje.getaj.net/AJE-b/06.m3u8
-#EXTINF:-1,BYU TV
-https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
-#EXTINF:-1,CGTN [SD]
-#EXTVLCOPT:http-referrer=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-https://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,Classic Arts Showcase [SD]
-#EXTVLCOPT:http-referrer=https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
-#EXTINF:-1,Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1,Cowboy Channel
-https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/.m3u8
-#EXTINF:-1,Dabl
-https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
-#EXTINF:-1,DW English [SD]
-#EXTVLCOPT:http-referrer=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream01/streamPlaylist.m3u8
-#EXTINF:-1,EWTN
-https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
-#EXTINF:-1,France 24 English [SD]
-#EXTVLCOPT:http-referrer=https://viewmedia-hls-7.unreel.me/live_091/HD/playlist.m3u8
-https://viewmedia-hls-7.unreel.me/live_091/HD/live91_1/low/chunks.m3u8
-#EXTINF:-1,FOX Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1,FSTV
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1,HSN
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1,Newsmax TV
+#EXTINF:-1 tvg-group="News" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s96827_dark_360w_270h.png",Scripps News
+https://d3bm57axgo0g6i.cloudfront.net/out/v1/fa7cbb1e545142a18026aef154871f42/index.m3u8
+#EXTINF:-1 tvg-group="News" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121162_dark_360w_270h.png",Newsmax2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,NHK World-Japan [SD]
-#EXTVLCOPT:http-referrer=https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
-#EXTINF:-1,PBS KIDS
-https://d3afonbm0qxmbc.cloudfront.net/est.m3u8
-#EXTINF:-1,QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1,RFD-TV
-https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/.m3u8
-#EXTINF:-1,Scripps News
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1,TBN
-https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/.m3u8
-#EXTINF:-1,TBN Inspire
-https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
-#EXTINF:-1,The Grio
+#EXTINF:-1 tvg-group="Weather" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93141_dark_360w_270h.png",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-group="Crime" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111043_dark_360w_270h.png",Court TV
+https://d21niorw6ywvgl.cloudfront.net/out/v1/58680ea755d94e089fd8a13e0ce2c174/index.m3u8
+#EXTINF:-1 tvg-group="Crime" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109553_dark_360w_270h.png",Law & Crime
+https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s155158_dark_360w_270h.png",Merit Street
+https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116018_dark_360w_270h.png",The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
-#EXTINF:-1,UniMás Este [SD]
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_800_pc.m3u8?t1=&fdvr=dvr
-#EXTINF:-1,Univision Este [SD]
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_800_pc.m3u8?t1=&fdvr=dvr
-#EXTINF:-1,Victory Channel
-https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS Kids
+https://urs.pbs.org/redirect/a87f70906f224dffbc247bfba983d90e/
+#EXTINF:-1 tvg-group="Education" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56725_dark_360w_270h.png",World Channel
+https://urs.pbs.org/redirect/8868bd5f66254c18b448fada8fd74ce1/
+#EXTINF:-1 tvg-group="World" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59155_dark_360w_270h.png",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-group="Music" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69639_dark_360w_270h.png",The Country Network
+https://tcn-live.cdn.vustreams.com/live/feddb25b-7367-49e4-bbb6-48af01ca7407/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-group="Religious" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14767_dark_360w_270h.png",TBN
+https://tbn-jw.cdn.vustreams.com/live/tbn-ssai/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-group="Religious" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122276_dark_360w_270h.png",TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",Smile
+https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-group="Family" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34169_dark_360w_270h.png",Positiv
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11069_dark_360w_270h.png",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82682_dark_360w_270h.png",QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101260_dark_360w_270h.png",QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10269_dark_360w_270h.png",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10270_dark_360w_270h.png",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14948_dark_360w_270h.png",ShopHQ
+https://live.shophq.com/evine/cleanfeed/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56032_dark_360w_270h.png",Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+#EXTINF:-1 tvg-group="Shopping" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16604_dark_360w_270h.png",Jewelry TV
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+
