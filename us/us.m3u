@@ -29,6 +29,10 @@ https://urs.pbs.org/redirect/8868bd5f66254c18b448fada8fd74ce1/
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86894_dark_360w_270h.png",DW-TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66281_dark_360w_270h.png",Biz Television
+https://2-fss-1.streamhoster.com/pl_122/205722-2407996-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111508_dark_360w_270h.png",Right Now TV
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69639_dark_360w_270h.png",The Country Network
 https://tcn-live.cdn.vustreams.com/live/feddb25b-7367-49e4-bbb6-48af01ca7407/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14767_dark_360w_270h.png",TBN
@@ -47,6 +51,8 @@ https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49266_dark_360w_270h.png",Hope Channel
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14355_dark_360w_270h.png",Cornerstone Television
+https://2-fss-1.themediacdn.com/pl_122/amlst:206280-3059514-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33527_dark_360w_270h.png",Enlace
 https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49987_dark_360w_270h.png",3ABN Latino
