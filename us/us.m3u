@@ -75,7 +75,5 @@ https://war.streamguys1.com:7185/live
 https://war.streamguys1.com:7185/Latino
 #EXTINF:-1 tvg-id="" tvg-logo="" radio="true",Radio 74
 http://radio74.dyndns.org:8000/radio74stlint.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="" radio="true",LifeTalk Radio
-https://ais-sa1.streamon.fm/7013_64k.aac
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",
 
