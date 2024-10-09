@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s96827_dark_360w_270h.png",Scripps News
 https://d3bm57axgo0g6i.cloudfront.net/out/v1/fa7cbb1e545142a18026aef154871f42/index.m3u8
-#EXTINF:-1 tvg-id="Newsmax2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121162_dark_360w_270h.png",Newsmax2
+#EXTINF:-1 tvg-id="Newsmax2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121162_dark_360w_270h.png",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93141_dark_360w_270h.png",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -11,21 +11,21 @@ https://d21niorw6ywvgl.cloudfront.net/out/v1/58680ea755d94e089fd8a13e0ce2c174/in
 https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="MeritStreet.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s155158_dark_360w_270h.png",Merit Street
 https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="TheGrioTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116018_dark_360w_270h.png",The Grio
+#EXTINF:-1 tvg-id="TheGrioTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101752_dark_360w_270h.png",The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png",Comet
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 tvg-id="Charge.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102148_dark_360w_270h.png",Charge!
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102148_dark_360w_270h.png",CHARGE!
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="TBD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102116_dark_360w_270h.png",TBD
 https://usgeowall.sinclairstoryline.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s147367_dark_360w_270h.png",The Nest
 https://usgeowall.sinclairstoryline.com/channel/b468fd41b60840579668c42c096a4103.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS Kids
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
 https://urs.pbs.org/redirect/a87f70906f224dffbc247bfba983d90e/
-#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56725_dark_360w_270h.png",World Channel
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56725_dark_360w_270h.png",World
 https://urs.pbs.org/redirect/8868bd5f66254c18b448fada8fd74ce1/
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59155_dark_360w_270h.png",NHK World-Japan
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59155_dark_360w_270h.png",NHK World TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86894_dark_360w_270h.png",DW-TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -41,10 +41,14 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-ssai/live.isml/playlist.m3u8
 https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="Smile.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",Smile
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34169_dark_360w_270h.png",Positiv
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34169_dark_360w_270h.png",Positiv TV
 https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10002_dark_360w_270h.png",3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78540_dark_360w_270h.png",Dare to Dream Network
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99867_dark_360w_270h.png",3ABN Kids Network
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68985_dark_360w_270h.png",3ABN Proclaim!
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10183_dark_360w_270h.png",EWTN
