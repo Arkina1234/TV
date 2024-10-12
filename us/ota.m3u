@@ -1,22 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="National",TBN
-https://tbn-jw.cdn.vustreams.com/live/tbn-ssai/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",Inspire - Church
-https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",Smile
-https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",World Channel (members only)
-https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="National",FNX (members only)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-#EXTINF:-1 group-title="National",T2 (steaming)
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
-#EXTINF:-1 group-title="National",The Country Network
-https://tcn-live.cdn.vustreams.com/live/feddb25b-7367-49e4-bbb6-48af01ca7407/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="National",ShopLC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
-#EXTINF:-1 group-title="National",JTVHD
-https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+#EXTINF:-1 group-title="National",theDove
+https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
+#EXTINF:-1 group-title="National",theDove (alt)
+https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Alabama",.3 - CREATE 
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
 #EXTINF:-1 group-title="Alabama",.4 - WORLD
@@ -28,7 +14,7 @@ https://live-linear.global.ssl.fastly.net/persis/2147483647_KTOO360TV.stream_247
 #EXTINF:-1 group-title="California",CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="California",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+https://mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/entryId/0_obd393sh/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="California - Fresno",7.10 - KAIL - SUMTV
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 group-title="California - Fresno",7.11 - KAIL - SUMTV Latino
@@ -151,8 +137,6 @@ https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
 https://2-fss-2.streamhoster.com/pl_120/amlst:202742-1432010/playlist.m3u8
 #EXTINF:-1 group-title="Oklahoma - Tulsa",35.2 - KRSU-TV - FNX
 https://2-fss-1.streamhoster.com/pl_122/amlst:202742-2440346/chunklist_b600000.m3u8
-#EXTINF:-1 group-title="Oregon - Medford",18.1 - KDOV-LD - theDove
-https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania",Pocono Television
 https://livestream-arkina1234.tiiny.io/?id=accounts/31309432/events/11164230
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia/Lehigh Valley",35.1/DT7.5/DT9.5/DT27.5 - WPPT - 39EXTRA - PBS 39 Extra
