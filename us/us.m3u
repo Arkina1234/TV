@@ -93,7 +93,19 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 https://war.streamguys1.com:7185/live
 #EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79937_dark_360w_270h.png" radio="true",3ABN Latino Radio
 https://war.streamguys1.com:7185/Latino
-#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="" radio="true",Radio 74
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78815_dark_360w_270h.png" radio="true",Radio 74
 http://radio74.dyndns.org:8000/radio74stlint.mp3
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29659_dark_360w_270h.png" radio="true",CRN1
+http://64.78.234.173:8506/;
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29660_dark_360w_270h.png" radio="true",CRN2
+http://64.78.234.173:8508/;
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29670_dark_360w_270h.png" radio="true",CRN3
+http://64.78.234.173:8510/;
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29671_dark_360w_270h.png" radio="true",CRN4
+http://64.78.234.173:8512/;
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29675_dark_360w_270h.png" radio="true",CRN5
+http://64.78.234.173:8514/;
+#EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29676_dark_360w_270h.png" radio="true",CRN6
+http://64.78.234.173:8516/;
 #EXTINF:-1 tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",
 
