@@ -90,24 +90,26 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16604_dark_360w_270h.png",Jewelry TV
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68938_dark_360w_270h.png" radio="true",3ABN Radio
-https://war.streamguys1.com:7185/live
+http://war.streamguys1.com:7185/live
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79937_dark_360w_270h.png" radio="true",3ABN Latino Radio
-https://war.streamguys1.com:7185/Latino
+http://war.streamguys1.com:7185/Latino
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78815_dark_360w_270h.png" radio="true",Radio 74
 http://radio74.dyndns.org:8000/radio74stlint.mp3
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35118_dark_360w_270h.png" radio="true",BOTT Radio Network
 http://streaming.live365.com/a71179
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29659_dark_360w_270h.png" radio="true",CRN1
-http://64.78.234.173:8506/;
+http://listen.warpradio.com:8020/CRN1
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29660_dark_360w_270h.png" radio="true",CRN2
-http://64.78.234.173:8508/;
+http://listen.warpradio.com:8020/CRN2
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29670_dark_360w_270h.png" radio="true",CRN3
-http://64.78.234.173:8510/;
+http://listen.warpradio.com:8020/CRN3
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29671_dark_360w_270h.png" radio="true",CRN4
-http://64.78.234.173:8512/;
+http://listen.warpradio.com:8020/CRN4
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29675_dark_360w_270h.png" radio="true",CRN5
-http://64.78.234.173:8514/;
+http://listen.warpradio.com:8020/CRN5
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29676_dark_360w_270h.png" radio="true",CRN6
-http://64.78.234.173:8516/;
+http://listen.warpradio.com:8020/CRN6
+#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73583_dark_360w_270h.png" radio="true",CRN7
+http://listen.warpradio.com:8020/CRN7
 #EXTINF:-1 group-title="" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",
 
