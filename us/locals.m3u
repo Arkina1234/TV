@@ -116,53 +116,55 @@ https://amg00327-coxmediagroup-wpxibreaking-ono-y9dml.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Local News",KIRO 7 Now
 https://amg00327-coxmediagroup-kirobreaking-ono-mzefy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Local News",WUSA 9+
-https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+https://playback.tegnaone.com/live/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WXIA 11 Alive+
-https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
+https://playback.tegnaone.com/wxia/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KPNX 12News+
-https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
+https://playback.tegnaone.com/kpnx/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KUSA 9 News+
-https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+https://playback.tegnaone.com/kusa/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KARE 11+
-https://livevideo.tegnadigital.com/kare/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE/elvs/live.m3u8
+https://playback.tegnaone.com/kare/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WTLV NBC 12+
-https://livevideo.tegnadigital.com/wtlv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTLV/elvs/live.m3u8
+https://playback.tegnaone.com/wtlv/live/index.m3u8
 #EXTINF:-1 group-title="Local News",THV 11+
-https://livevideo.tegnadigital.com/kthv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTHV/elvs/live.m3u8
+https://playback.tegnaone.com/kthv/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KSDK 5+ On Your Side
-https://livevideo.tegnadigital.com/ksdk/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KSDK/elvs/live.m3u8
+https://playback.tegnaone.com/ksdk/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WKYC 3 News+
-https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
+https://playback.tegnaone.com/wkyc/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WTSP 10+ Tampa Bay
-https://livevideo.tegnadigital.com/wtsp/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP/elvs/live.m3u8
+https://playback.tegnaone.com/wtsp/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WCSH 6+
-https://livevideo.tegnadigital.com/wcsh/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCSH/elvs/live.m3u8
+https://playback.tegnaone.com/wcsh/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WWL-TV Channel 4+
-https://livevideo.tegnadigital.com/wwl/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WWL/elvs/live.m3u8
+https://playback.tegnaone.com/wwl/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WCNC+ Charlotte
-https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
+https://playback.tegnaone.com/wcnc/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KVUE+
-https://livevideo.tegnadigital.com/kvue/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KVUE/elvs/live.m3u8
+https://playback.tegnaone.com/kvue/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WFAA 8+
-https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
+https://playback.tegnaone.com/wfaa/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KHOU 11+
-https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+https://playback.tegnaone.com/khou/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KENS 5+
-https://livevideo.tegnadigital.com/kens/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KENS/elvs/live.m3u8
+https://playback.tegnaone.com/kens/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KING 5+
-https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
+https://playback.tegnaone.com/king/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WHAS 11+
-https://livevideo.tegnadigital.com/whas/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WHAS/elvs/live.m3u8
+https://playback.tegnaone.com/whas/live/index.m3u8
 #EXTINF:-1 group-title="Local News",KGW 8+
-https://livevideo.tegnadigital.com/kgw/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KGW/elvs/live.m3u8
+https://playback.tegnaone.com/kgw/live/index.m3u8
 #EXTINF:-1 group-title="Local News",CBS 8+ San Diego
-https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
+https://playback.tegnaone.com/kfmb/live/index.m3u8
 #EXTINF:-1 group-title="Local News",Fox 61+ Hartford
-https://livevideo.tegnadigital.com/wtic/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC/elvs/live.m3u8
+https://playback.tegnaone.com/wtic/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WTHR Channel 13+
-https://livevideo.tegnadigital.com/wthr/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTHR/elvs/live.m3u8
+https://playback.tegnaone.com/wthr/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WBNS 10TV+
-https://livevideo.tegnadigital.com/wbns/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WBNS/elvs/live.m3u8
+https://playback.tegnaone.com/wbns/live/index.m3u8
+#EXTINF:-1 group-title="Local News",WGRZ 2+
+https://playback.tegnaone.com/wgrz/live/index.m3u8
 #EXTINF:-1 group-title="Local News",WCPO 9
 https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8
 #EXTINF:-1 group-title="Local News",WEWS 5
