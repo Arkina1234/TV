@@ -96,7 +96,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132317_dark_360w_270h.png",Sensical Jr.
 https://sensical2up-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132320_dark_360w_270h.png",Sensical Makers
-https://sensical6up-oando.amagi.tv/playlist.m3u8
+https://sensical5up-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132319_dark_360w_270h.png",Sensical Gaming
 https://sensical8up-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s126634_dark_360w_270h.png",Toon Goggles
@@ -143,6 +143,8 @@ https://lds-donttellbride-simplestream.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130620_dark_360w_270h.png",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s158131_dark_360w_270h.png",MovieSphere by Lionsgate
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111132_dark_360w_270h.png",Shout! TV
 https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124312_dark_360w_270h.png",Midnight Pulp
